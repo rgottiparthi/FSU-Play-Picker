@@ -1,4 +1,5 @@
 import csv
+import re
 
 # Function to parse the play-by-play data and extract relevant information
 def parse_play_by_play(file_path):
@@ -32,6 +33,7 @@ def parse_play_by_play(file_path):
             # Check for lines that start with the down
             elif line.startswith(("1st", "2nd", "3rd", "4th")):
                 play_type = "NONE"
+                net_yards = 0
 
                 # Check for play types
                 if "rush right" in line:
@@ -47,17 +49,28 @@ def parse_play_by_play(file_path):
                 elif "kick attempt" in line:
                     play_type = "kick attempt"
 
+                # Use regular expression to find net yards
+                match = re.search(r'(\d+)(?= yards)', line)
+                if match:
+                    net_yards = int(match.group())
+
+                    # Check for "loss" in the line
+                    if "loss" in line:
+                        net_yards *= -1
+
                 # Check for offense
                 if "Florida St." in line and "drive start" in line:
                     offense = True
+                    continue
                 elif "drive start" in line:
                     offense = False
+                    continue
 
                 # Skip the line if offense is False
                 if not offense:
                     continue
 
-                plays.append((current_quarter, play_number, play_type, line))
+                plays.append((current_quarter, play_number, play_type, net_yards, line))
                 play_number += 1
 
     return plays
@@ -65,12 +78,12 @@ def parse_play_by_play(file_path):
 # Function to write the parsed plays to a CSV file
 def write_to_csv(plays, csv_file):
     with open(csv_file, 'w', newline='') as csvfile:
-        fieldnames = ['Quarter', 'Play Number', 'Play Type', 'Play Description']
+        fieldnames = ['Quarter', 'Play Number', 'Play Type', 'Net Yards', 'Play Description']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
         for play in plays:
-            writer.writerow({'Quarter': play[0], 'Play Number': play[1], 'Play Type': play[2], 'Play Description': play[3]})
+            writer.writerow({'Quarter': play[0], 'Play Number': play[1], 'Play Type': play[2], 'Net Yards': play[3], 'Play Description': play[4]})
 
 if __name__ == "__main__":
     file_path = "play-by-plays/southern-mississippi.txt"
