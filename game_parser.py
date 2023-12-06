@@ -33,6 +33,7 @@ def parse_play_by_play(file_path):
 
             # Check for lines that start with the down
             elif line.startswith(("1st", "2nd", "3rd", "4th")):
+                down = int(line[0])
                 play_type = "NONE"
                 net_yards = 0
 
@@ -71,7 +72,7 @@ def parse_play_by_play(file_path):
                 if not offense:
                     continue
 
-                plays.append((current_quarter, play_number, play_type, net_yards, line))
+                plays.append((current_quarter, play_number, down, play_type, net_yards, line))
                 play_number += 1
 
     return plays
@@ -79,12 +80,12 @@ def parse_play_by_play(file_path):
 # Function to write the parsed plays to a CSV file
 def write_to_csv(plays, csv_file):
     with open(csv_file, 'w', newline='') as csvfile:
-        fieldnames = ['Quarter', 'Play Number', 'Play Type', 'Net Yards', 'Play Description']
+        fieldnames = ['Quarter', 'Play Number', 'Down', 'Play Type', 'Net Yards', 'Play Description']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
         for play in plays:
-            writer.writerow({'Quarter': play[0], 'Play Number': play[1], 'Play Type': play[2], 'Net Yards': play[3], 'Play Description': play[4]})
+            writer.writerow({'Quarter': play[0], 'Play Number': play[1], 'Down': play[2], 'Play Type': play[3], 'Net Yards': play[4], 'Play Description': play[5]})
 
 if __name__ == "__main__":
     directory_path = "play-by-plays"
