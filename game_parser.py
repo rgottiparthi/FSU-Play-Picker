@@ -68,11 +68,15 @@ def parse_play_by_play(file_path):
                     offense = False
                     continue
 
+                # Extract distance to first
+                and_match = re.search(r'and (\d+)', line)
+                distance_to_first = int(and_match.group(1)) if and_match else None
+
                 # Skip the line if offense is False
                 if not offense:
                     continue
 
-                plays.append((current_quarter, play_number, down, play_type, net_yards, line))
+                plays.append((current_quarter, play_number, down, play_type, net_yards, distance_to_first, line))
                 play_number += 1
 
     return plays
@@ -80,12 +84,12 @@ def parse_play_by_play(file_path):
 # Function to write the parsed plays to a CSV file
 def write_to_csv(plays, csv_file):
     with open(csv_file, 'w', newline='') as csvfile:
-        fieldnames = ['Quarter', 'Play Number', 'Down', 'Play Type', 'Net Yards', 'Play Description']
+        fieldnames = ['Quarter', 'Play Number', 'Down', 'Play Type', 'Net Yards', 'Distance to First', 'Play Description']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
         for play in plays:
-            writer.writerow({'Quarter': play[0], 'Play Number': play[1], 'Down': play[2], 'Play Type': play[3], 'Net Yards': play[4], 'Play Description': play[5]})
+            writer.writerow({'Quarter': play[0], 'Play Number': play[1], 'Down': play[2], 'Play Type': play[3], 'Net Yards': play[4], 'Distance to First': play[5], 'Play Description': play[6]})
 
 if __name__ == "__main__":
     directory_path = "play-by-plays"
