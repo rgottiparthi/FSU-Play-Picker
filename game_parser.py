@@ -72,6 +72,11 @@ def parse_play_by_play(file_path):
                 and_match = re.search(r'and (\d+)', line)
                 distance_to_first = int(and_match.group(1)) if and_match else None
 
+
+                # Skip lines containing "clock"
+                if "clock" in line:
+                    continue
+
                 # Skip the line if offense is False
                 if not offense:
                     continue
