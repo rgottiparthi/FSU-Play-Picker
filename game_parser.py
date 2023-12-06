@@ -36,6 +36,7 @@ def parse_play_by_play(file_path):
                 down = int(line[0])
                 play_type = "NONE"
                 net_yards = 0
+                touchdown = 0  # Initialize touchdown attribute to 0
 
                 # Check for play types
                 if "rush right" in line:
@@ -60,6 +61,10 @@ def parse_play_by_play(file_path):
                     if "loss" in line:
                         net_yards *= -1
 
+                # Check for "TOUCHDOWN" in the line
+                if "TOUCHDOWN" in line:
+                    touchdown = 1
+
                 # Check for offense
                 if "Florida St." in line and "drive start" in line:
                     offense = True
@@ -72,16 +77,15 @@ def parse_play_by_play(file_path):
                 and_match = re.search(r'and (\d+)', line)
                 distance_to_first = int(and_match.group(1)) if and_match else None
 
-
                 # Skip lines containing "clock"
-                if "clock" in line:
+                if "drive start" in line:
                     continue
 
                 # Skip the line if offense is False
                 if not offense:
                     continue
 
-                plays.append((current_quarter, play_number, down, play_type, net_yards, distance_to_first, line))
+                plays.append((current_quarter, play_number, down, play_type, net_yards, distance_to_first, touchdown, line))
                 play_number += 1
 
     return plays
@@ -89,12 +93,12 @@ def parse_play_by_play(file_path):
 # Function to write the parsed plays to a CSV file
 def write_to_csv(plays, csv_file):
     with open(csv_file, 'w', newline='') as csvfile:
-        fieldnames = ['Quarter', 'Play Number', 'Down', 'Play Type', 'Net Yards', 'Distance to First', 'Play Description']
+        fieldnames = ['Quarter', 'Play Number', 'Down', 'Play Type', 'Net Yards', 'Distance to First', 'Touchdown', 'Play Description']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
         for play in plays:
-            writer.writerow({'Quarter': play[0], 'Play Number': play[1], 'Down': play[2], 'Play Type': play[3], 'Net Yards': play[4], 'Distance to First': play[5], 'Play Description': play[6]})
+            writer.writerow({'Quarter': play[0], 'Play Number': play[1], 'Down': play[2], 'Play Type': play[3], 'Net Yards': play[4], 'Distance to First': play[5], 'Touchdown': play[6], 'Play Description': play[7]})
 
 if __name__ == "__main__":
     directory_path = "play-by-plays"
