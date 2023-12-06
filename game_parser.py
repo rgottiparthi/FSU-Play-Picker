@@ -1,3 +1,4 @@
+import os
 import csv
 import re
 
@@ -86,10 +87,16 @@ def write_to_csv(plays, csv_file):
             writer.writerow({'Quarter': play[0], 'Play Number': play[1], 'Play Type': play[2], 'Net Yards': play[3], 'Play Description': play[4]})
 
 if __name__ == "__main__":
-    file_path = "play-by-plays/southern-mississippi.txt"
+    directory_path = "play-by-plays"
     csv_file = "plays.csv"
 
-    plays = parse_play_by_play(file_path)
-    write_to_csv(plays, csv_file)
+    all_plays = []
+    for filename in os.listdir(directory_path):
+        if filename.endswith(".txt"):
+            file_path = os.path.join(directory_path, filename)
+            plays = parse_play_by_play(file_path)
+            all_plays.extend(plays)
+
+    write_to_csv(all_plays, csv_file)
 
     print(f"CSV file '{csv_file}' created successfully.")
