@@ -9,7 +9,7 @@ def parse_play_by_play(file_path):
     play_number = 1
     current_quarter = None
     offense = False
-    time_remaining = None  # Initialize time_remaining variable
+    time_remaining = None
 
     with open(file_path, 'r') as file:
         for line in file:
@@ -47,6 +47,8 @@ def parse_play_by_play(file_path):
                 play_type = "NONE"
                 net_yards = 0
                 touchdown = 0
+                field_goal = 0
+                extra_point = 0
                 sack = 0
                 first_down = 0
 
@@ -62,12 +64,16 @@ def parse_play_by_play(file_path):
                     net_yards = 0
                 elif "pass" in line:
                     play_type = "pass"
-                elif "kick attempt" in line or "field goal attempt" in line:
+                elif "field goal attempt" in line:
+                    play_type = "field goal attempt"
+                    field_goal = 1 if "GOOD" in line else 0
+                elif "kick attempt" in line:
                     play_type = "kick attempt"
+                    extra_point = 1 if "good" in line else 0
 
                 # Use regular expression to find net yards
                 match = re.search(r'(\d+)(?= yards)', line)
-                if match and play_type != "punt" and play_type != "kick attempt":
+                if match and play_type != "punt" and play_type != "kick attempt" and play_type != "field goal attempt":
                     net_yards = int(match.group())
 
                     # Check for "loss" in the line
@@ -137,7 +143,7 @@ def parse_play_by_play(file_path):
                     continue
 
                 # Calculate Outcome value
-                outcome = net_yards + touchdown * 180 + first_down * 10 - sack * 10
+                outcome = net_yards + touchdown * 180 + field_goal * 90 + extra_point *30 + first_down * 10
 
                 # Calculate time_remaining in seconds based on the new formula
                 total_time_remaining = (4 - current_quarter) * 900 + int(time_remaining)
