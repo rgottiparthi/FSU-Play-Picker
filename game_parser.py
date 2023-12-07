@@ -7,6 +7,7 @@ import random
 def parse_play_by_play(file_path):
     plays = []
     play_number = 1
+    current_quarter = None
     offense = False
     time_remaining = None  # Initialize time_remaining variable
 
@@ -139,7 +140,7 @@ def parse_play_by_play(file_path):
                 outcome = net_yards + touchdown * 180 + first_down * 10 - sack * 10
 
                 # Calculate time_remaining in seconds based on the new formula
-                total_time_remaining = (4 - current_quarter) * 900 + int(time_remaining)
+                time_remaining = (4 - current_quarter) * 900 + int(time_remaining)
 
                 # Set the 'best' string based on conditions
                 if outcome >= 0:
@@ -149,7 +150,7 @@ def parse_play_by_play(file_path):
                     play_types = ["rush right", "rush middle", "rush left", "pass"]
                     best = random.choice(play_types)
 
-                plays.append((total_time_remaining, play_number, down, play_type, net_yards, distance_to_first, touchdown, sack, first_down, outcome, line, best, distance_to_touchdown))
+                plays.append((current_quarter, play_number, down, play_type, net_yards, distance_to_first, touchdown, sack, first_down, outcome, line, best, distance_to_touchdown, time_remaining))
                 play_number += 1
 
     return plays
@@ -162,7 +163,7 @@ def write_to_csv(plays, csv_file):
 
         writer.writeheader()
         for play in plays:
-            writer.writerow({'Time Remaining': play[0], 'Play Number': play[1], 'Down': play[2], 'Play Type': play[3], 'Distance to First': play[5], 'Distance to Touchdown': play[11], 'Outcome': play[8], 'Play Description': play[9], 'Best': play[10]})
+            writer.writerow({'Time Remaining': play[13], 'Play Number': play[1], 'Down': play[2], 'Play Type': play[3], 'Distance to First': play[5], 'Distance to Touchdown': play[12], 'Outcome': play[9], 'Play Description': play[10], 'Best': play[11]})
 
 if __name__ == "__main__":
     directory_path = "play-by-plays"
