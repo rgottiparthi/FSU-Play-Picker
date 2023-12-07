@@ -49,6 +49,7 @@ def parse_play_by_play(file_path):
                     play_type = "rush left"
                 elif "punt" in line:
                     play_type = "punt"
+                    net_yards = 0
                 elif "pass" in line:
                     play_type = "pass"
                 elif "kick attempt" in line:
@@ -56,7 +57,7 @@ def parse_play_by_play(file_path):
 
                 # Use regular expression to find net yards
                 match = re.search(r'(\d+)(?= yards)', line)
-                if match:
+                if match and play_type != "punt" and play_type != "kick attempt":
                     net_yards = int(match.group())
 
                     # Check for "loss" in the line
@@ -89,6 +90,9 @@ def parse_play_by_play(file_path):
 
                 # Skip lines containing "clock"
                 if "drive start" in line:
+                    continue
+
+                if "kickoff" in line:
                     continue
 
                 # Skip the line if offense is False
