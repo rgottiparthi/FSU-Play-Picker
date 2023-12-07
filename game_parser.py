@@ -37,9 +37,9 @@ def parse_play_by_play(file_path):
                 down = int(line[0])
                 play_type = "NONE"
                 net_yards = 0
-                touchdown = 0  # Initialize touchdown attribute to 0
-                sack = 0  # Initialize sack attribute to 0
-                first_down = 0  # Initialize first_down attribute to 0
+                touchdown = 0
+                sack = 0
+                first_down = 0
 
                 # Check for play types
                 if "rush right" in line:
@@ -89,6 +89,13 @@ def parse_play_by_play(file_path):
                 and_match = re.search(r'and (\d+)', line)
                 distance_to_first = int(and_match.group(1)) if and_match else None
 
+
+                # Extract the first word after "at"
+                at_match = re.search(r'at (\w+)', line)
+                distance_to_touchdown = at_match.group(1) if at_match else None
+
+
+
                 # Skip lines containing "clock"
                 if "drive start" in line or "ball on" in line:
                     continue
@@ -114,7 +121,7 @@ def parse_play_by_play(file_path):
                     play_types = ["rush right", "rush middle", "rush left", "pass"]
                     best = random.choice(play_types)
 
-                plays.append((current_quarter, play_number, down, play_type, net_yards, distance_to_first, touchdown, sack, first_down, outcome, line, best))
+                plays.append((current_quarter, play_number, down, play_type, net_yards, distance_to_first, touchdown, sack, first_down, outcome, line, best, distance_to_touchdown))
                 play_number += 1
 
     return plays
@@ -122,12 +129,12 @@ def parse_play_by_play(file_path):
 # Function to write the parsed plays to a CSV file
 def write_to_csv(plays, csv_file):
     with open(csv_file, 'w', newline='') as csvfile:
-        fieldnames = ['Quarter', 'Play Number', 'Down', 'Play Type', 'Distance to First', 'Outcome', 'Play Description', 'Best']
+        fieldnames = ['Quarter', 'Play Number', 'Down', 'Play Type', 'Distance to First', 'Distance to Touchdown', 'Outcome', 'Play Description', 'Best']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
         for play in plays:
-            writer.writerow({'Quarter': play[0], 'Play Number': play[1], 'Down': play[2], 'Play Type': play[3], 'Distance to First': play[5], 'Outcome': play[9], 'Play Description': play[10], 'Best': play[11]})
+            writer.writerow({'Quarter': play[0], 'Play Number': play[1], 'Down': play[2], 'Play Type': play[3], 'Distance to First': play[5], 'Distance to Touchdown': play[12], 'Outcome': play[9], 'Play Description': play[10], 'Best': play[11]})
 
 if __name__ == "__main__":
     directory_path = "play-by-plays"
