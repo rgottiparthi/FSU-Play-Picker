@@ -95,6 +95,9 @@ def parse_play_by_play(file_path):
                 if "kickoff" in line:
                     continue
 
+                if "timeout" in line.casefold():
+                    continue
+
                 # Skip the line if offense is False
                 if not offense:
                     continue
