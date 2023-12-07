@@ -106,7 +106,6 @@ def parse_play_by_play(file_path):
                             last_two_chars = distance_to_touchdown[-1:]
                             last_two_int = int(last_two_chars)
                         except ValueError:
-                            # If both attempts fail, set last_int to 0
                             last_two_int = 0
 
                     if distance_to_touchdown[:3] == "FSU":
