@@ -130,10 +130,10 @@ def parse_play_by_play(file_path):
                     continue
 
                 # Calculate Outcome value
-                outcome = net_yards + touchdown * 180 + first_down * 10 - sack * 10 - 1
+                outcome = net_yards + touchdown * 180 + first_down * 10 - sack * 10
 
                 # Set the 'best' string based on conditions
-                if outcome > 0:
+                if outcome >= 0:
                     best = play_type
                 else:
                     # Set 'best' to a random play type from the list
