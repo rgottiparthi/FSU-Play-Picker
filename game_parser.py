@@ -162,17 +162,17 @@ def parse_play_by_play(file_path):
     return plays
 
 # Function to write the parsed plays to a CSV file
+# Function to write the parsed plays to a CSV file
 def write_to_csv(plays, csv_file):
     with open(csv_file, 'w', newline='') as csvfile:
-        fieldnames = ['Time Remaining', 'Play Number', 'Down', 'Play Type', 'Distance to First', 'Distance to Touchdown', 'Outcome', 'Previous Play Type', 'Previous Play Outcome', 'Play Description', 'Best']
+        fieldnames = ['Time Remaining', 'Play Number', 'Down', 'Play Type', 'Distance to First', 'Distance to Touchdown', 'Outcome', 'Previous Play Outcome', 'Play Description', 'Best']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
         for i, play in enumerate(plays):
-            previous_play_type = plays[i-1][3] if i > 0 else None
             previous_play_outcome = plays[i-1][9] if i > 0 else None
 
-            writer.writerow({'Time Remaining': play[13], 'Play Number': play[1], 'Down': play[2], 'Play Type': play[3], 'Distance to First': play[5], 'Distance to Touchdown': play[12], 'Outcome': play[9], 'Previous Play Type': previous_play_type, 'Previous Play Outcome': previous_play_outcome, 'Play Description': play[10], 'Best': play[11]})
+            writer.writerow({'Time Remaining': play[13], 'Play Number': play[1], 'Down': play[2], 'Play Type': play[3], 'Distance to First': play[5], 'Distance to Touchdown': play[12], 'Outcome': play[9], 'Previous Play Outcome': previous_play_outcome, 'Play Description': play[10], 'Best': play[11]})
 
 if __name__ == "__main__":
     directory_path = "play-by-plays"
