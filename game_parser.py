@@ -52,7 +52,7 @@ def parse_play_by_play(file_path):
                     net_yards = 0
                 elif "pass" in line:
                     play_type = "pass"
-                elif "kick attempt" in line:
+                elif "kick attempt" in line or "field goal attempt" in line:
                     play_type = "kick attempt"
 
                 # Use regular expression to find net yards
@@ -89,7 +89,7 @@ def parse_play_by_play(file_path):
                 distance_to_first = int(and_match.group(1)) if and_match else None
 
                 # Skip lines containing "clock"
-                if "drive start" in line:
+                if "drive start" in line or "ball on" in line:
                     continue
 
                 if "kickoff" in line:
