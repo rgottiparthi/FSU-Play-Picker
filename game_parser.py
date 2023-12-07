@@ -92,7 +92,7 @@ def parse_play_by_play(file_path):
                 if "drive start" in line or "ball on" in line:
                     continue
 
-                if "kickoff" in line:
+                if "kickoff" in line or "15:00" in line:
                     continue
 
                 if "timeout" in line.casefold():
