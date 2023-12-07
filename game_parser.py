@@ -103,7 +103,7 @@ def parse_play_by_play(file_path):
                     continue
 
                 # Calculate Outcome value
-                outcome = net_yards + touchdown * 180 + first_down * 10 - sack * 10
+                outcome = net_yards + touchdown * 180 + first_down * 10 - sack * 10 - 5
 
                 plays.append((current_quarter, play_number, down, play_type, net_yards, distance_to_first, touchdown, sack, first_down, outcome, line))
                 play_number += 1
