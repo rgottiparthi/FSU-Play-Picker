@@ -94,6 +94,25 @@ def parse_play_by_play(file_path):
                 at_match = re.search(r'at (\w+)', line)
                 distance_to_touchdown = at_match.group(1) if at_match else None
 
+                
+                # Process distance_to_touchdown
+                if distance_to_touchdown:
+                    last_two_chars = distance_to_touchdown[-2:]
+                    
+                    try:
+                        last_two_int = int(last_two_chars)
+                    except ValueError:
+                        try:
+                            last_two_int = int(last_two_chars)
+                        except ValueError:
+                            # If both attempts fail, set last_int to 0
+                            last_two_int = 0
+
+                    if distance_to_touchdown[:3] == "FSU":
+                        distance_to_touchdown = 50 - last_two_int + 50
+                    else:
+                        distance_to_touchdown = last_two_int
+
 
 
                 # Skip lines containing "clock"
