@@ -7,12 +7,20 @@ import random
 def parse_play_by_play(file_path):
     plays = []
     play_number = 1
-    current_quarter = None
     offense = False
+    time_remaining = None  # Initialize time_remaining variable
 
     with open(file_path, 'r') as file:
         for line in file:
             line = line.strip()
+
+            # Check for "clock" in the line and update time_remaining
+            if "clock" in line:
+                # Assuming the time format is "MM:SS" (e.g., "15:00")
+                time_match = re.search(r'(\d+):(\d+)', line)
+                if time_match:
+                    minutes, seconds = map(int, time_match.groups())
+                    time_remaining = minutes * 60 + seconds
 
             # Placeholder need to compute the time from this
             if "End of game" in line:
@@ -89,13 +97,11 @@ def parse_play_by_play(file_path):
                 and_match = re.search(r'and (\d+)', line)
                 distance_to_first = int(and_match.group(1)) if and_match else None
 
-
                 # Extract the first word after "at"
                 at_match = re.search(r'at (\w+)', line)
                 distance_to_touchdown = at_match.group(1) if at_match else None
 
-                
-                # Process distance_to_touchdown
+                # Process distance_to_touchdown (as you've implemented it before)
                 if distance_to_touchdown:
                     last_two_chars = distance_to_touchdown[-2:]
                     
@@ -113,15 +119,15 @@ def parse_play_by_play(file_path):
                     else:
                         distance_to_touchdown = last_two_int
 
-
-
-                # Skip lines containing "clock"
+                # Skip lines containing "drive start" or "ball on"
                 if "drive start" in line or "ball on" in line:
                     continue
 
+                # Skip lines containing "kickoff" or "15:00"
                 if "kickoff" in line or "15:00" in line:
                     continue
 
+                # Skip lines containing "timeout"
                 if "timeout" in line.casefold():
                     continue
 
@@ -132,6 +138,9 @@ def parse_play_by_play(file_path):
                 # Calculate Outcome value
                 outcome = net_yards + touchdown * 180 + first_down * 10 - sack * 10
 
+                # Calculate time_remaining in seconds based on the new formula
+                total_time_remaining = (4 - current_quarter) * 900 + int(time_remaining)
+
                 # Set the 'best' string based on conditions
                 if outcome >= 0:
                     best = play_type
@@ -140,7 +149,7 @@ def parse_play_by_play(file_path):
                     play_types = ["rush right", "rush middle", "rush left", "pass"]
                     best = random.choice(play_types)
 
-                plays.append((current_quarter, play_number, down, play_type, net_yards, distance_to_first, touchdown, sack, first_down, outcome, line, best, distance_to_touchdown))
+                plays.append((total_time_remaining, play_number, down, play_type, net_yards, distance_to_first, touchdown, sack, first_down, outcome, line, best, distance_to_touchdown))
                 play_number += 1
 
     return plays
@@ -148,12 +157,12 @@ def parse_play_by_play(file_path):
 # Function to write the parsed plays to a CSV file
 def write_to_csv(plays, csv_file):
     with open(csv_file, 'w', newline='') as csvfile:
-        fieldnames = ['Quarter', 'Play Number', 'Down', 'Play Type', 'Distance to First', 'Distance to Touchdown', 'Outcome', 'Play Description', 'Best']
+        fieldnames = ['Time Remaining', 'Play Number', 'Down', 'Play Type', 'Distance to First', 'Distance to Touchdown', 'Outcome', 'Play Description', 'Best']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
         for play in plays:
-            writer.writerow({'Quarter': play[0], 'Play Number': play[1], 'Down': play[2], 'Play Type': play[3], 'Distance to First': play[5], 'Distance to Touchdown': play[12], 'Outcome': play[9], 'Play Description': play[10], 'Best': play[11]})
+            writer.writerow({'Time Remaining': play[0], 'Play Number': play[1], 'Down': play[2], 'Play Type': play[3], 'Distance to First': play[5], 'Distance to Touchdown': play[11], 'Outcome': play[8], 'Play Description': play[9], 'Best': play[10]})
 
 if __name__ == "__main__":
     directory_path = "play-by-plays"
