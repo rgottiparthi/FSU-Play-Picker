@@ -72,7 +72,7 @@ def parse_play_by_play(file_path):
                     sack = 1
 
                 # Check for "1ST DOWN" in the line
-                if "1ST DOWN" in line:
+                if "1ST DOWN" in line or net_yards > 10:
                     first_down = 1
 
                 # Check for offense
