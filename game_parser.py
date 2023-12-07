@@ -51,6 +51,8 @@ def parse_play_by_play(file_path):
                 extra_point = 0
                 sack = 0
                 first_down = 0
+                turnover = 0
+                turnover_position = 0
 
                 # Check for play types
                 if "rush right" in line:
@@ -61,7 +63,7 @@ def parse_play_by_play(file_path):
                     play_type = "rush left"
                 elif "punt" in line:
                     play_type = "punt"
-                    net_yards = 0
+                    turnover = 1
                 elif "pass" in line:
                     play_type = "pass"
                 elif "field goal attempt" in line:
@@ -72,13 +74,15 @@ def parse_play_by_play(file_path):
                     extra_point = 1 if "good" in line else 0
 
                 # Use regular expression to find net yards
-                match = re.search(r'(\d+)(?= yards)', line)
-                if match and play_type != "punt" and play_type != "kick attempt" and play_type != "field goal attempt":
-                    net_yards = int(match.group())
+                if not turnover:
+                    match = re.search(r'(\d+)(?= yards)', line)
+                    if match and play_type != "punt" and play_type != "kick attempt" and play_type != "field goal attempt":
+                        net_yards = int(match.group())
 
-                    # Check for "loss" in the line
-                    if "loss" in line:
-                        net_yards *= -1
+                        # Check for "loss" in the line
+                        if "loss" in line:
+                            net_yards *= -1
+
 
                 # Check for "TOUCHDOWN" in the line
                 if "TOUCHDOWN" in line:
@@ -126,6 +130,34 @@ def parse_play_by_play(file_path):
                     else:
                         distance_to_touchdown = last_two_int
 
+                    if "4th" in line and not touchdown and not field_goal and not extra_point and not first_down:
+                        turnover = 1
+
+
+                    if turnover and play_type == "punt":
+                        to_the_match = re.search(r'to the (\w+)', line)
+                        turnover_position = to_the_match.group(1) if at_match else None
+
+
+                    if turnover_position:
+                        last_two_chars = turnover_position[-2:]
+                        
+                        try:
+                            last_two_int = int(last_two_chars)
+                        except ValueError:
+                            try:
+                                last_two_chars = turnover_position[-1:]
+                                last_two_int = int(last_two_chars)
+                            except ValueError:
+                                last_two_int = 20
+
+                        if (last_two_int == 0):
+                            last_two_int = 20
+                        if turnover_position[:3] == "FSU":
+                            turnover_position = 100 - last_two_int
+                        else:
+                            turnover_position = last_two_int
+
                 # Skip lines containing "drive start" or "ball on"
                 if "drive start" in line or "ball on" in line:
                     continue
@@ -142,8 +174,9 @@ def parse_play_by_play(file_path):
                 if not offense:
                     continue
 
+
                 # Calculate Outcome value
-                outcome = net_yards + touchdown * 180 + field_goal * 90 + extra_point *30 + first_down * 10
+                outcome = net_yards + touchdown * 180 + field_goal * 90 + extra_point *30 + first_down * 10 - turnover * 100 - turnover_position
 
                 # Calculate time_remaining in seconds based on the new formula
                 total_time_remaining = (4 - current_quarter) * 900 + int(time_remaining)
