@@ -106,12 +106,12 @@ def parse_play_by_play(file_path):
 # Function to write the parsed plays to a CSV file
 def write_to_csv(plays, csv_file):
     with open(csv_file, 'w', newline='') as csvfile:
-        fieldnames = ['Quarter', 'Play Number', 'Down', 'Play Type', 'Net Yards', 'Distance to First', 'Touchdown', 'Sack', '1st Down', 'Outcome', 'Play Description']
+        fieldnames = ['Quarter', 'Play Number', 'Down', 'Play Type', 'Distance to First', 'Outcome', 'Play Description']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
         for play in plays:
-            writer.writerow({'Quarter': play[0], 'Play Number': play[1], 'Down': play[2], 'Play Type': play[3], 'Net Yards': play[4], 'Distance to First': play[5], 'Touchdown': play[6], 'Sack': play[7], '1st Down': play[8], 'Outcome': play[9], 'Play Description': play[10]})
+            writer.writerow({'Quarter': play[0], 'Play Number': play[1], 'Down': play[2], 'Play Type': play[3], 'Distance to First': play[5], 'Outcome': play[9], 'Play Description': play[10]})
 
 if __name__ == "__main__":
     directory_path = "play-by-plays"
