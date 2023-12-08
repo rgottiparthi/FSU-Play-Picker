@@ -2,17 +2,605 @@ Test Accuracy: 39.93%
 Accuracy on New Data: 39.93%
 
 Predictions on New Data:
-    Actual_Best_Play Predicted_Best_Play  Outcome  Correct_Prediction
-0         rush right                pass        7               False
-1        rush middle         rush middle        0                True
-2               pass                pass       40                True
-3               pass                pass        0                True
-4        rush middle                pass        4               False
-..               ...                 ...      ...                 ...
-596             pass                pass        5                True
-597     kick attempt         rush middle        0               False
-598      rush middle                pass        2               False
-599             pass  field goal attempt        0               False
-600             pass         rush middle       21               False
-
-[601 rows x 4 columns]
+       Actual_Best_Play Predicted_Best_Play  Outcome  Correct_Prediction
+0            rush right                pass        7               False
+1           rush middle         rush middle        0                True
+2                  pass                pass       40                True
+3                  pass                pass        0                True
+4           rush middle                pass        4               False
+5          kick attempt         rush middle        0               False
+6                  pass                pass        9                True
+7             rush left                pass        7               False
+8                  pass  field goal attempt        0               False
+9                  pass                pass      -10                True
+10                 pass         rush middle        9               False
+11           rush right                pass        0               False
+12                 pass                pass        0                True
+13                 pass                pass        3                True
+14                 pass                pass        6                True
+15                 pass                pass        3                True
+16   field goal attempt                pass        5               False
+17          rush middle         rush middle        3                True
+18          rush middle         rush middle       60                True
+19            rush left         rush middle       25               False
+20           rush right                pass       23               False
+21            rush left                pass       -5               False
+22            rush left         rush middle        6               False
+23                 punt                pass        0               False
+24         kick attempt         rush middle        0               False
+25                 pass                pass        0                True
+26           rush right         rush middle        6               False
+27          rush middle         rush middle       14                True
+28                 punt                pass        0               False
+29         kick attempt         rush middle        0               False
+30          rush middle                pass        2               False
+31          rush middle                pass        2               False
+32                 pass                pass       90                True
+33                 punt          rush right        0               False
+34          rush middle                pass       -1               False
+35   field goal attempt  field goal attempt        5                True
+36          rush middle                pass       21               False
+37                 pass                pass        0                True
+38           rush right                pass       21               False
+39            rush left         rush middle       14               False
+40         kick attempt         rush middle        0               False
+41          rush middle         rush middle       73                True
+42         kick attempt         rush middle        0               False
+43           rush right                pass       -5               False
+44                 pass                pass       42                True
+45                 pass                pass       -3                True
+46                 punt                pass        0               False
+47          rush middle         rush middle        0                True
+48                 pass         rush middle        0               False
+49                 NONE           rush left        0               False
+50                 pass                pass       54                True
+51          rush middle                pass        0               False
+52                 pass          rush right        0               False
+53                 punt                pass        0               False
+54           rush right         rush middle        9               False
+55           rush right                pass        3               False
+56                 pass                pass        0                True
+57            rush left                pass       20               False
+58                 pass                pass        0                True
+59            rush left                pass       -7               False
+60          rush middle         rush middle        6                True
+61                 pass                pass        7                True
+62                 pass                pass        0                True
+63          rush middle         rush middle        4                True
+64           rush right          rush right       13                True
+65         kick attempt           rush left        0               False
+66           rush right                pass       -3               False
+67                 pass          rush right        0               False
+68                 pass                pass        0                True
+69          rush middle                pass        3               False
+70            rush left           rush left        0                True
+71                 pass         rush middle       22               False
+72                 pass                pass        0                True
+73                 pass         rush middle        5               False
+74                 pass          rush right      -10               False
+75                 pass                pass        0                True
+76           rush right                pass        7               False
+77                 pass                pass        9                True
+78                 pass                pass       64                True
+79                 punt                pass        0               False
+80                 pass         rush middle       32               False
+81                 pass                pass        0                True
+82           rush right                pass       -4               False
+83            rush left         rush middle       16               False
+84         kick attempt          rush right        0               False
+85                 pass           rush left        0               False
+86                 pass          rush right       -6               False
+87                 pass         rush middle       23               False
+88          rush middle                pass      108               False
+89                 pass                pass        0                True
+90                 pass                pass        0                True
+91                 pass         rush middle        0               False
+92                 pass                pass      -15                True
+93         kick attempt         rush middle        0               False
+94         kick attempt         rush middle        0               False
+95                 pass                pass        4                True
+96                 pass                pass       31                True
+97         kick attempt         rush middle        0               False
+98          rush middle         rush middle        6                True
+99                 pass                pass        0                True
+100               kneel          rush right        0               False
+101           rush left         rush middle        3               False
+102                pass                pass        0                True
+103                pass                pass       60                True
+104                pass                pass        7                True
+105         rush middle         rush middle        2                True
+106                pass         rush middle       23               False
+107                pass         rush middle       28               False
+108         rush middle         rush middle        3                True
+109        kick attempt          rush right        0               False
+110           rush left                pass        2               False
+111                pass                pass        0                True
+112                pass                pass       21                True
+113         rush middle                pass        0               False
+114         rush middle                pass       26               False
+115         rush middle                pass        3               False
+116         rush middle                pass       98               False
+117         rush middle         rush middle       62                True
+118                pass         rush middle       25               False
+119         rush middle           rush left        6               False
+120          rush right         rush middle       63               False
+121                pass                pass       28                True
+122           rush left                pass        6               False
+123                pass         rush middle        8               False
+124                punt                pass        0               False
+125                pass                pass        0                True
+126                pass          rush right        8               False
+127           rush left         rush middle       -3               False
+128                pass                pass       30                True
+129           rush left           rush left       14                True
+130         rush middle                pass        0               False
+131  field goal attempt  field goal attempt        5                True
+132          rush right                pass        4               False
+133                pass                pass        0                True
+134         rush middle                pass        2               False
+135         rush middle                pass        5               False
+136                pass         rush middle        0               False
+137         rush middle         rush middle        2                True
+138         rush middle         rush middle        0                True
+139         rush middle         rush middle       -4                True
+140                pass                pass       21                True
+141         rush middle         rush middle        0                True
+142                pass          rush right        0               False
+143                pass         rush middle       20               False
+144                pass         rush middle       10               False
+145                pass                pass        0                True
+146         rush middle                pass        8               False
+147                pass                pass        6                True
+148        kick attempt         rush middle        0               False
+149                pass                pass       47                True
+150                pass         rush middle       -3               False
+151           rush left                pass       18               False
+152                pass                pass        0                True
+153         rush middle         rush middle       22                True
+154         rush middle                pass      -12               False
+155                pass                pass       28                True
+156                punt                pass        0               False
+157                pass          rush right        0               False
+158  field goal attempt         rush middle        5               False
+159           rush left         rush middle       81               False
+160        kick attempt         rush middle        0               False
+161                pass         rush middle        9               False
+162                punt                pass        0               False
+163         rush middle                pass        4               False
+164         rush middle         rush middle       -3                True
+165         rush middle         rush middle        0                True
+166                pass         rush middle        0               False
+167                pass          rush right       51               False
+168         rush middle                pass        7               False
+169         rush middle         rush middle       14                True
+170                pass                pass       -4                True
+171        kick attempt         rush middle        0               False
+172         rush middle                pass       16               False
+173                pass  field goal attempt        0               False
+174           rush left                pass       29               False
+175          rush right         rush middle       10               False
+176         rush middle         rush middle        2                True
+177          rush right                pass        0               False
+178                punt         rush middle        0               False
+179           rush left                pass       36               False
+180                pass          rush right        8               False
+181                pass                pass       86                True
+182                pass                pass        0                True
+183           rush left                pass        2               False
+184         rush middle         rush middle        0                True
+185                pass          rush right        0               False
+186                pass                pass        0                True
+187                pass         rush middle        0               False
+188         rush middle          rush right        0               False
+189         rush middle                pass        3               False
+190          rush right         rush middle        6               False
+191                pass                pass        0                True
+192           rush left                pass       -1               False
+193          rush right                pass       16               False
+194                pass                pass        5                True
+195        kick attempt         rush middle        0               False
+196         rush middle         rush middle       64                True
+197           rush left                pass       34               False
+198           rush left                pass      -11               False
+199        kick attempt         rush middle        0               False
+200                pass                pass        3                True
+201                pass                pass        0                True
+202          rush right         rush middle        2               False
+203                pass                pass        0                True
+204         rush middle                pass        7               False
+205         rush middle           rush left        0               False
+206                pass                pass       20                True
+207         rush middle         rush middle        4                True
+208           rush left                pass        4               False
+209         rush middle         rush middle        6                True
+210          rush right                pass        6               False
+211                pass                pass        0                True
+212                punt                pass        0               False
+213        kick attempt         rush middle        0               False
+214          rush right                pass        2               False
+215           rush left         rush middle        0               False
+216           rush left                pass        6               False
+217                pass                pass       66                True
+218                pass                pass        5                True
+219           rush left         rush middle       24               False
+220         rush middle         rush middle        6                True
+221         rush middle         rush middle        0                True
+222        kick attempt         rush middle        0               False
+223                pass          rush right       24               False
+224                pass                pass        9                True
+225                pass         rush middle       20               False
+226          rush right                pass       24               False
+227                pass                pass        0                True
+228         rush middle                pass        0               False
+229                pass                pass        9                True
+230        kick attempt         rush middle        0               False
+231                punt         rush middle        0               False
+232         rush middle         rush middle       25                True
+233                pass           rush left        0               False
+234                pass           rush left       40               False
+235  field goal attempt  field goal attempt        5                True
+236        kick attempt         rush middle        0               False
+237        kick attempt         rush middle        0               False
+238                punt                pass        0               False
+239                pass         rush middle        0               False
+240                pass         rush middle        0               False
+241          rush right                pass       15               False
+242                pass                pass        3                True
+243                pass                pass        0                True
+244                pass          rush right       13               False
+245          rush right                pass       16               False
+246                pass          rush right       91               False
+247         rush middle                pass       21               False
+248         rush middle           rush left       60               False
+249        kick attempt         rush middle        0               False
+250                pass                pass       10                True
+251         rush middle         rush middle        4                True
+252          rush right         rush middle       44               False
+253                pass                pass        0                True
+254                pass                pass        0                True
+255                pass                pass        0                True
+256           rush left                pass       26               False
+257                pass                pass       22                True
+258          rush right          rush right        4                True
+259         rush middle                pass       -2               False
+260                pass          rush right        0               False
+261         rush middle                pass        3               False
+262         rush middle         rush middle       30                True
+263         rush middle           rush left        7               False
+264                pass                pass       21                True
+265         rush middle         rush middle        0                True
+266                pass          rush right       14               False
+267                pass         rush middle        3               False
+268                pass                pass       -8                True
+269                pass                pass        3                True
+270          rush right                pass       -4               False
+271                pass                pass       29                True
+272          rush right         rush middle       72               False
+273         rush middle         rush middle       -3                True
+274           rush left         rush middle        4               False
+275         rush middle         rush middle        2                True
+276          rush right         rush middle        4               False
+277         rush middle         rush middle        7                True
+278         rush middle         rush middle        3                True
+279         rush middle         rush middle        2                True
+280                pass                pass        5                True
+281          rush right         rush middle        5               False
+282                pass         rush middle        3               False
+283        kick attempt         rush middle        0               False
+284                punt                pass        0               False
+285                pass                pass       -2                True
+286          rush right                pass        0               False
+287                pass         rush middle        0               False
+288        kick attempt         rush middle        0               False
+289           rush left                pass       31               False
+290         rush middle                pass        0               False
+291           rush left         rush middle       37               False
+292         rush middle                pass        2               False
+293                pass                pass        0                True
+294                pass         rush middle        2               False
+295           rush left         rush middle        4               False
+296                pass                pass        3                True
+297                pass                pass        3                True
+298          rush right         rush middle       17               False
+299                pass         rush middle        4               False
+300         rush middle                pass        7               False
+301         rush middle          rush right       20               False
+302           rush left         rush middle        9               False
+303                pass                pass       -4                True
+304           rush left                pass       21               False
+305                punt         rush middle        0               False
+306                pass           rush left       -2               False
+307                pass                pass       22                True
+308                pass                pass        0                True
+309           rush left                pass        5               False
+310                pass                pass        7                True
+311         rush middle         rush middle        0                True
+312         rush middle                pass       22               False
+313          rush right         rush middle      110               False
+314          rush right         rush middle       21               False
+315                pass                pass       39                True
+316           rush left         rush middle        2               False
+317         rush middle         rush middle       21                True
+318          rush right                pass       85               False
+319                pass                pass       22                True
+320          rush right                pass       -5               False
+321          rush right         rush middle       31               False
+322           rush left                pass       52               False
+323          rush right         rush middle        0               False
+324                pass                pass        9                True
+325          rush right                pass        9               False
+326                pass         rush middle       24               False
+327        kick attempt         rush middle        0               False
+328         rush middle                pass        0               False
+329               kneel          rush right        0               False
+330          rush right                pass        5               False
+331                pass         rush middle        0               False
+332         rush middle                pass        2               False
+333                pass                pass       25                True
+334           rush left         rush middle       -2               False
+335                punt         rush middle        0               False
+336         rush middle          rush right        0               False
+337           rush left                pass       31               False
+338          rush right                pass       87               False
+339         rush middle                pass       18               False
+340          rush right                pass        2               False
+341                pass                pass        6                True
+342           rush left           rush left       17                True
+343           rush left         rush middle       -2               False
+344          rush right                pass       83               False
+345         rush middle         rush middle        2                True
+346         rush middle                pass        0               False
+347                punt                pass        0               False
+348                pass                pass       34                True
+349         rush middle         rush middle       33                True
+350                pass         rush middle       62               False
+351         rush middle         rush middle        2                True
+352                pass           rush left       44               False
+353           rush left         rush middle       15               False
+354          rush right         rush middle       60               False
+355                pass                pass       23                True
+356         rush middle                pass       21               False
+357           rush left           rush left        0                True
+358                pass                pass       23                True
+359         rush middle                pass       23               False
+360                pass                pass        7                True
+361                punt                pass        0               False
+362                pass                pass       40                True
+363                punt  field goal attempt        0               False
+364                pass           rush left        0               False
+365                pass                pass        0                True
+366          rush right                pass        0               False
+367                pass                pass        0                True
+368                pass                pass       10                True
+369                pass                pass        0                True
+370         rush middle                pass       24               False
+371                pass         rush middle        0               False
+372                pass                pass        0                True
+373                pass                pass       21                True
+374         rush middle                pass        2               False
+375         rush middle          rush right       62               False
+376         rush middle                pass        0               False
+377                pass         rush middle       22               False
+378                pass                pass       22                True
+379                pass                pass        8                True
+380                pass         rush middle       22               False
+381         rush middle                pass       92               False
+382                pass                pass        6                True
+383                pass                pass       47                True
+384         rush middle         rush middle        4                True
+385                pass                pass        0                True
+386                pass         rush middle        0               False
+387        kick attempt         rush middle        0               False
+388                punt          rush right        0               False
+389           rush left                pass       32               False
+390         rush middle         rush middle        0                True
+391                pass         rush middle        7               False
+392                pass                pass       23                True
+393                pass         rush middle        0               False
+394        kick attempt         rush middle        0               False
+395          rush right         rush middle       31               False
+396          rush right         rush middle        4               False
+397         rush middle           rush left       22               False
+398                pass                pass        0                True
+399                pass                pass        8                True
+400          rush right                pass       25               False
+401                punt          rush right        0               False
+402                punt                pass        0               False
+403                pass                pass        4                True
+404          rush right                pass      -12               False
+405         rush middle         rush middle        0                True
+406        kick attempt         rush middle        0               False
+407         rush middle          rush right        7               False
+408                pass           rush left        9               False
+409          rush right                pass        7               False
+410          rush right                pass        6               False
+411          rush right                pass        7               False
+412        kick attempt         rush middle        0               False
+413         rush middle         rush middle        4                True
+414           rush left         rush middle       -2               False
+415                pass                pass        0                True
+416         rush middle         rush middle        2                True
+417                punt                pass        0               False
+418        kick attempt                pass        0               False
+419         rush middle         rush middle        5                True
+420         rush middle         rush middle       13                True
+421                pass          rush right        7               False
+422                pass                pass        5                True
+423         rush middle         rush middle        2                True
+424                pass                pass       16                True
+425                pass                pass       10                True
+426         rush middle                pass       67               False
+427           rush left         rush middle       18               False
+428                pass         rush middle        0               False
+429           rush left                pass       26               False
+430                pass                pass       37                True
+431        kick attempt         rush middle        0               False
+432           rush left                pass       -5               False
+433                pass         rush middle        3               False
+434                pass           rush left        6               False
+435         rush middle         rush middle        0                True
+436                pass                pass       34                True
+437                pass         rush middle        0               False
+438         rush middle         rush middle        2                True
+439          rush right         rush middle      -11               False
+440           rush left         rush middle       72               False
+441                pass                pass        2                True
+442                pass                pass       35                True
+443         rush middle          rush right       -2               False
+444                pass                pass        0                True
+445                pass         rush middle        5               False
+446          rush right         rush middle        0               False
+447         rush middle         rush middle        3                True
+448         rush middle         rush middle       -4                True
+449                pass                pass       82                True
+450         rush middle         rush middle        6                True
+451                pass           rush left        6               False
+452                pass          rush right       24               False
+453          rush right          rush right        0                True
+454                pass                pass        0                True
+455        kick attempt         rush middle        0               False
+456         rush middle         rush middle        4                True
+457           rush left                pass       -2               False
+458                pass                pass       18                True
+459                pass                pass       24                True
+460         rush middle                pass        0               False
+461                pass         rush middle       10               False
+462           rush left                pass        5               False
+463  field goal attempt                pass        5               False
+464                pass                pass        6                True
+465                punt                pass        0               False
+466                pass                pass        0                True
+467          rush right                pass       26               False
+468                pass           rush left        0               False
+469         rush middle         rush middle       15                True
+470                pass                pass        0                True
+471  field goal attempt  field goal attempt        5                True
+472         rush middle                pass        4               False
+473                pass         rush middle        9               False
+474                pass                pass       10                True
+475           rush left                pass       22               False
+476         rush middle                pass       23               False
+477         rush middle         rush middle        0                True
+478                pass                pass       72                True
+479         rush middle                pass       19               False
+480          rush right                pass        0               False
+481                pass                pass       -8                True
+482         rush middle                pass       65               False
+483                pass                pass        0                True
+484  field goal attempt  field goal attempt        5                True
+485                punt                pass        0               False
+486                pass                pass        0                True
+487                pass          rush right        0               False
+488         rush middle         rush middle       16                True
+489         rush middle                pass        5               False
+490           rush left         rush middle       99               False
+491                pass                pass        0                True
+492           rush left                pass       25               False
+493         rush middle                pass        0               False
+494         rush middle         rush middle        2                True
+495  field goal attempt                pass        5               False
+496                pass                pass       21                True
+497                pass         rush middle        0               False
+498         rush middle                pass        0               False
+499                pass                pass        0                True
+500                pass                pass        0                True
+501                pass                pass        0                True
+502         rush middle          rush right       76               False
+503                pass                pass       36                True
+504          rush right         rush middle       28               False
+505           rush left         rush middle        4               False
+506          rush right         rush middle        3               False
+507         rush middle                pass       17               False
+508                punt                pass        0               False
+509         rush middle          rush right       -2               False
+510                pass                pass       24                True
+511                pass                pass        0                True
+512  field goal attempt  field goal attempt        5                True
+513          rush right          rush right        0                True
+514        kick attempt         rush middle        0               False
+515                pass                pass        4                True
+516                pass                pass        0                True
+517                pass                pass        8                True
+518                pass         rush middle       18               False
+519                punt                pass        0               False
+520         rush middle                pass        0               False
+521                pass                pass       25                True
+522                pass                pass        0                True
+523                pass                pass       22                True
+524                punt                pass        0               False
+525                pass         rush middle        7               False
+526                punt                pass        0               False
+527                pass         rush middle        0               False
+528         rush middle                pass       23               False
+529          rush right          rush right        8                True
+530         rush middle         rush middle        4                True
+531          rush right                pass        7               False
+532                pass         rush middle        2               False
+533                pass                pass       -9                True
+534                pass         rush middle       85               False
+535                pass         rush middle        0               False
+536                pass         rush middle       20               False
+537         rush middle                pass       25               False
+538           rush left                pass       16               False
+539                pass  field goal attempt       62               False
+540                pass         rush middle        8               False
+541                pass                pass       39                True
+542         rush middle                pass       15               False
+543          rush right                pass      -13               False
+544                pass                pass        0                True
+545                pass         rush middle        0               False
+546          rush right                pass       -8               False
+547          rush right                pass        2               False
+548         rush middle                pass       14               False
+549                pass         rush middle       41               False
+550                pass                pass       69                True
+551                pass                pass       21                True
+552                pass         rush middle        0               False
+553                pass                pass        6                True
+554                punt                pass        0               False
+555                pass                pass        0                True
+556           rush left         rush middle       23               False
+557         rush middle                pass        2               False
+558                pass                pass        9                True
+559         rush middle                pass        0               False
+560                pass                pass       51                True
+561         rush middle         rush middle        5                True
+562        kick attempt          rush right        0               False
+563               kneel          rush right        0               False
+564         rush middle                pass        2               False
+565        kick attempt         rush middle        0               False
+566           rush left         rush middle       -5               False
+567         rush middle                pass        3               False
+568         rush middle         rush middle       12                True
+569                pass                pass       66                True
+570           rush left         rush middle        7               False
+571        kick attempt         rush middle        0               False
+572           rush left                pass       14               False
+573                pass                pass        0                True
+574                pass                pass       10                True
+575                pass  field goal attempt        0               False
+576                pass                pass        0                True
+577                pass                pass       32                True
+578                pass          rush right        0               False
+579          rush right         rush middle        4               False
+580                pass                pass       -3                True
+581          rush right                pass       29               False
+582         rush middle         rush middle        5                True
+583                pass                pass       35                True
+584                pass         rush middle        0               False
+585                pass                pass       68                True
+586         rush middle         rush middle        2                True
+587        kick attempt         rush middle        0               False
+588           rush left         rush middle       -2               False
+589         rush middle                pass        0               False
+590                pass                pass       -2                True
+591         rush middle                pass        0               False
+592         rush middle                pass        0               False
+593                pass                pass        0                True
+594        kick attempt          rush right        0               False
+595        kick attempt         rush middle        0               False
+596                pass                pass        5                True
+597        kick attempt         rush middle        0               False
+598         rush middle                pass        2               False
+599                pass  field goal attempt        0               False
+600                pass         rush middle       21               False
