@@ -85,25 +85,15 @@ def parse_play_by_play(file_path):
                     play_type = "kick attempt"
                     extra_point = 1 if "good" in line else 0
 
-                if play_type == "punt":
-                    # Extract punt distance with regex
-                    punt_distance_match = re.search(r'punt (\d+) yards', line)
-                    if punt_distance_match:
-                        net_yards = int(punt_distance_match.group(1))
-                    else:
-                        # In case punt fails?
-                        net_yards = 0
-                else:
-                    # Use regular expression to find net yards
-                    if not field_goal:
-                        match = re.search(r'(\d+)(?= yards)', line)
-                        if match and play_type != "kick attempt" and play_type != "field goal attempt":
-                            net_yards = int(match.group())
-    
-                            # Check for "loss" in the line
-                            if "loss" in line:
-                                net_yards *= -1    
-                
+                # Use regular expression to find net yards
+                if not field_goal:
+                    match = re.search(r'(\d+)(?= yards)', line)
+                    if match and play_type != "punt" and play_type != "kick attempt" and play_type != "field goal attempt":
+                        net_yards = int(match.group())
+
+                        # Check for "loss" in the line
+                        if "loss" in line:
+                            net_yards *= -1
 
 
                 # Check for "TOUCHDOWN" in the line
