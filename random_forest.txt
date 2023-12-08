@@ -1,0 +1,18 @@
+Test Accuracy: 39.93%
+Accuracy on New Data: 39.93%
+
+Predictions on New Data:
+    Actual_Best_Play Predicted_Best_Play  Outcome  Correct_Prediction
+0         rush right                pass        7               False
+1        rush middle         rush middle        0                True
+2               pass                pass       40                True
+3               pass                pass        0                True
+4        rush middle                pass        4               False
+..               ...                 ...      ...                 ...
+596             pass                pass        5                True
+597     kick attempt         rush middle        0               False
+598      rush middle                pass        2               False
+599             pass  field goal attempt        0               False
+600             pass         rush middle       21               False
+
+[601 rows x 4 columns]
