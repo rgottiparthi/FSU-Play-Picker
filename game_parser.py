@@ -193,7 +193,7 @@ def parse_play_by_play(file_path):
 
 
                 # Calculate Outcome value
-                outcome = net_yards + touchdown * 180 + field_goal * 90 + extra_point *30 + first_down * 10 - turnover * 100 - turnover_position
+                outcome = net_yards + touchdown * 180 + field_goal * 90 + extra_point *30 + first_down * 10 - .5 * turnover_position
 
                 # Calculate time_remaining in seconds based on the new formula
                 total_time_remaining = (4 - current_quarter) * 900 + int(time_remaining)
