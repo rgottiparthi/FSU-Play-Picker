@@ -86,7 +86,7 @@ def parse_play_by_play(file_path):
                     extra_point = 1 if "good" in line else 0
 
                 # Use regular expression to find net yards
-                if not turnover:
+                if not field_goal:
                     match = re.search(r'(\d+)(?= yards)', line)
                     if match and play_type != "punt" and play_type != "kick attempt" and play_type != "field goal attempt":
                         net_yards = int(match.group())
@@ -193,7 +193,7 @@ def parse_play_by_play(file_path):
 
 
                 # Calculate Outcome value
-                outcome = net_yards + touchdown * 180 + field_goal * 90 + extra_point *30 + first_down * 10 - .5 * turnover_position
+                outcome = net_yards + touchdown * 180 + first_down * 10 + field_goal * 90 + extra_point *30 - .5 * turnover_position
 
                 # Calculate time_remaining in seconds based on the new formula
                 total_time_remaining = (4 - current_quarter) * 900 + int(time_remaining)
