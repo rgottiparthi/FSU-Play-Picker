@@ -3,21 +3,20 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from keras.models import Sequential
-from keras.layers import Dense #, Dropout // no need for dropout
+from keras.layers import Dense# , Dropout # // no need for dropout
 from keras.optimizers import Adam
 from keras.callbacks import LearningRateScheduler
 
 # Load the dataset
 file_path = 'plays.csv'
 dataset = pd.read_csv(file_path)
-#TODO:ADD A NUMERICAL VALUE FOR PLAY TYPR AND ADD IT TO DATA SET
 
 # Extract features and labels
-X = dataset[['Time Remaining','Down','Distance to First','Distance to Touchdown']]#, 'Outcome']]
+X = dataset[['Time Remaining','Down', 'Score Difference','Distance to First','Distance to Touchdown','Previous Play Outcome']]#, 'Outcome']]
 y = dataset['Best']  # Best' is the column containing the best play aka the answer
 
-# 'Outcome' is the third-to-last column
-weights = np.array(dataset.iloc[:, -3])
+# 'Outcome' is the fourth-to-last column
+weights = np.array(dataset.iloc[:, -4])
 
 # Encode categorical labels
 label_encoder = LabelEncoder()
@@ -53,7 +52,7 @@ optimizer = Adam(learning_rate=initial_learning_rate)
 model.compile(optimizer=optimizer, loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
 # Train the model with sample weights and learning rate scheduler
-model.fit(X_train, y_train, epochs=50, batch_size=100, validation_data=(X_test, y_test),
+model.fit(X_train, y_train, epochs=16, batch_size=75, validation_data=(X_test, y_test),
           sample_weight=weights_train, callbacks=[lr_schedule]) # 20, 45 // 50 100
 
 # Evaluate the model
