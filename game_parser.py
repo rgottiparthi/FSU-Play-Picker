@@ -198,9 +198,7 @@ def parse_play_by_play(file_path):
 
                 # Calculate Outcome value
                 outcome = net_yards + touchdown * 60 + first_down * 10 + field_goal * 5
-                + extra_point - 0.25 * turnover_position + distance_to_first * 2
-                + (total_time_remaining / 900) * 10 + distance_to_touchdown
-                - 5 * sack + 2 * score_difference
+                + extra_point - 0.25 * turnover_position
 
                 # Set the 'best' string based on conditions
                 if outcome >= 0:

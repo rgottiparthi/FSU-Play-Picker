@@ -22,7 +22,7 @@ y = label_encoder.fit_transform(y)
 
 # Split the dataset into training and testing sets
 X_train, X_test, y_train, y_test, weights_train, weights_test = train_test_split(
-    X, y, weights, test_size=0.3, random_state=42
+    X, y, weights, test_size=0.3, random_state=42, stratify=y
 )
 
 # Standardize features (if needed)
@@ -59,5 +59,4 @@ output_df['Correct_Prediction'] = output_df['Actual_Best_Play'] == output_df['Pr
 accuracy_on_new_data = output_df['Correct_Prediction'].mean()
 print(f'Accuracy on New Data: {accuracy_on_new_data * 100:.2f}%')
 print('\nPredictions on New Data:')
-with pd.option_context('display.max_rows', None, 'display.max_columns', None):
-    print(output_df)
+print(output_df)
