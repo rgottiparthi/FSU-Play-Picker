@@ -23,7 +23,6 @@ def parse_play_by_play(file_path):
                     minutes, seconds = map(int, time_match.groups())
                     time_remaining = minutes * 60 + seconds
 
-            # Placeholder need to compute the time from this
             if "End of game" in line:
                 continue
 
@@ -66,6 +65,8 @@ def parse_play_by_play(file_path):
                     turnover = 1
                 elif "pass" in line:
                     play_type = "pass"
+                    if "intercepted" in line:
+                        turnover = 1
                 elif "field goal attempt" in line:
                     play_type = "field goal attempt"
                     field_goal = 1 if "GOOD" in line else 0
@@ -92,8 +93,11 @@ def parse_play_by_play(file_path):
                 if "sacked" in line:
                     sack = 1
 
+                if ("fumbled" in line  or "fumble" in line) and "recovered" not in line:
+                    turnover = 1
+
                 # Check for "1ST DOWN" in the line
-                if "1ST DOWN" in line or net_yards > 10:
+                if "1ST" in line or net_yards > 10:
                     first_down = 1
 
                 # Check for offense
@@ -134,29 +138,31 @@ def parse_play_by_play(file_path):
                         turnover = 1
 
 
-                    if turnover and play_type == "punt":
+                    if turnover:
                         to_the_match = re.search(r'to the (\w+)', line)
-                        turnover_position = to_the_match.group(1) if at_match else None
+                        turnover_position = to_the_match.group(1) if to_the_match else None
 
-
-                    if turnover_position:
-                        last_two_chars = turnover_position[-2:]
-                        
-                        try:
-                            last_two_int = int(last_two_chars)
-                        except ValueError:
+                        if turnover_position:
+                            last_two_chars = turnover_position[-2:]
+                            
                             try:
-                                last_two_chars = turnover_position[-1:]
                                 last_two_int = int(last_two_chars)
                             except ValueError:
-                                last_two_int = 20
+                                try:
+                                    last_two_chars = turnover_position[-1:]
+                                    last_two_int = int(last_two_chars)
+                                except ValueError:
+                                    last_two_int = 20
 
-                        if (last_two_int == 0):
-                            last_two_int = 20
-                        if turnover_position[:3] == "FSU":
-                            turnover_position = 100 - last_two_int
+                            if (last_two_int == 0):
+                                last_two_int = 20
+                            if turnover_position[:3] == "FSU":
+                                turnover_position = 100 - last_two_int
+                            else:
+                                turnover_position = last_two_int
                         else:
-                            turnover_position = last_two_int
+                            turnover_position = 100 - distance_to_touchdown
+                
 
                 # Skip lines containing "drive start" or "ball on"
                 if "drive start" in line or "ball on" in line:
