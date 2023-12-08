@@ -24,7 +24,7 @@ def mine_association_rules(input_csv):
     frequent_itemsets = apriori(data, min_support=min_support, use_colnames=True)
 
     # Generate Association Rules
-    min_confidence = 0.7
+    min_confidence = 0.999
     rules = association_rules(frequent_itemsets, metric="confidence", min_threshold=min_confidence)
 
     return rules

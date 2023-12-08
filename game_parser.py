@@ -193,12 +193,14 @@ def parse_play_by_play(file_path):
                 if not offense:
                     continue
 
-
-                # Calculate Outcome value
-                outcome = net_yards + touchdown * 60 + first_down * 10 + field_goal * 10 + extra_point *5 - .5 * turnover_position
-
                 # Calculate time_remaining in seconds based on the new formula
                 total_time_remaining = (4 - current_quarter) * 900 + int(time_remaining)
+
+                # Calculate Outcome value
+                outcome = net_yards + touchdown * 60 + first_down * 10 + field_goal * 10
+                + extra_point * 5 - 0.5 * turnover_position + distance_to_first * 2
+                + (total_time_remaining / 900) * 10 + distance_to_touchdown
+                - 5 * sack + 2 * score_difference
 
                 # Set the 'best' string based on conditions
                 if outcome >= 0:

@@ -22,7 +22,7 @@ y = label_encoder.fit_transform(y)
 
 # Split the dataset into training and testing sets
 X_train, X_test, y_train, y_test, weights_train, weights_test = train_test_split(
-    X, y, weights, test_size=0.3, random_state=42, stratify=y
+    X, y, weights, test_size=0.3, random_state=42
 )
 
 # Standardize features (if needed)
