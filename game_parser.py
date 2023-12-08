@@ -73,7 +73,6 @@ def parse_play_by_play(file_path):
                     play_type = "rush left"
                 elif "punt" in line:
                     play_type = "punt"
-                    turnover = 1
                 elif "pass" in line or "sacked" in line:
                     play_type = "pass"
                     if "intercepted" in line:
