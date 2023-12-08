@@ -77,9 +77,13 @@ output_df['Correct_Prediction'] = output_df['Actual_Best_Play'] == output_df['Pr
 accuracy_on_new_data = output_df['Correct_Prediction'].mean()
 print(f'Accuracy on New Data: {accuracy_on_new_data * 100:.2f}%')
 print('\nPredictions on New Data:')
-print(output_df)
+
+output_df.to_csv('predictions.csv', index=False)
+
+# Set max_rows and max_cols to None to display all rows and columns
+with pd.option_context('display.max_rows', None, 'display.max_columns', None):
+    print(output_df)
 '''
 for item in output_df["Predicted_Best_Play"]:
     print(item)
 '''
-
