@@ -10,10 +10,21 @@ def parse_play_by_play(file_path):
     current_quarter = None
     offense = False
     time_remaining = None
+    score_difference = 0
 
     with open(file_path, 'r') as file:
         for line in file:
             line = line.strip()
+
+            if "Florida St." in line:
+                    score_match = re.search(r'(\d+)-(\d+)', line)
+                    if score_match:
+                        fsu_score, opponent_score = map(int, score_match.groups())
+                        # Check if "Florida St." comes first
+                        if line.index("Florida St.") < line.index("-"):
+                            score_difference = fsu_score - opponent_score
+                        else:
+                            score_difference = opponent_score - fsu_score    
 
             # Check for "clock" in the line and update time_remaining
             if "clock" in line:
@@ -195,7 +206,7 @@ def parse_play_by_play(file_path):
                     play_types = ["rush right", "rush middle", "rush left", "pass"]
                     best = random.choice(play_types)
 
-                plays.append((current_quarter, play_number, down, play_type, net_yards, distance_to_first, touchdown, sack, first_down, outcome, line, best, distance_to_touchdown, total_time_remaining))
+                plays.append((current_quarter, play_number, down, play_type, net_yards, distance_to_first, touchdown, sack, first_down, outcome, line, best, distance_to_touchdown, total_time_remaining, score_difference))
                 play_number += 1
 
     return plays
@@ -203,14 +214,26 @@ def parse_play_by_play(file_path):
 # Function to write the parsed plays to a CSV file
 def write_to_csv(plays, csv_file):
     with open(csv_file, 'w', newline='') as csvfile:
-        fieldnames = ['Time Remaining', 'Play Number', 'Down', 'Play Type', 'Distance to First', 'Distance to Touchdown', 'Outcome', 'Previous Play Outcome', 'Play Description', 'Best']
+        fieldnames = ['Time Remaining', 'Play Number', 'Down', 'Score Difference', 'Play Type', 'Distance to First', 'Distance to Touchdown', 'Outcome', 'Previous Play Outcome', 'Play Description', 'Best']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
         for i, play in enumerate(plays):
             previous_play_outcome = plays[i-1][9] if i > 0 else 0
 
-            writer.writerow({'Time Remaining': play[13], 'Play Number': play[1], 'Down': play[2], 'Play Type': play[3], 'Distance to First': play[5], 'Distance to Touchdown': play[12], 'Outcome': play[9], 'Previous Play Outcome': previous_play_outcome, 'Play Description': play[10], 'Best': play[11]})
+            writer.writerow({
+                'Time Remaining': play[13],
+                'Play Number': play[1],
+                'Down': play[2],
+                'Score Difference': play[14],
+                'Play Type': play[3],
+                'Distance to First': play[5],
+                'Distance to Touchdown': play[12],
+                'Outcome': play[9],
+                'Previous Play Outcome': previous_play_outcome,
+                'Play Description': play[10],
+                'Best': play[11]
+            })
 
 if __name__ == "__main__":
     directory_path = "play-by-plays"
