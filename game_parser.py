@@ -74,7 +74,7 @@ def parse_play_by_play(file_path):
                 elif "punt" in line:
                     play_type = "punt"
                     turnover = 1
-                elif "pass" in line:
+                elif "pass" in line or "sacked" in line:
                     play_type = "pass"
                     if "intercepted" in line:
                         turnover = 1
@@ -84,6 +84,8 @@ def parse_play_by_play(file_path):
                 elif "kick attempt" in line:
                     play_type = "kick attempt"
                     extra_point = 1 if "good" in line else 0
+                elif "Kneel" in line:
+                    play_type = "kneel"
 
                 # Use regular expression to find net yards
                 if not field_goal:
