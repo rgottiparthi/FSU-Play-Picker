@@ -1,601 +1,601 @@
 Actual_Best_Play,Predicted_Best_Play,Outcome,Correct_Prediction
-pass,rush right,0,False
-pass,pass,39,True
-pass,pass,54,True
-pass,pass,10,True
+pass,rush middle,0,False
 pass,pass,0,True
-pass,rush middle,64,False
-pass,pass,35,True
-pass,rush left,9,False
-pass,pass,23,True
-rush left,pass,4,False
-rush right,rush middle,0,False
-rush middle,rush middle,15,True
-pass,pass,22,True
-rush right,rush middle,0,False
+pass,rush middle,7,False
+pass,rush right,-4,False
 pass,pass,6,True
-pass,pass,24,True
-pass,pass,44,True
-pass,pass,4,True
+pass,pass,17,True
 pass,pass,0,True
-rush right,pass,20,False
-rush middle,pass,-3,False
-rush right,pass,-8,False
-rush middle,rush middle,5,True
+pass,rush middle,0,False
+pass,pass,22,True
+rush left,rush middle,20,False
+rush right,rush right,5,True
+rush middle,pass,7,False
 pass,pass,34,True
-punt,rush right,0,False
+rush right,pass,-13,False
+pass,rush left,43,False
+pass,pass,24,True
+pass,rush middle,62,False
+pass,pass,7,True
+pass,pass,14,True
+rush right,pass,-2,False
+rush middle,pass,0,False
+rush right,rush right,155,True
+rush middle,rush middle,15,True
+pass,pass,0,True
+punt,pass,0,False
 rush left,pass,4,False
 field goal attempt,rush middle,5,False
-pass,pass,-4,True
-rush right,pass,2,False
-pass,pass,0,True
-rush left,pass,4,False
-pass,pass,2,True
-rush left,pass,22,False
-rush middle,pass,108,False
-rush right,rush right,5,True
-rush middle,rush middle,3,True
-rush middle,rush middle,8,True
-rush middle,pass,6,False
-rush right,pass,16,False
-rush middle,pass,4,False
-rush middle,rush middle,2,True
-rush middle,rush middle,4,True
-pass,pass,17,True
-pass,pass,14,True
-pass,pass,7,True
-rush right,pass,16,False
-rush middle,rush middle,4,True
-rush right,pass,4,False
-rush middle,pass,6,False
-rush left,rush middle,27,False
-rush right,rush middle,12,False
-kick attempt,rush middle,0,False
-pass,pass,10,True
-rush middle,pass,0,False
-rush right,pass,0,False
-pass,rush middle,6,False
 pass,rush middle,0,False
-rush middle,rush middle,0,True
-rush middle,rush middle,2,True
-rush right,pass,27,False
-rush middle,rush middle,0,True
+rush right,pass,-2,False
+pass,rush middle,38,False
+rush left,pass,0,False
+pass,rush left,22,False
+rush left,rush right,5,False
+rush middle,pass,0,False
+rush right,pass,-2,False
+rush middle,rush middle,13,True
+rush middle,pass,5,False
+rush middle,pass,26,False
+rush right,rush middle,2,False
+rush middle,rush middle,6,True
+rush middle,pass,0,False
+rush middle,pass,2,False
+pass,pass,0,True
+pass,pass,0,True
+pass,pass,34,True
+rush right,pass,15,False
+rush middle,rush middle,4,True
+rush right,rush middle,83,False
+rush middle,pass,2,False
+rush left,rush middle,27,False
+rush right,rush middle,0,False
+kick attempt,rush middle,0,False
+pass,rush middle,59,False
+rush middle,pass,4,False
+rush right,pass,0,False
+pass,pass,22,True
+pass,pass,0,True
+rush middle,pass,4,False
+rush middle,rush middle,32,True
+rush right,rush middle,13,False
+rush middle,rush right,5,False
 rush left,pass,0,False
 pass,rush middle,55,False
-rush right,rush middle,5,False
-pass,pass,39,True
-pass,pass,8,True
-punt,pass,0,False
-pass,rush middle,0,False
-rush left,rush middle,60,False
-pass,field goal attempt,0,False
+rush right,pass,-4,False
 pass,pass,0,True
+pass,rush middle,0,False
+punt,rush middle,0,False
+pass,rush middle,0,False
+rush left,rush middle,38,False
+pass,rush left,40,False
+pass,rush middle,3,False
 pass,pass,0,True
 rush left,pass,34,False
 rush left,pass,49,False
-rush middle,pass,22,False
-pass,pass,0,True
-rush middle,rush middle,4,True
-pass,rush middle,66,False
-pass,pass,6,True
-pass,field goal attempt,0,False
+rush middle,pass,4,False
+pass,rush middle,10,False
+rush middle,rush middle,2,True
+pass,rush middle,0,False
+pass,pass,85,True
+pass,pass,28,True
 punt,pass,0,False
 rush right,rush middle,62,False
-rush middle,rush middle,0,True
-pass,pass,36,True
-rush left,rush middle,44,False
-rush left,rush middle,0,False
-rush middle,rush middle,8,True
+rush middle,rush right,0,False
+pass,rush middle,4,False
+rush left,rush right,3,False
+rush left,pass,25,False
+rush middle,pass,28,False
 kick attempt,rush middle,0,False
 kick attempt,rush middle,0,False
-rush middle,pass,0,False
-rush middle,pass,5,False
-pass,rush middle,0,False
-rush left,rush middle,-17,False
-rush middle,pass,3,False
-pass,rush middle,13,False
-rush right,rush middle,4,False
-kick attempt,pass,0,False
-pass,pass,3,True
-pass,pass,10,True
-rush middle,rush middle,62,True
-rush left,rush left,-3,True
 rush middle,rush middle,3,True
 rush middle,pass,24,False
-rush middle,rush left,0,False
+pass,rush middle,32,False
+rush left,rush middle,31,False
+rush middle,rush middle,0,True
+pass,rush middle,13,False
+rush right,pass,26,False
+kick attempt,rush middle,0,False
+pass,rush middle,30,False
+pass,rush left,79,False
+rush middle,pass,15,False
+rush left,pass,22,False
+rush middle,pass,5,False
+rush middle,rush right,0,False
+rush middle,pass,4,False
+pass,rush left,23,False
+pass,pass,51,True
+rush middle,rush middle,55,True
+rush middle,pass,5,False
+pass,rush right,3,False
+pass,rush middle,54,False
+pass,pass,34,True
+pass,rush middle,22,False
+rush middle,pass,8,False
+rush middle,rush middle,7,True
+punt,pass,0,False
+rush middle,rush middle,60,True
+pass,rush middle,26,False
+pass,pass,23,True
 pass,rush middle,0,False
-pass,pass,0,True
-rush middle,pass,2,False
-rush middle,pass,23,False
-pass,pass,29,True
-pass,pass,4,True
-pass,field goal attempt,0,False
-pass,pass,4,True
-rush middle,pass,6,False
-rush middle,pass,27,False
-punt,pass,0,False
-rush middle,rush right,2,False
-pass,pass,5,True
-pass,pass,0,True
-pass,pass,0,True
 kick attempt,rush middle,0,False
-punt,rush middle,0,False
+pass,rush middle,62,False
 punt,pass,0,False
-rush middle,pass,2,False
+rush middle,rush middle,64,True
 kick attempt,rush middle,0,False
-rush left,pass,0,False
-kick attempt,pass,0,False
+punt,pass,0,False
+kick attempt,rush middle,0,False
 field goal attempt,field goal attempt,5,True
-rush right,rush middle,64,False
-pass,rush middle,66,False
-rush middle,rush middle,4,True
-pass,rush middle,0,False
-rush middle,pass,106,False
+rush right,pass,22,False
+pass,pass,-2,True
+rush middle,rush middle,108,True
+pass,pass,82,True
+rush middle,pass,0,False
 pass,pass,0,True
-pass,pass,8,True
-kick attempt,pass,0,False
-pass,pass,60,True
-rush left,pass,106,False
-pass,rush middle,23,False
 pass,pass,0,True
+kick attempt,rush middle,0,False
 pass,rush right,0,False
+rush left,pass,2,False
+pass,rush middle,6,False
+pass,rush middle,0,False
+pass,rush right,24,False
 rush left,pass,0,False
-rush middle,rush middle,18,True
-pass,pass,36,True
-pass,pass,0,True
-rush middle,pass,6,False
-rush right,rush middle,0,False
+rush middle,pass,5,False
+pass,field goal attempt,42,False
+pass,pass,5,True
+rush middle,rush middle,9,True
+rush right,pass,2,False
 rush left,pass,0,False
-pass,pass,16,True
-pass,pass,4,True
-punt,pass,0,False
 pass,pass,9,True
 pass,pass,0,True
-rush right,rush middle,-2,False
-pass,pass,34,True
-rush middle,pass,13,False
-rush left,pass,4,False
-rush left,rush middle,3,False
+punt,pass,0,False
 pass,pass,0,True
-rush right,pass,4,False
-kick attempt,pass,0,False
 pass,pass,0,True
-rush left,pass,2,False
-rush middle,pass,2,False
+rush right,rush middle,72,False
 pass,pass,0,True
-pass,pass,4,True
-pass,rush middle,78,False
+rush middle,pass,26,False
+rush left,rush middle,4,False
+rush left,pass,3,False
+pass,rush middle,0,False
 rush right,pass,2,False
-pass,pass,68,True
-pass,pass,0,True
-punt,pass,0,False
+kick attempt,rush right,0,False
+pass,pass,-6,True
+rush left,rush middle,72,False
+rush middle,pass,6,False
+pass,pass,18,True
 pass,rush middle,0,False
-pass,pass,3,True
-rush left,pass,26,False
-pass,rush middle,24,False
-rush middle,pass,7,False
-pass,pass,-4,True
-pass,pass,7,True
-pass,pass,5,True
-rush left,rush middle,3,False
-pass,pass,5,True
+pass,pass,0,True
+rush right,rush middle,28,False
+pass,rush right,29,False
+pass,pass,25,True
+punt,pass,0,False
+pass,pass,0,True
 pass,pass,21,True
-field goal attempt,field goal attempt,5,True
-pass,pass,4,True
-field goal attempt,field goal attempt,5,True
-rush left,pass,-10,False
-rush right,pass,21,False
+rush left,pass,0,False
+pass,rush middle,6,False
+rush middle,rush middle,4,True
+pass,pass,22,True
+pass,pass,66,True
 pass,rush middle,0,False
+rush left,rush middle,3,False
+pass,pass,6,True
+pass,pass,27,True
+field goal attempt,field goal attempt,5,True
 pass,pass,0,True
-pass,pass,2,True
+field goal attempt,field goal attempt,5,True
+rush left,pass,132,False
+rush right,rush middle,21,False
+pass,pass,0,True
 pass,pass,7,True
-kick attempt,pass,0,False
 pass,pass,0,True
-rush right,rush middle,10,False
-rush right,pass,4,False
+pass,pass,58,True
+kick attempt,rush middle,0,False
+pass,pass,16,True
+rush right,rush middle,0,False
+rush right,pass,10,False
+pass,rush left,7,False
+pass,pass,4,True
+kick attempt,pass,0,False
+pass,rush middle,-3,False
+rush middle,rush right,3,False
+rush middle,rush middle,0,True
+pass,pass,2,True
+rush left,rush middle,2,False
+rush middle,pass,2,False
+pass,rush right,47,False
+pass,pass,31,True
+pass,pass,66,True
+field goal attempt,rush middle,5,False
+rush right,rush right,4,True
+pass,pass,7,True
 pass,pass,28,True
-pass,pass,0,True
-kick attempt,pass,0,False
-pass,pass,0,True
-rush middle,pass,0,False
-rush middle,rush middle,0,True
-pass,pass,34,True
-rush left,rush middle,67,False
-rush middle,rush middle,0,True
-pass,pass,0,True
-pass,pass,0,True
-pass,pass,-7,True
-field goal attempt,pass,5,False
-rush right,rush middle,60,False
-pass,pass,32,True
-pass,pass,24,True
-pass,pass,-1,True
-pass,pass,26,True
-rush right,rush middle,7,False
-rush middle,pass,5,False
-punt,pass,0,False
-punt,pass,0,False
-rush middle,pass,3,False
-rush middle,pass,21,False
-rush left,pass,-3,False
-rush left,rush middle,7,False
-pass,pass,0,True
-rush right,pass,-4,False
-pass,pass,0,True
-pass,pass,37,True
-pass,pass,20,True
-pass,rush right,21,False
-pass,rush middle,28,False
-pass,rush left,94,False
+pass,rush left,8,False
+pass,rush left,0,False
+rush right,pass,7,False
 rush middle,rush middle,2,True
-rush middle,pass,0,False
-pass,pass,-2,True
 punt,field goal attempt,0,False
-rush right,rush middle,-2,False
+punt,pass,0,False
+rush middle,pass,-4,False
+rush middle,pass,6,False
+rush left,pass,3,False
+rush left,pass,23,False
+pass,pass,24,True
+rush right,pass,7,False
+pass,pass,0,True
+pass,rush right,0,False
+pass,pass,0,True
+pass,rush middle,5,False
+pass,pass,44,True
+pass,pass,0,True
+rush middle,pass,15,False
+rush middle,pass,20,False
+pass,rush middle,43,False
+punt,pass,0,False
+rush right,rush middle,20,False
 kick attempt,rush middle,0,False
 pass,pass,33,True
 pass,pass,54,True
-pass,rush left,7,False
-rush left,rush middle,5,False
-rush middle,pass,4,False
+pass,pass,0,True
+rush left,pass,-7,False
+rush middle,rush middle,2,True
 punt,pass,0,False
-rush left,rush middle,23,False
-pass,pass,4,True
+rush left,rush left,0,True
+pass,rush middle,0,False
+rush middle,rush middle,2,True
+rush left,pass,-6,False
+rush middle,rush middle,4,True
+pass,rush middle,7,False
+rush middle,rush middle,0,True
+rush middle,pass,4,False
+pass,pass,0,True
 rush middle,pass,0,False
-rush left,pass,22,False
-rush middle,pass,2,False
-pass,pass,43,True
-rush middle,rush right,8,False
-rush middle,rush left,6,False
-pass,rush right,0,False
-rush middle,pass,43,False
-rush middle,pass,3,False
-pass,rush middle,24,False
-rush middle,pass,2,False
-rush left,rush middle,0,False
-pass,pass,26,True
-pass,pass,6,True
+rush middle,rush left,0,False
+pass,pass,7,True
+rush middle,rush middle,4,True
+rush left,rush middle,21,False
+pass,rush right,31,False
+pass,pass,0,True
 field goal attempt,rush right,5,False
-rush middle,rush middle,18,True
-pass,pass,10,True
-rush middle,pass,2,False
-rush middle,pass,27,False
-pass,rush middle,-8,False
-pass,pass,0,True
-rush middle,rush middle,0,True
-pass,pass,24,True
-punt,pass,0,False
-pass,pass,5,True
-rush middle,rush middle,0,True
-rush middle,pass,2,False
-rush middle,pass,5,False
-rush middle,pass,20,False
-pass,pass,0,True
-rush middle,pass,0,False
-rush middle,pass,2,False
-punt,rush middle,0,False
-rush middle,rush middle,21,True
-pass,pass,28,True
-kick attempt,pass,0,False
-pass,rush middle,0,False
-rush left,pass,0,False
-rush middle,pass,4,False
-rush right,pass,7,False
-pass,rush middle,8,False
-field goal attempt,field goal attempt,5,True
-rush middle,rush middle,-3,True
-kick attempt,rush middle,0,False
-pass,pass,0,True
-pass,rush middle,0,False
-pass,pass,8,True
-rush left,pass,0,False
-rush middle,rush middle,0,True
-pass,rush middle,10,False
-punt,pass,0,False
-pass,pass,0,True
-pass,pass,24,True
-pass,pass,0,True
-pass,pass,-9,True
-rush middle,pass,4,False
-pass,pass,3,True
-rush right,rush middle,-5,False
-rush middle,pass,20,False
-pass,pass,0,True
-rush middle,pass,2,False
-rush middle,pass,4,False
-pass,pass,0,True
-rush middle,pass,0,False
-rush right,pass,2,False
-pass,pass,0,True
-kick attempt,pass,0,False
-rush middle,rush right,0,False
-pass,pass,6,True
-pass,pass,24,True
-kick attempt,rush middle,0,False
-rush middle,pass,0,False
-rush middle,pass,4,False
-rush right,pass,0,False
-rush left,pass,0,False
-pass,pass,20,True
-pass,pass,5,True
-rush right,rush middle,0,False
-pass,pass,9,True
-rush left,rush right,37,False
-kneel,pass,0,False
-rush middle,rush middle,0,True
-rush left,rush middle,-4,False
-rush left,pass,132,False
-kick attempt,rush middle,0,False
-rush middle,pass,-10,False
-pass,pass,3,True
-rush middle,rush middle,23,True
-rush middle,pass,0,False
-rush right,rush middle,4,False
-rush right,pass,22,False
-rush middle,pass,8,False
-rush left,rush middle,15,False
-rush middle,rush middle,3,True
-pass,field goal attempt,0,False
-rush right,pass,87,False
-rush middle,rush middle,2,True
-rush left,pass,-2,False
-rush left,rush middle,2,False
-pass,rush right,0,False
-rush left,rush middle,-5,False
-rush middle,pass,17,False
-field goal attempt,field goal attempt,5,True
-rush middle,pass,0,False
-rush right,rush middle,20,False
-pass,rush left,23,False
-rush middle,rush middle,4,True
-rush right,rush right,7,True
-rush middle,rush right,-3,False
-pass,pass,24,True
-pass,rush middle,28,False
-rush middle,rush middle,2,True
-pass,pass,-3,True
-rush left,pass,26,False
-punt,field goal attempt,0,False
-pass,pass,6,True
-rush right,pass,29,False
-rush middle,pass,2,False
-kick attempt,pass,0,False
-rush middle,pass,2,False
-rush middle,pass,0,False
-pass,pass,0,True
-pass,pass,28,True
-rush middle,pass,9,False
-rush middle,rush middle,4,True
-pass,pass,0,True
-pass,pass,0,True
-pass,pass,34,True
-pass,pass,25,True
-rush right,pass,0,False
-rush middle,rush right,5,False
-kick attempt,pass,0,False
-kick attempt,pass,0,False
-rush left,pass,4,False
-punt,pass,0,False
-rush middle,pass,0,False
-punt,pass,0,False
-pass,rush right,0,False
-pass,pass,2,True
-pass,rush right,0,False
-rush left,pass,-2,False
-rush middle,rush middle,4,True
-rush right,pass,6,False
-pass,rush middle,-5,False
-rush middle,rush middle,0,True
-pass,pass,23,True
-field goal attempt,field goal attempt,5,True
-rush left,pass,-2,False
-kick attempt,rush middle,0,False
-pass,pass,8,True
-rush middle,pass,7,False
-pass,pass,21,True
-pass,rush middle,0,False
-rush middle,rush middle,63,True
-pass,rush middle,-2,False
-rush middle,pass,5,False
-rush middle,pass,0,False
-pass,pass,0,True
-punt,pass,0,False
-pass,field goal attempt,0,False
-pass,pass,0,True
-rush middle,pass,8,False
-pass,rush middle,0,False
-pass,rush left,0,False
-pass,pass,7,True
-pass,pass,34,True
-pass,pass,0,True
-rush middle,pass,-9,False
-rush right,rush middle,2,False
-punt,pass,0,False
-rush right,pass,17,False
-rush middle,rush middle,83,True
-pass,rush middle,-4,False
-rush middle,rush middle,4,True
-rush middle,pass,20,False
-pass,pass,0,True
-rush right,rush middle,21,False
-pass,pass,23,True
-rush right,pass,31,False
-pass,pass,42,True
-pass,pass,49,True
-pass,pass,39,True
-pass,pass,9,True
-rush right,rush middle,72,False
-rush left,pass,4,False
-rush middle,pass,12,False
-rush left,pass,2,False
-rush middle,rush middle,-2,True
-rush middle,pass,6,False
+rush middle,rush middle,60,True
+pass,rush middle,7,False
 rush middle,rush middle,5,True
+rush middle,pass,24,False
+pass,pass,0,True
+pass,pass,6,True
+rush middle,rush middle,0,True
+pass,pass,20,True
 punt,pass,0,False
-pass,rush middle,0,False
-rush left,rush right,5,False
-pass,pass,34,True
-pass,pass,0,True
-rush middle,pass,12,False
-pass,rush middle,3,False
-pass,pass,28,True
-pass,pass,0,True
-rush right,rush middle,29,False
-pass,pass,0,True
-rush middle,pass,2,False
-pass,rush left,34,False
-pass,pass,23,True
-rush right,pass,0,False
-rush left,rush middle,4,False
-rush middle,pass,7,False
-rush right,rush middle,72,False
-rush left,pass,29,False
 pass,pass,22,True
-rush left,pass,33,False
-rush middle,pass,5,False
-rush middle,rush middle,6,True
-pass,pass,7,True
-field goal attempt,pass,5,False
-rush right,pass,2,False
-pass,pass,0,True
-pass,pass,8,True
-rush right,pass,-2,False
-pass,pass,-4,True
-kick attempt,pass,0,False
-rush right,pass,9,False
-rush left,pass,99,False
+rush middle,pass,108,False
+rush middle,pass,0,False
+rush middle,pass,-6,False
 rush middle,rush middle,4,True
-rush middle,pass,4,False
-rush left,rush middle,7,False
+pass,rush middle,62,False
 rush middle,pass,3,False
-pass,rush middle,0,False
+rush middle,pass,8,False
+punt,pass,0,False
+rush middle,pass,6,False
+pass,pass,2,True
 kick attempt,rush middle,0,False
-rush right,pass,0,False
-pass,rush right,0,False
+pass,pass,31,True
+rush left,pass,-2,False
+rush middle,pass,0,False
+rush right,rush middle,3,False
 pass,pass,0,True
-pass,rush middle,9,False
-pass,pass,28,True
-rush middle,rush middle,64,True
 field goal attempt,field goal attempt,5,True
-pass,pass,0,True
 rush middle,pass,0,False
 kick attempt,rush middle,0,False
-kick attempt,rush middle,0,False
+pass,rush middle,-2,False
+pass,pass,23,True
+pass,rush middle,29,False
+rush left,pass,18,False
+rush middle,rush middle,60,True
+pass,pass,0,True
+punt,pass,0,False
+pass,pass,0,True
+pass,rush middle,7,False
+pass,pass,10,True
+pass,pass,0,True
+rush middle,rush middle,3,True
 pass,pass,0,True
 rush right,rush middle,6,False
-kick attempt,rush middle,0,False
-pass,pass,5,True
-pass,rush middle,38,False
-punt,pass,0,False
-pass,rush middle,3,False
-rush middle,pass,4,False
-rush middle,rush middle,60,True
-kick attempt,pass,0,False
-pass,rush left,-4,False
-rush middle,rush middle,19,True
-pass,rush left,9,False
+rush middle,rush middle,4,True
 pass,pass,0,True
+rush middle,pass,20,False
+rush middle,rush middle,25,True
+pass,pass,0,True
+rush middle,rush middle,0,True
+rush right,pass,-3,False
+pass,rush middle,0,False
+kick attempt,pass,0,False
+rush middle,pass,0,False
+pass,pass,-2,True
+pass,pass,0,True
+kick attempt,rush middle,0,False
+rush middle,pass,12,False
+rush middle,pass,4,False
+rush right,rush left,20,False
+rush left,pass,0,False
+pass,pass,23,True
+pass,pass,0,True
+rush right,pass,4,False
+pass,pass,36,True
+rush left,pass,16,False
+kneel,rush middle,0,False
+rush middle,pass,3,False
+rush left,rush middle,2,False
+rush left,pass,2,False
+kick attempt,rush middle,0,False
+rush middle,rush middle,21,True
+pass,pass,0,True
+rush middle,pass,12,False
+rush middle,rush middle,2,True
+rush right,pass,3,False
+rush right,rush right,18,True
+rush middle,pass,6,False
+rush left,pass,81,False
 rush middle,pass,2,False
+pass,pass,0,True
+rush right,rush right,18,True
+rush middle,pass,2,False
+rush left,pass,6,False
+rush left,rush middle,67,False
+pass,rush middle,0,False
+rush left,pass,4,False
+rush middle,rush middle,3,True
+field goal attempt,field goal attempt,5,True
+rush middle,pass,5,False
+rush right,rush middle,0,False
+pass,pass,2,True
+rush middle,rush middle,106,True
+rush right,pass,7,False
+rush middle,pass,5,False
+pass,pass,0,True
+pass,pass,29,True
+rush middle,rush middle,4,True
+pass,rush right,0,False
+rush left,rush right,0,False
+punt,pass,0,False
+pass,pass,0,True
+rush right,rush middle,29,False
+rush middle,rush middle,-6,True
+kick attempt,pass,0,False
+rush middle,pass,24,False
+rush middle,rush middle,-5,True
+pass,rush middle,6,False
+pass,pass,20,True
+rush middle,pass,64,False
+rush middle,pass,4,False
+pass,pass,0,True
+pass,pass,0,True
+pass,pass,0,True
+pass,pass,6,True
+rush right,rush middle,7,False
+rush right,rush middle,0,False
+kick attempt,pass,0,False
+kick attempt,rush middle,0,False
+rush left,pass,-14,False
 punt,pass,0,False
 rush middle,pass,16,False
-pass,pass,7,True
-pass,pass,7,True
-pass,pass,8,True
-pass,pass,0,True
-kick attempt,rush middle,0,False
-pass,pass,0,True
-rush left,rush left,17,True
-pass,pass,22,True
-rush middle,rush middle,3,True
-pass,pass,0,True
-rush middle,rush middle,60,True
-rush middle,rush middle,0,True
-pass,rush middle,0,False
-rush middle,rush middle,3,True
-rush middle,pass,4,False
-pass,rush middle,33,False
-pass,rush middle,62,False
-rush right,rush middle,85,False
-rush middle,pass,0,False
-rush middle,pass,22,False
 punt,pass,0,False
-rush middle,pass,14,False
-rush middle,rush middle,21,True
-rush left,rush middle,120,False
-pass,pass,20,True
-rush left,pass,4,False
-pass,pass,0,True
-rush right,rush right,13,True
-pass,pass,0,True
-pass,pass,59,True
-kick attempt,rush middle,0,False
 pass,pass,9,True
-rush right,pass,0,False
-rush left,rush right,2,False
+pass,pass,6,True
 pass,rush left,0,False
-rush left,rush middle,-6,False
-rush middle,rush middle,60,True
-pass,rush middle,0,False
-rush left,rush middle,14,False
-pass,rush middle,0,False
-rush right,pass,3,False
-pass,rush middle,41,False
-rush right,pass,69,False
-pass,rush middle,29,False
-pass,pass,0,True
-pass,rush middle,80,False
-pass,pass,8,True
-pass,rush middle,6,False
-pass,field goal attempt,42,False
-rush right,rush right,3,True
+rush left,pass,26,False
+rush middle,rush middle,6,True
+rush right,rush right,5,True
+pass,pass,34,True
+rush middle,pass,0,False
+pass,pass,23,True
 field goal attempt,field goal attempt,5,True
+rush left,pass,4,False
+kick attempt,rush middle,0,False
+pass,pass,22,True
+rush middle,rush middle,62,True
+pass,pass,32,True
+pass,rush middle,4,False
+rush middle,rush left,62,False
+pass,rush left,0,False
+rush middle,pass,7,False
+rush middle,rush middle,5,True
+pass,pass,0,True
+punt,rush middle,0,False
+pass,pass,21,True
+pass,rush middle,0,False
+rush middle,rush middle,21,True
+pass,pass,8,True
+pass,pass,0,True
+pass,pass,21,True
+pass,pass,17,True
+pass,pass,9,True
+rush middle,rush right,8,False
 rush right,pass,44,False
+punt,pass,0,False
+rush right,pass,2,False
+rush middle,rush middle,-2,True
+pass,pass,8,True
+rush middle,pass,0,False
+rush middle,pass,-2,False
+pass,field goal attempt,-2,False
+rush right,rush middle,18,False
+pass,pass,0,True
+rush right,rush middle,5,False
+pass,pass,2,True
+pass,rush right,91,False
+pass,rush middle,21,False
+pass,pass,39,True
+rush right,pass,0,False
+rush left,pass,4,False
+rush middle,rush middle,7,True
+rush left,pass,6,False
+rush middle,rush right,2,False
+rush middle,rush middle,0,True
+rush middle,pass,-2,False
+punt,pass,0,False
+pass,pass,30,True
+rush left,rush middle,2,False
+pass,pass,6,True
+pass,rush middle,28,False
+rush middle,pass,-5,False
+pass,rush middle,72,False
+pass,rush middle,3,False
+pass,pass,6,True
+rush right,pass,9,False
+pass,rush middle,0,False
+rush middle,pass,4,False
+pass,pass,35,True
+pass,rush middle,23,False
+rush right,rush middle,60,False
+rush left,rush middle,4,False
+rush right,rush middle,27,False
+rush right,pass,3,False
+rush left,pass,14,False
+pass,pass,33,True
+rush left,rush right,7,False
+rush middle,rush middle,2,True
+rush middle,rush middle,0,True
+pass,pass,0,True
+field goal attempt,pass,5,False
+rush right,pass,16,False
+pass,rush middle,-2,False
+pass,pass,-6,True
+rush right,rush middle,6,False
+pass,pass,4,True
+kick attempt,pass,0,False
+rush right,rush middle,0,False
+rush left,pass,99,False
+rush middle,pass,3,False
+rush middle,rush middle,125,True
+rush left,pass,4,False
+rush middle,pass,2,False
+pass,pass,37,True
+kick attempt,rush middle,0,False
+rush right,rush middle,3,False
+pass,rush middle,0,False
+pass,pass,0,True
+pass,rush middle,9,False
+pass,pass,5,True
+rush middle,pass,22,False
+field goal attempt,field goal attempt,5,True
+pass,pass,8,True
+rush middle,rush middle,4,True
+kick attempt,rush middle,0,False
+kick attempt,rush middle,0,False
+pass,pass,2,True
+rush right,pass,16,False
+kick attempt,rush middle,0,False
+pass,pass,34,True
+pass,field goal attempt,21,False
+punt,pass,0,False
+pass,pass,0,True
+rush middle,pass,2,False
+rush middle,rush middle,7,True
+kick attempt,rush middle,0,False
+pass,pass,0,True
+rush middle,pass,43,False
+pass,pass,26,True
+pass,rush middle,0,False
+rush middle,pass,5,False
+punt,rush middle,0,False
+rush middle,pass,62,False
+pass,pass,0,True
+pass,rush middle,3,False
+pass,pass,60,True
+pass,pass,0,True
+kick attempt,rush middle,0,False
+pass,rush middle,0,False
+rush left,rush middle,23,False
+pass,pass,0,True
+rush middle,rush middle,0,True
+pass,pass,-5,True
+rush middle,rush middle,9,True
+rush middle,rush middle,83,True
+pass,pass,3,True
+rush middle,rush middle,5,True
+rush middle,pass,4,False
+pass,rush left,0,False
+pass,rush right,54,False
+rush right,pass,-8,False
+rush middle,rush middle,23,True
+rush middle,pass,-3,False
+punt,pass,0,False
+rush middle,rush middle,13,True
+rush middle,pass,0,False
+rush left,pass,2,False
+pass,rush middle,5,False
+rush left,rush middle,33,False
+pass,rush middle,8,False
+rush right,rush middle,3,False
+pass,rush right,0,False
+pass,rush middle,0,False
+kick attempt,rush middle,0,False
+pass,pass,0,True
+rush right,rush middle,110,False
+rush left,rush left,2,True
+pass,pass,0,True
+rush left,pass,4,False
+rush middle,rush middle,0,True
+pass,pass,4,True
+rush left,rush middle,26,False
+pass,pass,0,True
+rush right,pass,2,False
+pass,pass,7,True
+rush right,rush middle,-1,False
+pass,pass,0,True
+pass,pass,0,True
+pass,pass,0,True
+pass,pass,8,True
+pass,rush middle,50,False
+pass,pass,35,True
+rush right,pass,4,False
+field goal attempt,field goal attempt,5,True
+rush right,pass,4,False
 kick attempt,rush middle,0,False
 pass,pass,9,True
-pass,pass,17,True
-rush right,rush middle,5,False
-rush left,rush middle,0,False
-rush middle,pass,21,False
-pass,pass,-6,True
-pass,rush middle,16,False
-rush left,rush right,2,False
-kick attempt,pass,0,False
+pass,rush middle,-3,False
+rush right,rush middle,3,False
+rush left,pass,5,False
+rush middle,pass,3,False
+pass,rush right,-2,False
+pass,pass,51,True
+rush left,rush middle,2,False
+kick attempt,rush middle,0,False
 rush right,pass,2,False
 punt,pass,0,False
-pass,pass,0,True
-pass,pass,0,True
+pass,rush middle,27,False
+pass,pass,34,True
 rush right,rush middle,0,False
 pass,pass,0,True
-pass,pass,23,True
-pass,pass,6,True
-pass,rush middle,85,False
-punt,pass,0,False
-rush right,rush right,155,True
-rush left,rush middle,3,False
-kick attempt,pass,0,False
-rush middle,rush middle,73,True
-pass,pass,29,True
-pass,rush left,8,False
-rush middle,rush middle,6,True
-kick attempt,rush middle,0,False
-rush middle,pass,-5,False
-punt,pass,0,False
-rush right,rush middle,0,False
-pass,rush middle,28,False
-rush left,pass,-2,False
-pass,pass,37,True
-rush left,pass,52,False
-rush middle,pass,5,False
-pass,rush right,2,False
-pass,pass,0,True
-rush left,pass,-13,False
 pass,rush middle,0,False
+pass,pass,0,True
+pass,rush middle,20,False
+punt,pass,0,False
+rush right,pass,2,False
+rush left,rush left,-4,True
+kick attempt,pass,0,False
+rush middle,rush middle,63,True
+pass,pass,29,True
+pass,pass,0,True
 rush middle,pass,2,False
-rush middle,pass,31,False
-rush middle,pass,2,False
-rush middle,pass,-4,False
-pass,pass,62,True
-rush middle,rush middle,5,True
-rush right,pass,-2,False
-pass,rush middle,66,False
+kick attempt,rush middle,0,False
+rush middle,rush middle,2,True
+punt,pass,0,False
+rush right,pass,9,False
+pass,pass,38,True
+rush left,rush middle,30,False
+pass,pass,8,True
+rush left,pass,31,False
+rush middle,pass,4,False
+pass,rush right,2,False
+pass,pass,5,True
+rush left,pass,6,False
+pass,pass,0,True
+rush middle,pass,0,False
+rush middle,pass,4,False
+rush middle,pass,-2,False
+rush middle,rush middle,2,True
+pass,pass,22,True
+rush middle,pass,0,False
+rush right,rush middle,3,False
+pass,pass,0,True
 pass,pass,0,True

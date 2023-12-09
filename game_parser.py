@@ -238,8 +238,6 @@ def write_to_csv(plays, csv_file):
 
 if __name__ == "__main__":
     directory_path = "play-by-plays"
-    csv_file = "plays.csv"
-
     all_plays = []
     for filename in os.listdir(directory_path):
         if filename.endswith(".txt"):
@@ -247,6 +245,11 @@ if __name__ == "__main__":
             plays = parse_play_by_play(file_path)
             all_plays.extend(plays)
 
-    write_to_csv(all_plays, csv_file)
+    write_to_csv(all_plays, "plays.csv")
+    print(f"CSV file plays.csv created successfully.")
 
-    print(f"CSV file '{csv_file}' created successfully.")
+    write_to_csv(all_plays, "random_forest/plays.csv")
+    print(f"CSV file plays.csv created successfully.")
+
+    write_to_csv(all_plays, "keras/__pycache__/plays.csv")
+    print(f"CSV file plays.csv created successfully.")
