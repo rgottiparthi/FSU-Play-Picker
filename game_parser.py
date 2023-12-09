@@ -206,8 +206,8 @@ def parse_play_by_play(file_path):
                     # Set 'best' to a random play type from the list
                     play_types = ["rush right", "rush middle", "rush left", "pass"]
                     best = random.choice(play_types)
-
-                plays.append((current_quarter, play_number, down, play_type, net_yards, distance_to_first, touchdown, sack, first_down, outcome, line, best, distance_to_touchdown, total_time_remaining, score_difference))
+                if(play_type != "NONE"):
+                    plays.append((current_quarter, play_number, down, play_type, net_yards, distance_to_first, touchdown, sack, first_down, outcome, line, best, distance_to_touchdown, total_time_remaining, score_difference))
                 play_number += 1
 
     return plays

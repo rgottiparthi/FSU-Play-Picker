@@ -6,12 +6,12 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3600,5,2,0,rush left,10,50,3,0,"2nd and 10 at FSU50	No Huddle-Shotgun Toafili,Lawrance rush left for 3 yards gain to the CLE47 (Trotter Jr.,Jeremiah; Mukuba,Andrew).",rush left
 3600,6,3,0,pass,7,47,20,3,"3rd and 7 at CLE47	No Huddle-Shotgun Travis,Jordan pass complete short middle to McClain,Malik for 10 yards to the CLE37 (Mukuba,Andrew; Simpson,Trenton), 1ST DOWN.",pass
 3600,7,1,0,rush left,10,37,29,20,"1st and 10 at CLE37	No Huddle Benson,Trey rush left for 19 yards gain to the CLE18 (Jones,Sheridan), out of bounds, 1ST DOWN.",rush left
-3600,8,1,0,rush right,10,18,-2,29,"1st and 10 at CLE18	(12:44) No Huddle Benson,Trey rush right for 2 yards loss to the CLE20 (Trotter Jr.,Jeremiah).",rush left
+3600,8,1,0,rush right,10,18,-2,29,"1st and 10 at CLE18	(12:44) No Huddle Benson,Trey rush right for 2 yards loss to the CLE20 (Trotter Jr.,Jeremiah).",rush middle
 3401,9,2,0,rush left,12,20,90,-2,"2nd and 12 at CLE20	No Huddle-Shotgun Travis,Jordan rush left for 20 yards gain to the CLE00 TOUCHDOWN, clock 11:41, 1ST DOWN.",rush left
 3401,10,1,0,kick attempt,10,3,0,90,"1st and 10 at CLE3	Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
 3401,11,1,7,pass,10,51,2,0,"1st and 10 at FSU49	No Huddle-Shotgun Travis,Jordan pass complete short right to McDonald,Camren for 2 yards to the CLE49 (Phillips,Jalyn; Trotter Jr.,Jeremiah).",pass
 3401,12,2,7,pass,8,49,0,2,"2nd and 8 at CLE49	No Huddle-Shotgun Travis,Jordan pass incomplete short right to McDonald,Camren broken up by Henry,K.J..",pass
-3401,13,3,7,pass,8,49,-15,0,"3rd and 8 at CLE49	No Huddle-Shotgun Travis,Jordan sacked for loss of 15 yards to the FSU36 (Murphy,Myles).",rush middle
+3401,13,3,7,pass,8,49,-15,0,"3rd and 8 at CLE49	No Huddle-Shotgun Travis,Jordan sacked for loss of 15 yards to the FSU36 (Murphy,Myles).",rush right
 3401,14,4,7,punt,23,64,0,-15,"4th and 23 at FSU36	Mastromanno,Alex punt 37 yards to the CLE27 fair catch by Williams,Antonio at CLE27.",punt
 3112,15,1,0,pass,10,93,32,0,"1st and 10 at FSU7	No Huddle-Shotgun Travis,Jordan pass complete deep right to Wilson,Johnny for 22 yards to the FSU29, out of bounds at FSU29, 1ST DOWN.",pass
 3112,16,1,0,pass,10,71,2,32,"1st and 10 at FSU29	No Huddle-Shotgun Travis,Jordan pass complete short right to Toafili,Lawrance for 2 yards to the FSU31 (Maguire,Keith; Thomas,Xavier).",pass
@@ -38,12 +38,12 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3199,37,4,0,pass,2,31,0,8,"4th and 2 at CLE31	No Huddle-Shotgun Travis,Jordan pass incomplete short left to Wilson,Johnny broken up by Wiggins,Nate.",pass
 2811,38,1,-3,pass,10,75,6,0,"1st and 10 at FSU25	No Huddle-Shotgun Travis,Jordan pass complete short middle to Wilson,Johnny for 6 yards to the FSU31 (Phillips,Jalyn; Trotter Jr.,Jeremiah).",pass
 2811,39,2,-3,rush left,4,69,29,6,"2nd and 4 at FSU31	No Huddle-Shotgun Toafili,Lawrance rush left for 19 yards gain to the FSU50 (Phillips,Jalyn), out of bounds, 1ST DOWN.",rush left
-2811,40,1,-3,rush middle,10,50,-2,29,"1st and 10 at CLE50	No Huddle-Shotgun Travis,Jordan rush middle for 2 yards loss to the FSU48 (Murphy,Myles).",rush middle
-2811,41,2,-3,pass,12,52,-6,-2,"2nd and 12 at FSU48	No Huddle-Shotgun Travis,Jordan sacked for loss of 6 yards to the FSU42 (Murphy,Myles), fumble by Travis,Jordan recovered by CLE Davis,Tyler at FSU42, End Of Play.",pass
+2811,40,1,-3,rush middle,10,50,-2,29,"1st and 10 at CLE50	No Huddle-Shotgun Travis,Jordan rush middle for 2 yards loss to the FSU48 (Murphy,Myles).",rush right
+2811,41,2,-3,pass,12,52,-6,-2,"2nd and 12 at FSU48	No Huddle-Shotgun Travis,Jordan sacked for loss of 6 yards to the FSU42 (Murphy,Myles), fumble by Travis,Jordan recovered by CLE Davis,Tyler at FSU42, End Of Play.",rush middle
 2719,42,1,-10,pass,10,75,0,-6,"1st and 10 at FSU25	No Huddle-Shotgun Travis,Jordan pass incomplete short right to Pittman,Mycah.",pass
 2719,43,2,-10,rush middle,10,75,21,0,"2nd and 10 at FSU25	No Huddle-Shotgun Travis,Jordan rush middle for 11 yards gain to the FSU36 (Simpson,Trenton), out of bounds, 1ST DOWN.",rush middle
 2705,44,1,-10,pass,10,64,21,21,"1st and 10 at FSU36	No Huddle-Shotgun Travis,Jordan pass complete deep right to Toafili,Lawrance for 11 yards to the FSU47 (Carter,Barrett; Trotter Jr.,Jeremiah), 1ST DOWN.",pass
-1781,45,1,-17,rush left,10,75,-5,21,"1st and 10 at FSU25	No Huddle-Shotgun Toafili,Lawrance rush left for 5 yards loss to the FSU20 (Orhorhoro,Ruke).",rush middle
+1781,45,1,-17,rush left,10,75,-5,21,"1st and 10 at FSU25	No Huddle-Shotgun Toafili,Lawrance rush left for 5 yards loss to the FSU20 (Orhorhoro,Ruke).",pass
 1781,46,2,-17,pass,15,80,3,-5,"2nd and 15 at FSU20	No Huddle-Shotgun Travis,Jordan pass complete short right to McDonald,Camren for 3 yards to the FSU23 (Trotter Jr.,Jeremiah).",pass
 1781,47,3,-17,pass,12,77,7,3,"3rd and 12 at FSU23	No Huddle-Shotgun Travis,Jordan pass complete short middle to McDonald,Camren for 7 yards to the FSU30 (Phillips,Jalyn).",pass
 1781,48,4,-17,rush middle,5,70,4,7,"4th and 5 at FSU30	No Huddle Rector,Wyatt rush middle for 4 yards gain to the FSU34 (Price,Luke; Spector,Brannon).",rush middle
@@ -58,19 +58,19 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1352,57,1,-20,pass,10,53,9,16,"1st and 10 at FSU47	No Huddle-Shotgun Travis,Jordan pass complete short left to Toafili,Lawrance for 9 yards to the CLE44 (Phillips,Jalyn; Simpson,Trenton), out of bounds.",pass
 1352,58,2,-20,pass,1,44,16,9,"2nd and 1 at CLE44	No Huddle-Shotgun Travis,Jordan pass complete short left to Toafili,Lawrance for 6 yards to the CLE38 (Simpson,Trenton; Phillips,Jalyn), out of bounds, 1ST DOWN.",pass
 1352,59,1,-20,pass,10,38,0,16,"1st and 10 at CLE38	No Huddle-Shotgun Travis,Jordan pass incomplete short left QB hurried by Thomas,Xavier.",pass
-1352,60,2,-20,pass,10,38,-2,0,"2nd and 10 at CLE38	No Huddle-Shotgun Travis,Jordan pass complete short right to Wilson,Ontaria for 2 yards loss to the CLE40 (Jones,Sheridan; Mickens,R.J.).",rush right
+1352,60,2,-20,pass,10,38,-2,0,"2nd and 10 at CLE38	No Huddle-Shotgun Travis,Jordan pass complete short right to Wilson,Ontaria for 2 yards loss to the CLE40 (Jones,Sheridan; Mickens,R.J.).",rush left
 900,61,1,-20,pass,10,25,3,-2,"1st and 10 at CLE25	No Huddle-Shotgun Travis,Jordan pass complete short right to Toafili,Lawrance for 3 yards to the CLE22 (Bentley,LaVonta).",pass
 900,62,2,-20,rush left,7,22,24,3,"2nd and 7 at CLE22	No Huddle-Shotgun Travis,Jordan rush left for 14 yards gain to the CLE08, out of bounds at CLE08, 1ST DOWN.",rush left
 900,63,1,-20,pass,2,2,0,24,"1st and 2 at CLE2	No Huddle-Shotgun Travis,Jordan pass incomplete short right to Wilson,Johnny.",pass
 900,64,2,-20,pass,2,2,0,0,"2nd and 2 at CLE2	No Huddle-Shotgun Travis,Jordan pass incomplete short right to Wilson,Johnny.",pass
-900,65,3,-20,rush left,2,2,-2,0,"3rd and 2 at CLE2	No Huddle-Shotgun Travis,Jordan rush left for 2 yards loss to the CLE04 (Mickens,R.J.).",pass
+900,65,3,-20,rush left,2,2,-2,0,"3rd and 2 at CLE2	No Huddle-Shotgun Travis,Jordan rush left for 2 yards loss to the CLE04 (Mickens,R.J.).",rush middle
 772,66,4,-20,pass,4,4,0,-2,"4th and 4 at CLE4	No Huddle-Shotgun Travis,Jordan pass incomplete short middle to Toafili,Lawrance broken up by Henry,K.J..",pass
 772,67,1,-20,rush middle,10,60,9,0,"1st and 10 at FSU40	No Huddle-Shotgun Travis,Jordan rush middle for 9 yards gain to the FSU49 (Maguire,Keith; Simpson,Trenton).",rush middle
 772,68,2,-20,pass,1,51,0,9,"2nd and 1 at FSU49	No Huddle-Shotgun Travis,Jordan pass incomplete short left to Benson,Trey.",pass
 772,69,3,-20,rush middle,1,51,35,0,"3rd and 1 at FSU49	No Huddle-Shotgun Toafili,Lawrance rush middle for 25 yards gain to the CLE26 (Mukuba,Andrew), 1ST DOWN.",rush middle
 772,70,1,-20,pass,10,26,32,35,"1st and 10 at CLE26	No Huddle-Shotgun Travis,Jordan pass complete deep middle to Wilson,Johnny for 22 yards to the CLE04 (Mukuba,Andrew), 1ST DOWN.",pass
 772,71,1,-20,pass,4,4,0,32,"1st and 4 at CLE4	No Huddle-Shotgun Travis,Jordan pass incomplete short left to Toafili,Lawrance QB hurried by Henry,K.J..",pass
-772,72,2,-20,rush middle,4,4,-2,0,"2nd and 4 at CLE4	No Huddle-Shotgun Travis,Jordan rush middle for 2 yards loss to the CLE06 (Carter,Barrett; Murphy,Myles).",pass
+772,72,2,-20,rush middle,4,4,-2,0,"2nd and 4 at CLE4	No Huddle-Shotgun Travis,Jordan rush middle for 2 yards loss to the CLE06 (Carter,Barrett; Murphy,Myles).",rush middle
 562,73,3,-20,pass,6,6,66,-2,"3rd and 6 at CLE6	No Huddle-Shotgun Travis,Jordan pass complete short right to Douglas,Ja'Khi for 6 yards to the CLE00 TOUCHDOWN, clock 09:22.",pass
 562,74,1,-20,kick attempt,10,3,0,66,"1st and 10 at CLE3	Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
 241,75,1,-13,pass,10,94,7,0,"1st and 10 at FSU6	No Huddle-Shotgun Travis,Jordan pass complete short left to McDonald,Camren for 7 yards to the FSU13 (Phillips,Jalyn).",pass
@@ -105,7 +105,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3143,23,2,0,rush middle,4,60,3,6,"2nd and 4 at FSU40 No Huddle-Shotgun Benson,Trey rush middle for 3 yards gain to the FSU43 (McMillon,Donovan).",rush middle
 3143,24,3,0,rush right,1,57,0,3,"3rd and 1 at FSU43 No Huddle-Shotgun Travis,Jordan rush right for 1 yard loss to the FSU42 (Temple,Nate; George,Brandon).",rush right
 2700,25,4,0,punt,2,58,0,0,"4th and 2 at FSU42 Mastromanno,Alex punt 40 yards to the Pitt18 fair catch by Devonshire,M.J. at Pitt18.",punt
-2700,26,1,0,pass,10,68,-2,0,"1st and 10 at FSU32 No Huddle-Shotgun Travis,Jordan pass complete short right to Bell,Jaheim for 2 yards loss to the FSU30",rush left
+2700,26,1,0,pass,10,68,-2,0,"1st and 10 at FSU32 No Huddle-Shotgun Travis,Jordan pass complete short right to Bell,Jaheim for 2 yards loss to the FSU30",pass
 2700,27,2,0,pass,12,70,9,-2,"2nd and 12 at FSU30 No Huddle-Shotgun Travis,Jordan pass complete short right to Morlock,Kyle for 9 yards to the FSU39",pass
 2700,28,3,0,pass,3,61,0,9,"3rd and 3 at FSU39 No Huddle-Shotgun Travis,Jordan pass incomplete short middle to Douglas,Ja'Khi broken up by Simon,Shayne.",pass
 2700,29,4,0,punt,3,61,0,0,"4th and 3 at FSU39 Mastromanno,Alex punt 43 yards to the Pitt18 fair catch by Devonshire,M.J. at Pitt18.",punt
@@ -151,14 +151,14 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 736,69,1,17,rush right,10,74,9,0,"1st and 10 at FSU26 No Huddle-Shotgun Hill,Rodney rush right for 9 yards gain to the FSU35 (George,Brandon).",rush right
 736,70,2,17,pass,1,65,39,9,"2nd and 1 at FSU35 No Huddle-Shotgun Travis,Jordan pass complete short left to Hill,Destyn for 29 yards to the Pitt36",pass
 736,71,1,17,rush middle,10,36,4,39,"1st and 10 at PIT36 No Huddle-Shotgun Benson,Trey rush middle for 4 yards gain to the Pitt32 (Green,David; Hayes,Dayon).",rush middle
-736,72,2,17,pass,6,32,-17,4,"2nd and 6 at PIT32 No Huddle-Shotgun Travis,Jordan sacked for loss of 17 yards to the Pitt49 (Temple,Nate).",rush left
+736,72,2,17,pass,6,32,-17,4,"2nd and 6 at PIT32 No Huddle-Shotgun Travis,Jordan sacked for loss of 17 yards to the Pitt49 (Temple,Nate).",rush middle
 736,73,3,17,pass,23,49,0,-17,"3rd and 23 at PIT49 No Huddle-Shotgun Travis,Jordan pass incomplete deep middle to Poitier,Kentron.",pass
 736,74,4,17,punt,23,49,0,0,"4th and 23 at PIT49 Mastromanno,Alex punt 40 yards to the Pitt09, out of bounds at Pitt09.",punt
-736,75,1,17,rush left,10,71,-2,0,"1st and 10 at FSU29 No Huddle-Shotgun Hill,Rodney rush left for 2 yards loss to the FSU27 (Simon,Shayne; Bentley,Tyler).",rush middle
+736,75,1,17,rush left,10,71,-2,0,"1st and 10 at FSU29 No Huddle-Shotgun Hill,Rodney rush left for 2 yards loss to the FSU27 (Simon,Shayne; Bentley,Tyler).",rush left
 736,76,2,17,rush right,12,73,0,-2,"2nd and 12 at FSU27 No Huddle-Shotgun Hill,Rodney rush right for 1 yard loss to the FSU26 (Bentley,Tyler).",rush right
 736,77,3,17,pass,13,74,0,0,"3rd and 13 at FSU26 No Huddle-Shotgun Travis,Jordan pass complete short right to Hill,Rodney for 1 yard loss to the FSU25",pass
 736,78,4,17,punt,14,75,0,0,"4th and 14 at FSU25 Mastromanno,Alex punt 52 yards to the Pitt23 fair catch by Devonshire,M.J. at Pitt23.",punt
-736,79,1,17,rush right,10,48,-3,0,"1st and 10 at PIT48 No Huddle-Shotgun Holmes,Caziah rush right for 3 yards loss to the FSU49 (George,Brandon).",rush right
+736,79,1,17,rush right,10,48,-3,0,"1st and 10 at PIT48 No Huddle-Shotgun Holmes,Caziah rush right for 3 yards loss to the FSU49 (George,Brandon).",rush left
 736,80,2,17,rush middle,13,51,6,-3,"2nd and 13 at FSU49 No Huddle-Shotgun Holmes,Caziah rush middle for 6 yards gain to the Pitt45 (Hall,Stephon).",rush middle
 736,81,3,17,pass,7,45,0,6,"3rd and 7 at PIT45 No Huddle-Shotgun Rodemaker,Tate pass incomplete short middle to Jacobs,Vandrevius broken up by",pass
 736,82,1,17,rush left,10,30,31,0,"1st and 10 at PIT30 No Huddle-Shotgun Holmes,Caziah rush left for 21 yards gain to the Pitt09 (Gandy,Ryland), 1ST DOWN.",rush left
@@ -171,7 +171,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3259,5,1,4,rush middle,10,33,8,52,"1st and 10 at MIA33	(08:44) No Huddle-Shotgun Benson,Trey rush middle for 8 yards gain to the MIA25 (Johnson,Caleb).",rush middle
 3259,6,2,4,pass,10,33,24,8,"2nd and 10 at MIA33	(07:49) No Huddle-Shotgun Travis,Jordan pass complete deep left to Douglas,Markeston for 14 yards to the MIA19 (Couch,Te'Cory), 1ST DOWN.",pass
 3259,7,1,4,rush middle,10,19,3,24,"1st and 10 at MIA19	(07:29) No Huddle-Shotgun Toafili,Lawrance rush middle for 3 yards gain to the MIA16 (Flagg, Jr.,Corey).",rush middle
-3259,8,2,4,rush right,7,16,-2,3,"2nd and 7 at MIA16	(07:02) No Huddle-Shotgun Spann,Deuce rush right for 2 yards loss to the MIA18 (Agude,Mitchell; Stevenson,Tyrique).",rush middle
+3259,8,2,4,rush right,7,16,-2,3,"2nd and 7 at MIA16	(07:02) No Huddle-Shotgun Spann,Deuce rush right for 2 yards loss to the MIA18 (Agude,Mitchell; Stevenson,Tyrique).",rush left
 3259,9,1,4,rush right,3,3,2,-2,"1st and 3 at MIA3	No Huddle-Shotgun Travis,Jordan rush right for 2 yards gain to the MIA01 (Smith,Keontra).",rush right
 3259,10,2,4,rush right,1,1,0,2,"2nd and 1 at MIA1	No Huddle Benson,Trey rush right for 1 yard loss to the MIA02 (Mesidor,Akheem; Jackson,Darrell).",rush right
 2991,11,3,4,pass,2,2,62,0,"3rd and 2 at MIA2	(04:51) Travis,Jordan pass complete short right to Lundy,DJ for 2 yards to the MIA00 TOUCHDOWN, clock 04:51.",pass
@@ -182,7 +182,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 2991,16,1,11,rush middle,10,55,4,20,"1st and 10 at FSU45	(01:20) No Huddle-Shotgun Toafili,Lawrance rush middle for 4 yards gain to the FSU49 (Bissainthe,Wesley).",rush middle
 2991,17,2,11,rush middle,6,51,0,4,"2nd and 6 at FSU49	(01:01) No Huddle-Shotgun Benson,Trey rush middle for 1 yard gain to the FSU50 (Bissainthe,Wesley).",rush middle
 2991,18,3,11,rush middle,5,50,17,0,"3rd and 5 at FSU50	(00:17) No Huddle-Shotgun Travis,Jordan rush middle for 7 yards gain to the MIA43 (Stevenson,Tyrique), 1ST DOWN.",rush middle
-2700,19,1,11,rush middle,10,43,-2,17,"1st and 10 at MIA43	No Huddle-Shotgun Benson,Trey rush middle for 2 yards loss to the MIA45 (Jackson,Darrell; Moultrie,Antonio).",rush right
+2700,19,1,11,rush middle,10,43,-2,17,"1st and 10 at MIA43	No Huddle-Shotgun Benson,Trey rush middle for 2 yards loss to the MIA45 (Jackson,Darrell; Moultrie,Antonio).",rush left
 2700,20,2,11,pass,12,45,0,-2,"2nd and 12 at MIA45	(14:47) No Huddle-Shotgun Travis,Jordan pass intercepted by Ivey,DJ at MIA02, End Of Play.",pass
 2700,21,1,11,rush left,10,39,31,0,"1st and 10 at MIA39	(13:33) No Huddle-Shotgun Benson,Trey rush left for 21 yards gain to the MIA18 (Couch,Te'Cory), out of bounds, 1ST DOWN.",rush left
 2700,22,1,11,rush middle,10,18,5,31,"1st and 10 at MIA18	(12:55) No Huddle-Shotgun Benson,Trey rush middle for 5 yards gain to the MIA13 (Flagg, Jr.,Corey).",rush middle
@@ -202,14 +202,14 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1921,36,2,25,pass,7,79,75,8,"2nd and 7 at FSU21	(01:47) No Huddle-Shotgun Travis,Jordan pass complete deep right to Toafili,Lawrance for 65 yards to the MIA14 (Stevenson,Tyrique), 1ST DOWN.",pass
 1921,37,1,25,rush right,10,14,0,75,"1st and 10 at MIA14	(01:14) No Huddle-Shotgun Toafili,Lawrance rush right for 1 yard loss to the MIA15 (Couch,Te'Cory).",rush right
 1921,38,2,25,pass,11,15,0,0,"2nd and 11 at MIA15	(00:40) No Huddle-Shotgun Travis,Jordan pass incomplete short right to McClain,Malik.",pass
-1921,39,3,25,pass,11,15,-8,0,"3rd and 11 at MIA15	(00:38) No Huddle-Shotgun Travis,Jordan sacked for loss of 8 yards to the MIA23 (Miller,Jordan, Agude,Mitchell).",rush left
+1921,39,3,25,pass,11,15,-8,0,"3rd and 11 at MIA15	(00:38) No Huddle-Shotgun Travis,Jordan sacked for loss of 8 yards to the MIA23 (Miller,Jordan, Agude,Mitchell).",rush right
 1800,40,4,25,field goal attempt,19,23,5,-8,"4th and 19 at MIA23	Fitzgerald,Ryan field goal attempt from 41 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock 00:00.",field goal attempt
 1721,41,1,28,pass,10,77,35,5,"1st and 10 at FSU23	(12:48) No Huddle-Shotgun Travis,Jordan pass complete deep right to Benson,Trey for 25 yards to the FSU48 (Williams,James), 1ST DOWN.",pass
 1721,42,1,28,rush middle,10,52,2,35,"1st and 10 at FSU48	(12:15) No Huddle-Shotgun Benson,Trey rush middle for 2 yards gain to the FSU50 (Smith,Keontra; Flagg, Jr.,Corey).",rush middle
 1721,43,2,28,rush right,8,50,6,2,"2nd and 8 at MIA50	(11:27) No Huddle-Shotgun Toafili,Lawrance rush right for 6 yards gain to the MIA44 (Agude,Mitchell).",rush right
 1721,44,3,28,rush right,2,44,20,6,"3rd and 2 at MIA44	(10:40) No Huddle-Shotgun Travis,Jordan rush right for 10 yards gain to the MIA34, out of bounds at MIA34, 1ST DOWN.",rush right
 1721,45,1,28,rush middle,10,34,0,20,"1st and 10 at MIA34	(10:34) No Huddle-Shotgun Benson,Trey rush middle for 1 yard gain to the MIA33 (Bissainthe,Wesley).",rush middle
-1721,46,2,28,pass,9,33,-15,0,"2nd and 9 at MIA33	(09:49) No Huddle-Shotgun Travis,Jordan sacked for loss of 15 yards to the MIA48 (Miller,Jordan, Johnson,Caleb).",rush middle
+1721,46,2,28,pass,9,33,-15,0,"2nd and 9 at MIA33	(09:49) No Huddle-Shotgun Travis,Jordan sacked for loss of 15 yards to the MIA48 (Miller,Jordan, Johnson,Caleb).",pass
 1721,47,3,28,rush middle,24,48,7,-15,"3rd and 24 at MIA48	(09:00) No Huddle-Shotgun Toafili,Lawrance rush middle for 7 yards gain to the MIA41 (Williams,Avantae).",rush middle
 1721,48,4,28,punt,17,41,0,7,"4th and 17 at MIA41	(08:14) Mastromanno,Alex punt 38 yards to the MIA03.",punt
 1040,49,1,28,rush middle,10,61,4,0,"1st and 10 at FSU39	(02:07) No Huddle-Shotgun Travis,Jordan rush middle for 4 yards gain to the FSU43 (Flagg, Jr.,Corey).",rush middle
@@ -228,13 +228,13 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 899,62,2,35,rush middle,6,28,0,4,"2nd and 6 at MIA28	(04:57) No Huddle-Shotgun Campbell,CJ rush middle for 1 yard loss to the MIA29 (Harrison-Hunte,Jared).",rush middle
 899,63,3,35,pass,7,29,3,0,"3rd and 7 at MIA29	(04:16) No Huddle-Shotgun Rodemaker,Tate pass complete short left to Campbell,CJ for 3 yards to the MIA26 (Williams,James).",pass
 899,64,4,35,pass,4,26,22,3,"4th and 4 at MIA26	(03:34) No Huddle-Shotgun Rodemaker,Tate pass complete deep middle to Courtney,Brian for 12 yards to the MIA14 (Flagg, Jr.,Corey), 1ST DOWN.",pass
-899,65,1,35,rush middle,10,14,-5,22,"1st and 10 at MIA14	No Huddle-Shotgun Campbell,CJ rush middle for 5 yards loss to the MIA19 (Williams,James; Kelly,Nyjalik).",pass
+899,65,1,35,rush middle,10,14,-5,22,"1st and 10 at MIA14	No Huddle-Shotgun Campbell,CJ rush middle for 5 yards loss to the MIA19 (Williams,James; Kelly,Nyjalik).",rush left
 899,66,2,35,rush middle,10,14,5,-5,"2nd and 10 at MIA14	(02:36) No Huddle-Shotgun Campbell,CJ rush middle for 5 yards gain to the MIA09 (Haye, Jr.,Allan).",rush middle
 899,67,3,35,rush right,5,9,16,5,"3rd and 5 at MIA9	(01:48) No Huddle-Shotgun Campbell,CJ rush right for 6 yards gain to the MIA03 (Stevenson,Tyrique), out of bounds, 1ST DOWN.",rush right
 100,68,1,35,rush middle,3,3,63,16,"1st and 3 at MIA3	(01:40) No Huddle-Shotgun Campbell,CJ rush middle for 3 yards gain to the MIA00 TOUCHDOWN, clock 01:36.",rush middle
 100,69,1,35,kick attempt,10,3,0,63,"1st and 10 at MIA3	Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
-100,70,1,42,kneel,10,50,-2,0,1st and 10 at FSU50	Kneel down by Florida St. at FSU48 for loss of 2 yards.,rush right
-100,71,2,42,kneel,12,52,-2,-2,2nd and 12 at FSU48	Kneel down by Florida St. at FSU46 for loss of 2 yards.,rush right
+100,70,1,42,kneel,10,50,-2,0,1st and 10 at FSU50	Kneel down by Florida St. at FSU48 for loss of 2 yards.,rush left
+100,71,2,42,kneel,12,52,-2,-2,2nd and 12 at FSU48	Kneel down by Florida St. at FSU46 for loss of 2 yards.,pass
 3600,1,1,0,pass,10,79,27,-2,"1st and 10 at FSU21 No Huddle-Shotgun Travis,Jordan pass complete short right to Benson,Trey for 17 yards to the FSU38, out of",pass
 3600,2,1,0,rush middle,10,62,0,27,"1st and 10 at FSU38 No Huddle-Shotgun Benson,Trey rush middle for 1 yard gain to the FSU39 (Harvey,Jahfari).",rush middle
 3600,3,2,0,pass,9,61,0,0,"2nd and 9 at FSU39 No Huddle-Shotgun Travis,Jordan pass incomplete deep right to Bell,Jaheim.",pass
@@ -263,11 +263,11 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 2700,26,3,7,pass,8,15,0,0,"3rd and 8 at MIA15 No Huddle-Shotgun Travis,Jordan pass incomplete short left to Coleman,Keon.",pass
 2700,27,4,7,field goal attempt,8,15,5,0,"4th and 8 at MIA15 Fitzgerald,Ryan field goal attempt from 33 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock",field goal attempt
 2700,28,1,10,pass,10,86,26,5,"1st and 10 at FSU14 No Huddle-Shotgun Travis,Jordan pass complete short right to Bell,Jaheim for 16 yards to the FSU30, End Of",pass
-2700,29,1,10,rush middle,10,70,-3,26,"1st and 10 at FSU30 No Huddle-Shotgun Benson,Trey rush middle for 3 yards loss to the FSU27 (Bissainthe,Wesley).",rush right
+2700,29,1,10,rush middle,10,70,-3,26,"1st and 10 at FSU30 No Huddle-Shotgun Benson,Trey rush middle for 3 yards loss to the FSU27 (Bissainthe,Wesley).",rush left
 2414,30,2,10,rush middle,13,73,0,-3,"2nd and 13 at FSU27 No Huddle-Shotgun Toafili,Lawrance rush middle for 1 yard loss to the FSU26 (Lichtenstein,Jacob;",rush middle
 2414,31,3,10,pass,14,74,0,0,"3rd and 14 at FSU26 No Huddle-Shotgun Travis,Jordan pass complete short left to Douglas,Ja'Khi for 1 yard to the FSU27 (Cloyd,K.J.).",pass
 2414,32,4,10,punt,13,73,0,0,"4th and 13 at FSU27 Mastromanno,Alex punt 55 yards to the MIA18 fair catch by Restrepo,Xavier at MIA18.",punt
-1962,33,1,3,pass,20,85,-14,0,"1st and 20 at FSU15 No Huddle-Shotgun Travis,Jordan sacked for loss of 14 yards to the FSU01 (Bissainthe,Wesley). The previous",rush middle
+1962,33,1,3,pass,20,85,-14,0,"1st and 20 at FSU15 No Huddle-Shotgun Travis,Jordan sacked for loss of 14 yards to the FSU01 (Bissainthe,Wesley). The previous",pass
 1962,34,2,3,rush middle,34,99,0,-14,"2nd and 34 at FSU1 No Huddle-Shotgun Benson,Trey rush middle for 0 yards to the FSU01 (Bain Jr.,Rueben).",rush middle
 1901,35,3,3,pass,34,99,0,0,"3rd and 34 at FSU1 No Huddle-Shotgun Travis,Jordan pass incomplete short right to Wilson,Johnny.",pass
 1901,36,4,3,punt,34,99,0,0,"4th and 34 at FSU1 Mastromanno,Alex punt 46 yards to the FSU47 Smith,Brashard return 16 yards to the FSU31 (West,Jackson), out",punt
@@ -275,7 +275,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1631,38,2,-3,pass,2,67,72,8,"2nd and 2 at FSU33 No Huddle-Shotgun Travis,Jordan pass complete short middle to Douglas,Ja'Khi for 62 yards to the MIA05",pass
 1631,39,1,-3,pass,5,5,0,72,"1st and 5 at MIA5 No Huddle-Shotgun Travis,Jordan pass incomplete short middle to Benson,Trey QB hurried by Bissainthe,Wesley.",pass
 1631,40,2,-3,pass,5,5,3,0,"2nd and 5 at MIA5 No Huddle-Shotgun Travis,Jordan pass complete short left to Coleman,Keon for 3 yards to the MIA02",pass
-1631,41,3,-3,rush left,2,2,-2,3,"3rd and 2 at MIA2 No Huddle-Shotgun Travis,Jordan rush left for 2 yards loss to the MIA04 (Harris,Jaden; Taylor,Leonard).",pass
+1631,41,3,-3,rush left,2,2,-2,3,"3rd and 2 at MIA2 No Huddle-Shotgun Travis,Jordan rush left for 2 yards loss to the MIA04 (Harris,Jaden; Taylor,Leonard).",rush right
 1631,42,4,-3,field goal attempt,4,4,5,-2,"4th and 4 at MIA4 Fitzgerald,Ryan field goal attempt from 22 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock",field goal attempt
 1631,43,1,0,rush middle,10,65,0,5,"1st and 10 at FSU35 No Huddle-Shotgun Toafili,Lawrance rush middle for 1 yard gain to the FSU36 (Cloyd,K.J.).",rush middle
 1631,44,2,0,pass,9,64,36,0,"2nd and 9 at FSU36 No Huddle-Shotgun Travis,Jordan pass complete short left to Wilson,Johnny for 26 yards to the MIA38",pass
@@ -285,16 +285,16 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1248,48,1,7,pass,10,80,7,0,"1st and 10 at FSU20 No Huddle-Shotgun Travis,Jordan pass complete short right to Coleman,Keon for 7 yards to the FSU27",pass
 1248,49,2,7,pass,3,73,21,7,"2nd and 3 at FSU27 No Huddle-Shotgun Travis,Jordan pass complete short right to Morlock,Kyle for 11 yards to the FSU38",pass
 1248,50,1,7,pass,10,62,31,21,"1st and 10 at FSU38 No Huddle-Shotgun Travis,Jordan pass complete short right to Wilson,Johnny for 21 yards to the MIA41",pass
-1248,51,1,7,rush middle,10,41,-2,31,"1st and 10 at MIA41 No Huddle-Shotgun Benson,Trey rush middle for 2 yards loss to the MIA43 (Deen,Branson).",rush middle
+1248,51,1,7,rush middle,10,41,-2,31,"1st and 10 at MIA41 No Huddle-Shotgun Benson,Trey rush middle for 2 yards loss to the MIA43 (Deen,Branson).",pass
 1248,52,2,7,pass,12,43,0,-2,"2nd and 12 at MIA43 No Huddle-Shotgun Travis,Jordan pass incomplete short right to Wilson,Johnny.",pass
-1248,53,3,7,pass,12,43,-13,0,"3rd and 12 at MIA43 No Huddle-Shotgun Travis,Jordan sacked for loss of 13 yards to the FSU44 (Mauigoa,Francisco).",rush middle
+1248,53,3,7,pass,12,43,-13,0,"3rd and 12 at MIA43 No Huddle-Shotgun Travis,Jordan sacked for loss of 13 yards to the FSU44 (Mauigoa,Francisco).",rush right
 1248,54,4,7,punt,25,56,0,-13,"4th and 25 at FSU44 Mastromanno,Alex punt 51 yards to the MIA05, out of bounds at MIA05.",punt
 900,55,1,7,pass,10,71,0,0,"1st and 10 at FSU29 No Huddle-Shotgun Travis,Jordan pass incomplete short left to Coleman,Keon QB hurried by Cloyd,K.J..",pass
 900,56,2,7,rush left,10,71,4,0,"2nd and 10 at FSU29 No Huddle-Shotgun Travis,Jordan rush left for 4 yards gain to the FSU33 (Taylor,Leonard; Flagg Jr.,Corey). The",rush left
 900,57,3,7,pass,6,67,0,4,"3rd and 6 at FSU33 No Huddle-Shotgun Travis,Jordan pass incomplete short middle to Toafili,Lawrance.",pass
 900,58,4,7,punt,6,67,0,0,"4th and 6 at FSU33 Mastromanno,Alex punt 51 yards to the MIA16, out of bounds at MIA16.",punt
 900,59,1,7,rush left,10,10,7,0,"1st and 10 at MIA10 No Huddle-Shotgun Travis,Jordan rush left for 7 yards gain to the MIA03 (Kinchens,Kamren).HarrisonHunte,Jared injured on the play",rush left
-900,60,1,7,rush middle,2,2,-4,7,"1st and 2 at MIA2 Shotgun Travis,Jordan rush middle for 4 yards loss to the MIA06 (Flagg Jr.,Corey).",rush right
+900,60,1,7,rush middle,2,2,-4,7,"1st and 2 at MIA2 Shotgun Travis,Jordan rush middle for 4 yards loss to the MIA06 (Flagg Jr.,Corey).",pass
 900,61,2,7,pass,6,6,6,-4,"2nd and 6 at MIA6 No Huddle-Shotgun Travis,Jordan pass complete short right to Coleman,Keon for 6 yards to the MIA00",pass
 660,62,1,7,kick attempt,10,3,0,6,"1st and 10 at MIA3 Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
 660,63,1,14,rush right,10,70,0,0,"1st and 10 at FSU30 No Huddle-Shotgun Benson,Trey rush right for 0 yards to the FSU30 (Bissainthe,Wesley).",rush right
@@ -306,9 +306,9 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 502,69,2,7,pass,9,57,10,0,"2nd and 9 at FSU43 No Huddle-Shotgun Travis,Jordan pass complete short right to Wilson,Johnny for 10 yards to the MIA47",pass
 502,70,1,7,rush middle,10,47,4,10,"1st and 10 at MIA47 No Huddle-Shotgun Toafili,Lawrance rush middle for 4 yards gain to the MIA43 (Cloyd,K.J.;",rush middle
 502,71,2,7,rush middle,6,43,0,4,"2nd and 6 at MIA43 No Huddle-Shotgun Benson,Trey rush middle for 1 yard loss to the MIA44 (Bissainthe,Wesley).",rush middle
-502,72,3,7,pass,7,44,-12,0,"3rd and 7 at MIA44 No Huddle-Shotgun Travis,Jordan sacked for loss of 12 yards to the FSU44 (Mauigoa,Francisco).",rush right
+502,72,3,7,pass,7,44,-12,0,"3rd and 7 at MIA44 No Huddle-Shotgun Travis,Jordan sacked for loss of 12 yards to the FSU44 (Mauigoa,Francisco).",rush left
 502,73,4,7,punt,19,56,0,-12,"4th and 19 at FSU44 Mastromanno,Alex punt 44 yards to the MIA12 fair catch by Smith,Brashard at MIA12.",punt
-48,74,1,7,kneel,5,75,-2,0,"1st and 5 at FSU25 Kneel down by Travis,Jordan at FSU23 for loss of 2 yards.",rush right
+48,74,1,7,kneel,5,75,-2,0,"1st and 5 at FSU25 Kneel down by Travis,Jordan at FSU23 for loss of 2 yards.",rush left
 3600,1,1,0,pass,10,83,0,-2,"1st and 10 at FSU17	No Huddle-Shotgun Travis,Jordan pass incomplete short right to Wilson,Johnny broken up by Holmes,Gavin.",pass
 3600,2,2,0,pass,10,83,35,0,"2nd and 10 at FSU17	No Huddle-Shotgun Travis,Jordan pass complete deep middle to Wilson,Johnny for 25 yards to the FSU42 (Mustapha,Malik; Holmes,Gavin), 1ST DOWN.",pass
 3600,3,1,0,rush middle,10,58,40,35,"1st and 10 at FSU42	No Huddle-Shotgun Ward,Treshaun rush middle for 30 yards gain to the WFU28 (Holmes,Gavin), out of bounds, 1ST DOWN.",rush middle
@@ -327,7 +327,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 2965,16,4,0,punt,9,51,0,0,"4th and 9 at FSU49	Mastromanno,Alex punt 41 yards to the WFU10, out of bounds at WFU10.",punt
 3479,17,1,-7,rush left,10,65,4,0,"1st and 10 at FSU35	No Huddle-Shotgun Travis,Jordan rush left for 4 yards gain to the FSU39 fumbled by Travis,Jordan at FSU36 forced by Hudson,Jaylen recovered by WFU Jones,Chase at FSU39, End Of Play.",rush left
 3375,18,1,-14,rush middle,10,55,20,4,"1st and 10 at FSU45	No Huddle-Shotgun Ward,Treshaun rush middle for 10 yards gain to the WFU45 (Smenda, Jr.,Ryan; Slocum,Evan), 1ST DOWN.",rush middle
-3375,19,1,-14,rush middle,10,45,-3,20,"1st and 10 at WFU45	No Huddle-Shotgun Ward,Treshaun rush middle for 3 yards loss to the WFU48 (Turner,Kobie).",rush middle
+3375,19,1,-14,rush middle,10,45,-3,20,"1st and 10 at WFU45	No Huddle-Shotgun Ward,Treshaun rush middle for 3 yards loss to the WFU48 (Turner,Kobie).",rush left
 3375,20,2,-14,pass,13,48,0,-3,"2nd and 13 at WFU48	No Huddle-Shotgun Travis,Jordan pass incomplete short right to Wilson,Johnny QB hurried by Turner,Kobie.",pass
 3375,21,3,-14,pass,13,48,2,0,"3rd and 13 at WFU48	No Huddle-Shotgun Travis,Jordan pass complete short left to Benson,Trey for 2 yards to the WFU46 (Martin, Jr.,Jermal; Smenda, Jr.,Ryan).",pass
 3375,22,4,-14,punt,11,46,0,2,"4th and 11 at WFU46	Mastromanno,Alex punt 46 yards to the WFU00, Touchback.",punt
@@ -341,7 +341,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 2934,30,2,-14,rush middle,10,22,4,0,"2nd and 10 at WFU22	No Huddle-Shotgun Toafili,Lawrance rush middle for 4 yards gain to the WFU18 (Slocum,Evan).",rush middle
 2776,31,3,-14,rush middle,6,18,17,4,"3rd and 6 at WFU18	No Huddle-Shotgun Toafili,Lawrance rush middle for 7 yards gain to the WFU11 (Jones,Chase), 1ST DOWN.",rush middle
 2776,32,1,-14,rush middle,10,11,2,17,"1st and 10 at WFU11	No Huddle-Shotgun Toafili,Lawrance rush middle for 2 yards gain to the WFU09 (Smenda, Jr.,Ryan; Mustapha,Malik).",rush middle
-2757,33,2,-14,rush middle,8,9,-2,2,"2nd and 8 at WFU9	No Huddle-Shotgun Ward,Treshaun rush middle for 2 yards loss to the WFU11 (Turner,Kobie; Davis,Jasheen).",rush left
+2757,33,2,-14,rush middle,8,9,-2,2,"2nd and 8 at WFU9	No Huddle-Shotgun Ward,Treshaun rush middle for 2 yards loss to the WFU11 (Turner,Kobie; Davis,Jasheen).",pass
 2751,34,3,-14,pass,10,11,0,-2,"3rd and 10 at WFU11	No Huddle-Shotgun Travis,Jordan pass incomplete short middle to McDonald,Camren.",pass
 2743,35,4,-14,field goal attempt,10,11,5,0,"4th and 10 at WFU11	Fitzgerald,Ryan field goal attempt from 29 yards NO GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock 00:43.",field goal attempt
 1638,36,1,-21,rush middle,10,85,6,5,"1st and 10 at FSU15	No Huddle-Shotgun Ward,Treshaun rush middle for 6 yards gain to the FSU21 (Garnes,Chelen).",rush middle
@@ -360,7 +360,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1323,49,3,-15,pass,6,29,17,6,"3rd and 6 at WFU29	No Huddle-Shotgun Travis,Jordan pass complete short right to Ward,Treshaun for 7 yards to the WFU22 (Williams,AJ), out of bounds, 1ST DOWN.",pass
 1323,50,1,-15,pass,20,32,0,17,"1st and 20 at WFU32	No Huddle-Shotgun Travis,Jordan pass incomplete short right to Toafili,Lawrance.",pass
 1323,51,2,-15,rush right,20,32,0,0,"2nd and 20 at WFU32	No Huddle-Shotgun Travis,Jordan rush right for 1 yard gain to the WFU31 (Wayman,Kendron).",rush right
-1323,52,3,-15,pass,19,31,-7,0,"3rd and 19 at WFU31	No Huddle-Shotgun Travis,Jordan sacked for loss of 7 yards to the WFU38 (Davis,Jasheen).",pass
+1323,52,3,-15,pass,19,31,-7,0,"3rd and 19 at WFU31	No Huddle-Shotgun Travis,Jordan sacked for loss of 7 yards to the WFU38 (Davis,Jasheen).",rush left
 1800,53,1,-15,pass,15,63,0,-7,"1st and 15 at FSU37	No Huddle-Shotgun Travis,Jordan pass incomplete short left to Toafili,Lawrance.",pass
 1800,54,1,-15,rush middle,10,48,6,0,"1st and 10 at WFU48	No Huddle-Shotgun Ward,Treshaun rush middle for 6 yards gain to the WFU42 (Smenda, Jr.,Ryan).",rush middle
 1800,55,2,-15,pass,4,42,38,6,"2nd and 4 at WFU42	No Huddle-Shotgun Travis,Jordan pass complete deep middle to McDonald,Camren for 28 yards to the WFU14 (Hazen,Dylan), 1ST DOWN.",pass
@@ -419,7 +419,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 968,38,2,14,pass,5,83,0,5,"2nd and 5 at FSU17 No Huddle-Shotgun Travis,Jordan pass incomplete short middle to Bell,Jaheim.",pass
 968,39,3,14,pass,5,83,8,0,"3rd and 5 at FSU17 No Huddle-Shotgun Travis,Jordan pass complete short right to Hill,Destyn for 8 yards to the FSU25",pass
 968,40,1,14,pass,10,75,21,8,"1st and 10 at FSU25 No Huddle-Shotgun Travis,Jordan pass complete short middle to Toafili,Lawrance for 11 yards to the FSU36",pass
-968,41,1,14,pass,10,64,-12,21,"1st and 10 at FSU36 No Huddle-Shotgun Travis,Jordan sacked for loss of 12 yards to the FSU24 (Jobity Jr.,Kevin), fumble by",rush left
+968,41,1,14,pass,10,64,-12,21,"1st and 10 at FSU36 No Huddle-Shotgun Travis,Jordan sacked for loss of 12 yards to the FSU24 (Jobity Jr.,Kevin), fumble by",pass
 968,42,2,14,rush middle,22,76,5,-12,"2nd and 22 at FSU24 No Huddle-Shotgun Toafili,Lawrance rush middle for 5 yards gain to the FSU29 (Wax,Marlowe).",rush middle
 922,43,3,14,pass,17,71,6,5,"3rd and 17 at FSU29 No Huddle-Shotgun Travis,Jordan pass complete short right to Benson,Trey for 6 yards to the FSU35",pass
 915,44,4,14,punt,11,65,0,6,"4th and 11 at FSU35 Mastromanno,Alex punt 47 yards to the SYR18 fair catch by Adams,D'Marcus at SYR18.",punt
@@ -447,7 +447,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1214,66,3,21,pass,7,55,0,3,"3rd and 7 at FSU45 No Huddle-Shotgun Travis,Jordan pass incomplete short middle to Coleman,Keon broken up by Barron,Justin.",pass
 1214,67,4,21,punt,17,65,0,0,"4th and 17 at FSU35 Mastromanno,Alex punt 51 yards to the SYR14 Adams,D'Marcus return 5 yards to the SYR19 (Campbell Jr.,CJ;",punt
 1214,68,1,21,rush middle,9,9,4,0,"1st and 9 at SYR9 No Huddle-Shotgun Benson,Trey rush middle for 4 yards gain to the SYR05 (McDonald,Derek).",rush middle
-900,69,2,21,pass,5,5,-6,4,"2nd and 5 at SYR5 No Huddle-Shotgun Travis,Jordan sacked for loss of 6 yards to the SYR11 (Barron,Justin, McDonald,Derek).",rush right
+900,69,2,21,pass,5,5,-6,4,"2nd and 5 at SYR5 No Huddle-Shotgun Travis,Jordan sacked for loss of 6 yards to the SYR11 (Barron,Justin, McDonald,Derek).",pass
 900,70,3,21,pass,11,11,0,-6,"3rd and 11 at SYR11 No Huddle-Shotgun Travis,Jordan pass incomplete short middle to Benson,Trey.",pass
 900,71,4,21,field goal attempt,11,11,5,0,"4th and 11 at SYR11 Fitzgerald,Ryan field goal attempt from 29 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock",field goal attempt
 900,72,1,24,rush left,10,80,2,5,"1st and 10 at FSU20 No Huddle-Shotgun Benson,Trey rush left for 2 yards gain to the FSU22 (Wax,Marlowe).",rush left
@@ -462,7 +462,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 500,81,2,31,rush middle,6,51,17,4,"2nd and 6 at FSU49 No Huddle-Shotgun Holmes,Caziah rush middle for 7 yards gain to the SYR44 (Perry,Rashard), 1ST DOWN.",rush middle
 500,82,1,31,pass,10,44,54,17,"1st and 10 at SYR44 No Huddle-Shotgun Rodemaker,Tate pass complete short right to Williams,Hykeem for 44 yards to the SYR00",pass
 357,83,1,31,kick attempt,10,3,0,54,"1st and 10 at SYR3 Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
-357,84,1,38,kneel,10,68,-2,0,"1st and 10 at FSU32 Kneel down by Rodemaker,Tate at FSU30 for loss of 2 yards.",rush left
+357,84,1,38,kneel,10,68,-2,0,"1st and 10 at FSU32 Kneel down by Rodemaker,Tate at FSU30 for loss of 2 yards.",rush right
 3600,1,1,0,pass,10,80,8,-2,"1st and 10 at FSU20 No Huddle-Shotgun Travis,Jordan pass complete short right to Toafili,Lawrance for 8 yards to the FSU28",pass
 3600,2,2,0,rush left,2,72,16,8,"2nd and 2 at FSU28 No Huddle-Shotgun Benson,Trey rush left for 6 yards gain to the FSU34 (Thomas,Xavier), 1ST DOWN.",rush left
 3600,3,1,0,rush left,10,66,0,16,"1st and 10 at FSU34 No Huddle-Shotgun Benson,Trey rush left for 1 yard gain to the FSU35 (Jones,Sheridan; Davis,Tyler).",rush left
@@ -474,7 +474,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3600,9,4,0,punt,8,52,0,0,"4th and 8 at FSU48 Mastromanno,Alex punt 44 yards to the CLEM08 fair catch by Brown,Tyler at CLEM08.",punt
 2807,10,1,-3,pass,10,75,3,0,"1st and 10 at FSU25 No Huddle-Shotgun Travis,Jordan pass complete short right to Coleman,Keon for 3 yards to the FSU28",pass
 2807,11,2,-3,rush left,7,72,-3,3,"2nd and 7 at FSU28 No Huddle-Shotgun Bell,Jaheim rush left for 3 yards loss to the FSU25 (Trotter Jr.,Jeremiah; Mickens,R.J.).",rush left
-2807,12,3,-3,pass,10,75,-7,-3,"3rd and 10 at FSU25 No Huddle-Shotgun Travis,Jordan sacked for loss of 7 yards to the FSU18 (Trotter Jr.,Jeremiah).",rush left
+2807,12,3,-3,pass,10,75,-7,-3,"3rd and 10 at FSU25 No Huddle-Shotgun Travis,Jordan sacked for loss of 7 yards to the FSU18 (Trotter Jr.,Jeremiah).",rush right
 2700,13,4,-3,punt,17,82,0,-7,"4th and 17 at FSU18 Mastromanno,Alex punt 33 yards to the CLEM49, out of bounds at CLEM49.",punt
 2493,14,1,-10,pass,10,75,0,0,"1st and 10 at FSU25 No Huddle-Shotgun Travis,Jordan pass incomplete short right to Douglas,Markeston.",pass
 2493,15,2,-10,pass,10,75,23,0,"2nd and 10 at FSU25 No Huddle-Shotgun Travis,Jordan pass complete short left to Benson,Trey for 13 yards to the FSU38",pass
@@ -502,7 +502,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 900,37,3,-3,pass,7,31,6,2,"3rd and 7 at CLE31 No Huddle-Shotgun Travis,Jordan pass complete short right to Toafili,Lawrance for 6 yards to the CLEM25",pass
 900,38,4,-3,pass,1,25,10,6,"4th and 1 at CLE25 No Huddle-Shotgun Travis,Jordan pass complete short left to Coleman,Keon for 10 yards to the CLEM15",pass
 900,39,4,-3,field goal attempt,6,30,5,10,"4th and 6 at CLE30 Fitzgerald,Ryan field goal attempt from 48 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock",field goal attempt
-900,40,1,0,rush middle,10,79,-3,5,"1st and 10 at FSU21 No Huddle-Shotgun Hill,Rodney rush middle for 3 yards loss to the FSU18 (Parker,T.J.).",rush left
+900,40,1,0,rush middle,10,79,-3,5,"1st and 10 at FSU21 No Huddle-Shotgun Hill,Rodney rush middle for 3 yards loss to the FSU18 (Parker,T.J.).",pass
 900,41,2,0,rush middle,13,82,2,-3,"2nd and 13 at FSU18 No Huddle-Shotgun Hill,Rodney rush middle for 2 yards gain to the FSU20 (Mascoll,Justin; Trotter Jr.,Jeremiah).",rush middle
 900,42,3,0,pass,11,80,0,2,"3rd and 11 at FSU20 No Huddle-Shotgun Travis,Jordan pass incomplete deep left to Wilson,Johnny broken up by Wiggins,Nate",pass
 900,43,3,0,pass,6,75,0,0,"3rd and 6 at FSU25 No Huddle-Shotgun Travis,Jordan pass incomplete short left to Bell,Jaheim QB hurried by Thomas,Xavier.",pass
@@ -521,7 +521,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1800,56,1,0,pass,10,82,0,0,"1st and 10 at FSU18 No Huddle-Shotgun Travis,Jordan pass incomplete deep right to Wilson,Johnny.",pass
 1800,57,2,0,pass,10,82,0,0,"2nd and 10 at FSU18 No Huddle-Shotgun Travis,Jordan pass incomplete deep left to Coleman,Keon.",pass
 1800,58,3,0,pass,10,82,10,0,"3rd and 10 at FSU18 No Huddle-Shotgun Travis,Jordan pass complete short left to Wilson,Johnny for 10 yards to the FSU28",pass
-1377,59,3,0,pass,19,91,-2,10,"3rd and 19 at FSU9 No Huddle-Shotgun Travis,Jordan sacked for loss of 2 yards to the FSU07 (Thomas,Xavier).",rush left
+1377,59,3,0,pass,19,91,-2,10,"3rd and 19 at FSU9 No Huddle-Shotgun Travis,Jordan sacked for loss of 2 yards to the FSU07 (Thomas,Xavier).",rush middle
 1377,60,4,0,punt,21,93,0,-2,"4th and 21 at FSU7 Mastromanno,Alex punt 59 yards to the CLEM34 Greene,Hamp return 10 yards to the CLEM44 (Campbell Jr.,CJ).",punt
 1009,61,1,0,pass,10,80,35,0,"1st and 10 at FSU20 No Huddle-Shotgun Travis,Jordan pass complete deep left to Wilson,Johnny for 25 yards to the FSU45, End Of",pass
 1009,62,1,0,rush left,10,55,0,35,"1st and 10 at FSU45 No Huddle-Shotgun Travis,Jordan rush left for 1 yard gain to the FSU46 (Woods,Peter).",rush left
@@ -540,7 +540,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3600,4,2,0,pass,10,61,3,0,"2nd and 10 at FSU39 No Huddle-Shotgun Travis,Jordan pass complete short right to Coleman,Keon for 3 yards to the Fla St42",pass
 3600,5,3,0,pass,7,58,23,3,"3rd and 7 at FSU42 No Huddle-Shotgun Travis,Jordan pass complete short right to Morlock,Kyle for 13 yards to the Wake45",pass
 3600,6,1,0,pass,10,45,43,23,"1st and 10 at WFU45 No Huddle-Shotgun Travis,Jordan pass complete deep right to Poitier,Kentron for 33 yards to the Wake12",pass
-3600,7,1,0,rush middle,10,12,-5,43,"1st and 10 at WFU12 No Huddle-Shotgun Travis,Jordan rush middle for 5 yards loss to the Wake17 fumbled by Travis,Jordan at",pass
+3600,7,1,0,rush middle,10,12,-5,43,"1st and 10 at WFU12 No Huddle-Shotgun Travis,Jordan rush middle for 5 yards loss to the Wake17 fumbled by Travis,Jordan at",rush left
 3600,8,2,0,rush middle,15,17,4,-5,"2nd and 15 at WFU17 No Huddle-Shotgun Hill,Rodney rush middle for 4 yards gain to the Wake13 (Roberts,Jacob).",rush middle
 3338,9,3,0,rush right,11,13,83,4,"3rd and 11 at WFU13 No Huddle-Shotgun Travis,Jordan rush right for 13 yards gain to the Wake00 TOUCHDOWN, clock 10:38, 1ST",rush right
 3338,10,1,0,kick attempt,10,3,0,83,"1st and 10 at WFU3 Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
@@ -584,7 +584,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1858,48,1,24,pass,10,16,0,7,"1st and 10 at WFU16 No Huddle-Shotgun Travis,Jordan pass incomplete short middle to Douglas,Ja'Khi broken up by Andersen,Nick.",pass
 1858,49,2,24,field goal attempt,10,16,5,0,"2nd and 10 at WFU16 Fitzgerald,Ryan field goal attempt from 34 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock",field goal attempt
 1571,50,1,24,pass,10,85,3,5,"1st and 10 at FSU15 No Huddle-Shotgun Travis,Jordan pass complete short right to Coleman,Keon for 3 yards to the Fla St18",pass
-1571,51,2,24,pass,7,82,-5,3,"2nd and 7 at FSU18 No Huddle-Shotgun Travis,Jordan pass complete short middle to Bell,Jaheim for 5 yards loss to the Fla St13",pass
+1571,51,2,24,pass,7,82,-5,3,"2nd and 7 at FSU18 No Huddle-Shotgun Travis,Jordan pass complete short middle to Bell,Jaheim for 5 yards loss to the Fla St13",rush middle
 1571,52,3,24,pass,12,87,0,-5,"3rd and 12 at FSU13 No Huddle-Shotgun Travis,Jordan pass incomplete deep right to Poitier,Kentron QB hurried by Davis,Jasheen.",pass
 1571,53,4,24,punt,12,87,0,0,"4th and 12 at FSU13 Mastromanno,Alex punt 37 yards to the Fla St50 Morin,Taylor return 8 yards to the Fla St42 (Jones,Jarrian;",punt
 1571,54,1,24,rush right,10,77,6,0,"1st and 10 at FSU23 No Huddle-Shotgun Benson,Trey rush right for 6 yards gain to the Fla St29 (Ganious,Bryce).",rush right
@@ -613,7 +613,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 669,77,2,25,rush middle,11,48,3,4,"2nd and 11 at WFU48 No Huddle-Shotgun Hill,Rodney rush middle for 3 yards gain to the Wake45 (Williams,AJ; Ganious,Bryce)",rush middle
 669,78,3,25,rush right,23,60,6,3,"3rd and 23 at FSU40 No Huddle-Shotgun Rodemaker,Tate rush right for 6 yards gain to the Fla St46, out of bounds at Fla St46.",rush right
 669,79,4,25,punt,17,54,0,6,"4th and 17 at FSU46 Mastromanno,Alex punt 46 yards to the Wake08 fair catch by Morin,Taylor at Wake08.",punt
-78,80,1,25,rush middle,10,77,-2,0,"1st and 10 at FSU23 No Huddle Florida St. rush middle for 2 yards loss to the Fla St21, End Of Play.",rush left
+78,80,1,25,rush middle,10,77,-2,0,"1st and 10 at FSU23 No Huddle Florida St. rush middle for 2 yards loss to the Fla St21, End Of Play.",rush middle
 78,81,2,25,rush middle,12,79,0,-2,"2nd and 12 at FSU21 No Huddle Florida St. rush middle for 1 yard loss to the Fla St20, End Of Play.",rush middle
 3418,1,1,0,pass,10,86,5,0,"1st and 10 at FSU14 No Huddle-Shotgun Travis,Jordan pass complete short right to Bell,Jaheim for 5 yards to the FSU19",pass
 3418,2,2,0,pass,5,81,0,5,"2nd and 5 at FSU19 No Huddle-Shotgun Travis,Jordan pass incomplete short left to Coleman,Keon.",pass
@@ -641,7 +641,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 2700,24,2,0,pass,9,98,5,0,"2nd and 9 at FSU2 No Huddle-Shotgun Travis,Jordan pass complete short right to Coleman,Keon for 5 yards to the FSU07, End Of",pass
 2281,25,3,0,pass,4,93,0,5,"3rd and 4 at FSU7 No Huddle-Shotgun Travis,Jordan pass incomplete short middle to Coleman,Keon broken up by Brooks Jr.,Greg",pass
 2281,26,4,0,punt,4,93,0,0,"4th and 4 at FSU7 Mastromanno,Alex punt 44 yards to the LSU49 fair catch by Clayton Jr.,Gregory at LSU49.",punt
-1800,27,1,-7,pass,10,75,-4,0,"1st and 10 at FSU25 No Huddle-Shotgun Travis,Jordan pass complete short right to Coleman,Keon for 4 yards loss to the FSU21",pass
+1800,27,1,-7,pass,10,75,-4,0,"1st and 10 at FSU25 No Huddle-Shotgun Travis,Jordan pass complete short right to Coleman,Keon for 4 yards loss to the FSU21",rush left
 1800,28,2,-7,rush left,14,79,8,-4,"2nd and 14 at FSU21 No Huddle-Shotgun Travis,Jordan rush left for 8 yards gain to the FSU29, End Of Play.Chestnut,Duce injured on",rush left
 1800,29,3,-7,pass,6,71,32,8,"3rd and 6 at FSU29 No Huddle-Shotgun Travis,Jordan pass complete short middle to Wilson,Johnny for 22 yards to the LSU49",pass
 1800,30,1,-7,pass,15,54,0,32,"1st and 15 at FSU46 No Huddle-Shotgun Travis,Jordan pass incomplete short left to Bell,Jaheim QB hurried by Swinson,Bradyn.",pass
@@ -659,7 +659,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 900,42,2,-3,pass,7,45,6,3,"2nd and 7 at LSU45 No Huddle-Shotgun Travis,Jordan pass complete short left to Coleman,Keon for 6 yards to the LSU39",pass
 900,43,3,-3,pass,1,39,27,6,"3rd and 1 at LSU39 No Huddle Spann,Deuce pass complete short middle to Wilson,Johnny for 17 yards to the LSU22",pass
 900,44,1,-3,rush right,10,22,3,27,"1st and 10 at LSU22 No Huddle Benson,Trey rush right for 3 yards gain to the LSU19 (Swinson,Bradyn).",rush right
-900,45,2,-3,rush middle,7,19,-6,3,"2nd and 7 at LSU19 No Huddle-Shotgun Benson,Trey rush middle for 6 yards loss to the LSU25 (Swinson,Bradyn).",pass
+900,45,2,-3,rush middle,7,19,-6,3,"2nd and 7 at LSU19 No Huddle-Shotgun Benson,Trey rush middle for 6 yards loss to the LSU25 (Swinson,Bradyn).",rush left
 900,46,3,-3,pass,13,25,10,-6,"3rd and 13 at LSU25 No Huddle-Shotgun Travis,Jordan pass complete short middle to Wilson,Johnny for 10 yards to the LSU15",pass
 900,47,4,-3,field goal attempt,3,15,5,10,"4th and 3 at LSU15 Fitzgerald,Ryan field goal attempt from 33 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock",field goal attempt
 900,48,1,0,rush middle,10,87,-4,5,"1st and 10 at FSU13 No Huddle-Shotgun Hill,Rodney rush middle for 4 yards loss to the FSU09 (Jefferson,Jordan).",rush left
@@ -672,7 +672,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1062,55,1,0,kick attempt,10,3,0,60,"1st and 10 at LSU3 Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
 900,56,1,7,rush middle,10,57,24,0,"1st and 10 at FSU43 No Huddle-Shotgun Benson,Trey rush middle for 14 yards gain to the LSU43 (Burns,Major; Swinson,Bradyn),",rush middle
 900,57,1,7,rush middle,10,43,4,24,"1st and 10 at LSU43 No Huddle-Shotgun Benson,Trey rush middle for 4 yards gain to the LSU39 (Perkins Jr.,Harold).",rush middle
-900,58,2,7,rush right,6,39,-2,4,"2nd and 6 at LSU39 No Huddle-Shotgun Benson,Trey rush right for 2 yards loss to the LSU41 (Sam,Andre; Brooks Jr.,Greg).",pass
+900,58,2,7,rush right,6,39,-2,4,"2nd and 6 at LSU39 No Huddle-Shotgun Benson,Trey rush right for 2 yards loss to the LSU41 (Sam,Andre; Brooks Jr.,Greg).",rush middle
 900,59,3,7,rush right,8,41,23,-2,"3rd and 8 at LSU41 No Huddle-Shotgun Travis,Jordan rush right for 13 yards gain to the LSU28 (Burns,Major), out of bounds, 1ST",rush right
 900,60,1,7,pass,10,28,6,23,"1st and 10 at LSU28 No Huddle-Shotgun Travis,Jordan pass complete short left to Coleman,Keon for 6 yards to the LSU22",pass
 900,61,2,7,pass,4,22,23,6,"2nd and 4 at LSU22 No Huddle-Shotgun Travis,Jordan pass complete short right to Wilson,Johnny for 13 yards to the LSU09",pass
@@ -689,10 +689,10 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 420,72,3,21,rush right,6,12,18,3,"3rd and 6 at LSU12 No Huddle-Shotgun Travis,Jordan rush right for 8 yards gain to the LSU04 (Penn III,Greg; Jefferson,Jordan), 1ST",rush right
 86,73,1,21,rush right,4,4,64,18,"1st and 4 at LSU4 No Huddle Bell,Jaheim rush right for 4 yards gain to the LSU00 TOUCHDOWN, clock 01:26.",rush right
 86,74,1,21,kick attempt,10,3,0,64,"1st and 10 at LSU3 Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
-75,75,1,21,kneel,10,42,-2,0,"1st and 10 at LSU42 Kneel down by Travis,Jordan at LSU44 for loss of 2 yards.",pass
-75,76,2,21,kneel,12,44,-2,-2,"2nd and 12 at LSU44 Kneel down by Travis,Jordan at LSU46 for loss of 2 yards.",rush left
+75,75,1,21,kneel,10,42,-2,0,"1st and 10 at LSU42 Kneel down by Travis,Jordan at LSU44 for loss of 2 yards.",rush right
+75,76,2,21,kneel,12,44,-2,-2,"2nd and 12 at LSU44 Kneel down by Travis,Jordan at LSU46 for loss of 2 yards.",pass
 3600,1,1,0,pass,10,70,4,-2,"1st and 10 at FSU30 No Huddle-Shotgun Rodemaker,Tate pass complete short middle to Bell,Jaheim for 4 yards to the FSU34",pass
-3600,2,2,0,rush right,6,66,-11,4,"2nd and 6 at FSU34 No Huddle-Shotgun Benson,Trey rush right for 11 yards loss to the FSU23 (Thornton,Bryce).",rush middle
+3600,2,2,0,rush right,6,66,-11,4,"2nd and 6 at FSU34 No Huddle-Shotgun Benson,Trey rush right for 11 yards loss to the FSU23 (Thornton,Bryce).",rush right
 3600,3,3,0,pass,17,77,0,-11,"3rd and 17 at FSU23 No Huddle-Shotgun Rodemaker,Tate pass incomplete short right to Toafili,Lawrance broken up by Marshall",pass
 3600,4,4,0,punt,17,77,0,0,"4th and 17 at FSU23 Mastromanno,Alex punt 47 yards to the UFL30 fair catch by Pearsall,Ricky at UFL30.",punt
 2671,5,1,-7,pass,15,80,0,0,"1st and 15 at FSU20 No Huddle-Shotgun Rodemaker,Tate pass incomplete short right to Coleman,Keon broken up by Hill,Jaydon",pass
@@ -705,7 +705,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 2421,12,3,-10,pass,8,66,0,0,"3rd and 8 at FSU34 No Huddle-Shotgun Rodemaker,Tate pass incomplete deep right to Wilson,Johnny broken up by Moore,Devin QB",pass
 2421,13,4,-10,punt,8,66,0,0,"4th and 8 at FSU34 Mastromanno,Alex punt 43 yards to the UFL23 fair catch by Pearsall,Ricky at UFL23.",punt
 2200,14,1,-10,pass,10,94,7,0,"1st and 10 at FSU6 No Huddle-Shotgun Rodemaker,Tate pass complete short right to Wilson,Johnny for 7 yards to the FSU13",pass
-2200,15,2,-10,rush left,3,87,-4,7,"2nd and 3 at FSU13 No Huddle-Shotgun Benson,Trey rush left for 4 yards loss to the FSU09 (Denson,Sharif; Searcy,T.J.).",rush right
+2200,15,2,-10,rush left,3,87,-4,7,"2nd and 3 at FSU13 No Huddle-Shotgun Benson,Trey rush left for 4 yards loss to the FSU09 (Denson,Sharif; Searcy,T.J.).",rush left
 2200,16,3,-10,pass,7,91,-9,-4,"3rd and 7 at FSU9 No Huddle-Shotgun Rodemaker,Tate sacked for loss of 9 yards to the FSU00 (Umanmielen,Princely,",pass
 2108,17,1,-12,rush left,10,90,26,-9,"1st and 10 at FSU10 No Huddle-Shotgun Benson,Trey rush left for 16 yards gain to the FSU26 (Thornton,Bryce), 1ST DOWN.",rush left
 2108,18,1,-12,pass,10,74,-2,26,"1st and 10 at FSU26 No Huddle-Shotgun Rodemaker,Tate pass complete short left to Benson,Trey for 2 yards loss to the FSU24, End",rush left
@@ -726,7 +726,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1651,33,2,-5,rush left,7,36,106,3,"2nd and 7 at UFL36 No Huddle-Shotgun Benson,Trey rush left for 36 yards gain to the UFL00 TOUCHDOWN, clock 12:31, 1ST DOWN.",rush left
 1651,34,1,-5,kick attempt,10,3,0,106,"1st and 10 at UFL3 Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
 1258,35,1,-1,rush left,10,75,0,0,"1st and 10 at FSU25 No Huddle-Shotgun Benson,Trey rush left for 1 yard loss to the FSU24 (Mitchell,Miguel; Searcy,T.J.).",rush left
-1258,36,2,-1,pass,11,76,-8,0,"2nd and 11 at FSU24 No Huddle-Shotgun Rodemaker,Tate sacked for loss of 8 yards to the FSU16 (Watson,Desmond).",rush right
+1258,36,2,-1,pass,11,76,-8,0,"2nd and 11 at FSU24 No Huddle-Shotgun Rodemaker,Tate sacked for loss of 8 yards to the FSU16 (Watson,Desmond).",pass
 1258,37,3,-1,pass,24,89,0,-8,"3rd and 24 at FSU11 No Huddle-Shotgun Rodemaker,Tate pass incomplete deep right to Coleman,Keon broken up by Marshall",pass
 1258,38,1,-1,rush middle,10,80,24,0,"1st and 10 at FSU20 No Huddle-Shotgun Benson,Trey rush middle for 14 yards gain to the FSU34 (Mitchell,Miguel), 1ST DOWN.",rush middle
 1258,39,1,-1,pass,10,66,0,24,"1st and 10 at FSU34 No Huddle-Shotgun Rodemaker,Tate pass incomplete short left to Wilson,Johnny broken up by Jackson,Cam.",pass
@@ -746,15 +746,15 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 900,53,2,-1,rush right,6,6,4,0,"2nd and 6 at UFL6 No Huddle-Shotgun Benson,Trey rush right for 4 yards gain to the UFL02 (Williams,Scooby).",rush right
 900,54,3,-1,rush middle,2,2,0,4,"3rd and 2 at UFL2 No Huddle-Shotgun Benson,Trey rush middle for 0 yards to the UFL02 (McClellan,Chris).",rush middle
 900,55,4,-1,field goal attempt,2,2,5,0,"4th and 2 at UFL2 Fitzgerald,Ryan field goal attempt from 19 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock",field goal attempt
-900,56,1,2,rush right,10,66,-3,5,"1st and 10 at FSU34 No Huddle-Shotgun Benson,Trey rush right for 3 yards loss to the FSU31 (Wingo,Derek).",rush left
+900,56,1,2,rush right,10,66,-3,5,"1st and 10 at FSU34 No Huddle-Shotgun Benson,Trey rush right for 3 yards loss to the FSU31 (Wingo,Derek).",pass
 900,57,1,2,pass,10,54,5,-3,"1st and 10 at FSU46 No Huddle-Shotgun Rodemaker,Tate pass complete short middle to Bell,Jaheim for 5 yards to the UFL49",pass
-900,58,2,2,pass,5,49,-9,5,"2nd and 5 at UFL49 No Huddle-Shotgun Rodemaker,Tate sacked for loss of 9 yards to the FSU42 (Marshall Jr.,Jason).",rush middle
+900,58,2,2,pass,5,49,-9,5,"2nd and 5 at UFL49 No Huddle-Shotgun Rodemaker,Tate sacked for loss of 9 yards to the FSU42 (Marshall Jr.,Jason).",rush right
 237,59,3,2,rush right,14,58,10,-9,"3rd and 14 at FSU42 No Huddle-Shotgun Rodemaker,Tate rush right for 10 yards gain to the UFL48 (Hill,Jaydon; Thornton,Bryce)",rush right
 237,60,1,2,pass,10,33,0,10,"1st and 10 at UFL33 No Huddle-Shotgun Glenn,Brock pass incomplete short left to Wilson,Johnny broken up by Castell,Jordan.",pass
 237,61,2,2,rush middle,5,28,2,0,"2nd and 5 at UFL28 No Huddle-Shotgun Benson,Trey rush middle for 2 yards gain to the UFL26 (Wingo,Derek; McClellan,Chris).",rush middle
 168,62,3,2,rush middle,3,26,96,2,"3rd and 3 at UFL26 No Huddle Benson,Trey rush middle for 26 yards gain to the UFL00 TOUCHDOWN, clock 02:48, 1ST DOWN.",rush middle
 168,63,1,2,kick attempt,10,3,0,96,"1st and 10 at UFL3 Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
-168,64,1,9,rush middle,10,20,-10,0,"1st and 10 at UFL20 No Huddle-Shotgun Rodemaker,Tate rush middle for 10 yards loss to the UFL30, End Of Play.",rush right
+168,64,1,9,rush middle,10,20,-10,0,"1st and 10 at UFL20 No Huddle-Shotgun Rodemaker,Tate rush middle for 10 yards loss to the UFL30, End Of Play.",pass
 168,65,2,9,kneel,20,30,0,-10,"2nd and 20 at UFL30 Kneel down by Rodemaker,Tate at UFL31 for loss of 1 yard.",kneel
 168,66,3,9,kneel,21,31,0,0,"3rd and 21 at UFL31 Kneel down by Rodemaker,Tate at UFL32 for loss of 1 yard.",kneel
 3600,1,2,0,rush middle,8,73,4,0,"2nd and 8 at FSU27	(14:33) No Huddle Travis,Jordan rush middle for 4 yards gain to the FSU31 (Kelley,Jordan).",rush middle
@@ -762,7 +762,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3600,3,1,0,pass,10,53,36,26,"1st and 10 at FSU47	(13:43) No Huddle Travis,Jordan pass complete deep middle to Wilson,Johnny for 26 yards to the OU27 (Ugwoegbu,David), 1ST DOWN.",pass
 3600,4,1,0,rush middle,10,0,32,36,"1st and 10 at OU 27	(13:23) No Huddle Ward,Treshaun rush middle for 22 yards gain to the OU05 (Washington,Woodi), 1ST DOWN.",rush middle
 3600,5,1,0,rush middle,5,0,3,32,"1st and 5 at OU 5	(13:00) No Huddle Ward,Treshaun rush middle for 3 yards gain to the OU02 (Ugwoegbu,David).",rush middle
-3600,6,2,0,rush left,2,0,-3,3,"2nd and 2 at OU 2	(12:30) No Huddle Benson,Trey rush left for 3 yards loss to the OU05 (Johnson,Jeffery).",pass
+3600,6,2,0,rush left,2,0,-3,3,"2nd and 2 at OU 2	(12:30) No Huddle Benson,Trey rush left for 3 yards loss to the OU05 (Johnson,Jeffery).",rush right
 3600,7,3,0,pass,5,0,0,-3,"3rd and 5 at OU 5	(12:00) No Huddle Travis,Jordan pass incomplete short middle to Poitier,Kentron broken up by Coldon,C.J..",pass
 3386,8,4,0,field goal attempt,5,0,5,0,"4th and 5 at OU 5	Fitzgerald,Ryan field goal attempt from 23 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock 11:26.",field goal attempt
 3121,9,1,-4,rush left,10,75,20,5,"1st and 10 at FSU25	No Huddle-Shotgun Toafili,Lawrance rush left for 10 yards gain to the FSU35 (White,DaShaun), 1ST DOWN.",rush left
@@ -790,7 +790,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 2920,31,2,-3,pass,1,79,40,9,"2nd and 1 at FSU21	No Huddle-Shotgun Travis,Jordan pass complete deep right to Wilson,Johnny for 30 yards to the OU49 (Lawrence,Key), 1ST DOWN.",pass
 2920,32,1,-3,pass,10,0,0,40,"1st and 10 at OU 49	No Huddle-Shotgun Travis,Jordan pass incomplete short right to Williamson,Darion.",pass
 2920,33,2,-3,rush middle,10,0,2,0,"2nd and 10 at OU 49	No Huddle-Shotgun Ward,Treshaun rush middle for 2 yards gain to the OU47 (Ellison,Josh).",rush middle
-2920,34,3,-3,pass,8,0,-6,2,"3rd and 8 at OU 47	No Huddle-Shotgun Travis,Jordan sacked for loss of 6 yards to the FSU47 (Coe,Isaiah, Ellison,Josh).",rush right
+2920,34,3,-3,pass,8,0,-6,2,"3rd and 8 at OU 47	No Huddle-Shotgun Travis,Jordan sacked for loss of 6 yards to the FSU47 (Coe,Isaiah, Ellison,Josh).",pass
 2809,35,4,-3,punt,14,53,0,-6,"4th and 14 at FSU47	Mastromanno,Alex punt 42 yards to the OU11 fair catch by Mims Jr.,Marvin at OU11.",punt
 2715,36,1,-6,rush middle,10,62,36,0,"1st and 10 at FSU38	No Huddle-Shotgun Travis,Jordan rush middle for 26 yards gain to the OU36 (Heinecke,Owen), 1ST DOWN.",rush middle
 2700,37,1,-6,field goal attempt,10,0,5,36,"1st and 10 at OU 36	Fitzgerald,Ryan field goal attempt from 54 yards NO GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock 00:00, End Of Play.",field goal attempt
@@ -835,7 +835,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1117,76,2,0,pass,8,73,68,2,"2nd and 8 at FSU27	No Huddle-Shotgun Travis,Jordan pass complete deep right to Wilson,Johnny for 58 yards to the OU15 (Broiles,Justin), 1ST DOWN.",pass
 1117,77,1,0,rush middle,10,0,2,68,"1st and 10 at OU 15	No Huddle-Shotgun Benson,Trey rush middle for 2 yards gain to the OU13 (Whitter,Shane; Bowman,Billy).",rush middle
 1117,78,2,0,rush middle,8,0,2,2,"2nd and 8 at OU 13	No Huddle-Shotgun Benson,Trey rush middle for 2 yards gain to the OU11 (Stutsman,Danny).",rush middle
-1117,79,3,0,rush left,6,0,-3,2,"3rd and 6 at OU 11	No Huddle-Shotgun Benson,Trey rush left for 3 yards loss to the OU14 (Bowman,Billy).",rush middle
+1117,79,3,0,rush left,6,0,-3,2,"3rd and 6 at OU 11	No Huddle-Shotgun Benson,Trey rush left for 3 yards loss to the OU14 (Bowman,Billy).",rush right
 955,80,4,0,field goal attempt,9,0,5,-3,"4th and 9 at OU 14	Fitzgerald,Ryan field goal attempt from 32 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock 00:55.",field goal attempt
 3587,1,1,0,rush left,10,0,0,5,"1st and 10 at B.C34	No Huddle-Shotgun Ward,Treshaun rush left for 1 yard gain to the B.C.33 (DePalma,Vinny).",rush left
 3587,2,2,0,pass,9,0,0,0,"2nd and 9 at B.C33	No Huddle-Shotgun Travis,Jordan pass incomplete short right to Wilson,Johnny.",pass
@@ -886,7 +886,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 2719,47,1,24,kick attempt,10,0,0,101,"1st and 10 at B.C3	Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
 1800,48,1,31,rush right,10,90,0,0,"1st and 10 at FSU10	No Huddle-Shotgun Ward,Treshaun rush right for 1 yard loss to the FSU09 (Woodbey,Jaiden).",rush right
 1800,49,2,31,pass,11,91,82,0,"2nd and 11 at FSU9	No Huddle-Shotgun Travis,Jordan pass complete deep left to Wilson,Ontaria for 72 yards to the B.C.19 (DeBerry,Josh), 1ST DOWN.",pass
-1800,50,1,31,rush middle,10,0,-3,82,"1st and 10 at B.C19	No Huddle-Shotgun Ward,Treshaun rush middle for 3 yards loss to the B.C.22 (DeBerry,Josh).",rush middle
+1800,50,1,31,rush middle,10,0,-3,82,"1st and 10 at B.C19	No Huddle-Shotgun Ward,Treshaun rush middle for 3 yards loss to the B.C.22 (DeBerry,Josh).",rush left
 1459,51,2,31,rush middle,13,0,92,-3,"2nd and 13 at B.C22	No Huddle-Shotgun Ward,Treshaun rush middle for 22 yards gain to the B.C.00 TOUCHDOWN, clock 09:19, 1ST DOWN.",rush middle
 1459,52,1,31,kick attempt,10,0,0,92,"1st and 10 at B.C3	Fitzgerald,Ryan kick attempt failed (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
 1111,53,1,30,rush middle,10,61,4,0,"1st and 10 at FSU39	No Huddle-Shotgun Toafili,Lawrance rush middle for 4 yards gain to the FSU43 (DePalma,Vinny).",rush middle
@@ -908,8 +908,8 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1470,69,2,37,pass,12,81,0,3,"2nd and 12 at FSU19	No Huddle-Shotgun Duffy,AJ pass incomplete short right to Spann,Deuce QB hurried by Onwuka,Chibueze.",pass
 1470,70,3,37,pass,12,81,0,0,"3rd and 12 at FSU19	No Huddle-Shotgun Duffy,AJ pass incomplete short left to Poitier,Kentron QB hurried by Onwuka,Chibueze.",pass
 1470,71,4,37,punt,12,81,0,0,"4th and 12 at FSU19	Mastromanno,Alex punt 53 yards to the B.C.28 fair catch by Williams,Jaden at B.C.28.",punt
-950,72,1,30,kneel,10,75,-1,0,"1st and 10 at FSU25	Kneel down by Duffy,AJ at FSU24 for loss of 1 yards.",pass
-950,73,2,30,kneel,11,76,-1,-1,"2nd and 11 at FSU24	Kneel down by Duffy,AJ at FSU23 for loss of 1 yards.",rush middle
+950,72,1,30,kneel,10,75,-1,0,"1st and 10 at FSU25	Kneel down by Duffy,AJ at FSU24 for loss of 1 yards.",rush left
+950,73,2,30,kneel,11,76,-1,-1,"2nd and 11 at FSU24	Kneel down by Duffy,AJ at FSU23 for loss of 1 yards.",rush left
 3600,1,1,0,rush right,10,82,9,-1,"1st and 10 at FSU18 No Huddle-Shotgun Ward,Treshaun rush right for 9 yards gain to the FSU27 (Barnes,CJ; Daure,Ezekiel).",rush right
 3600,2,2,0,pass,1,73,8,9,"2nd and 1 at FSU27 No Huddle-Shotgun Travis,Jordan pass complete short left to Pittman,Mycah for 8 yards to the FSU35",pass
 3600,3,1,0,rush right,10,65,3,8,"1st and 10 at FSU35 No Huddle-Shotgun Ward,Treshaun rush right for 3 yards gain to the FSU38 (Proctor,Nathan).",rush right
@@ -953,7 +953,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1319,41,1,23,rush left,10,43,5,18,"1st and 10 at DUQ43 No Huddle-Shotgun Toafili,Lawrance rush left for 5 yards gain to the DUQ38 (Vance,Jay; Howard,Ty).",rush left
 1319,42,2,23,pass,5,38,21,5,"2nd and 5 at DUQ38 No Huddle-Shotgun Travis,Jordan pass complete deep middle to Spann,Deuce for 11 yards to the DUQ27",pass
 1319,43,1,23,rush middle,10,27,30,21,"1st and 10 at DUQ27 No Huddle-Shotgun Ward,Treshaun rush middle for 20 yards gain to the DUQ07 (Johnson,Jayden), out of",rush middle
-1319,44,1,23,pass,17,17,-7,30,"1st and 17 at DUQ17 No Huddle-Shotgun Travis,Jordan sacked for loss of 7 yards to the DUQ24 (Hill,Todd).",pass
+1319,44,1,23,pass,17,17,-7,30,"1st and 17 at DUQ17 No Huddle-Shotgun Travis,Jordan sacked for loss of 7 yards to the DUQ24 (Hill,Todd).",rush right
 1319,45,2,23,pass,24,24,28,-7,"2nd and 24 at DUQ24 No Huddle-Shotgun Travis,Jordan pass complete deep middle to Poitier,Kentron for 18 yards to the DUQ06",pass
 1319,46,3,23,pass,6,6,0,28,"3rd and 6 at DUQ6 No Huddle-Shotgun Travis,Jordan pass incomplete short left to Poitier,Kentron.",pass
 1319,47,4,23,field goal attempt,6,6,5,0,"4th and 6 at DUQ6 Fitzgerald,Ryan field goal attempt from 24 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock",field goal attempt
@@ -1021,7 +1021,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3600,11,3,0,rush middle,1,0,2,6,"3rd and 1 at VT 13 No Huddle-Shotgun Hill,Rodney rush middle for 2 yards gain to the VT 11 (Delane,Mansoor; Burgos,Keyshawn),",rush middle
 3600,12,1,0,rush left,10,0,4,2,"1st and 10 at VT 11 No Huddle-Shotgun Benson,Trey rush left for 4 yards gain to the VT 07 (Pollard,Norell; Tisdale,Alan).",rush left
 3600,13,2,0,pass,6,0,7,4,"2nd and 6 at VT 7 No Huddle-Shotgun Travis,Jordan pass complete short middle to Wilson,Johnny for 7 yards to the VT 00",pass
-3253,15,1,8,pass,10,66,9,0,"1st and 10 at FSU34 No Huddle-Shotgun Travis,Jordan pass complete short right to Douglas,Markeston for 9 yards to the FSU43",pass
+3253,15,1,8,pass,10,66,9,7,"1st and 10 at FSU34 No Huddle-Shotgun Travis,Jordan pass complete short right to Douglas,Markeston for 9 yards to the FSU43",pass
 3253,16,2,8,rush middle,1,57,3,9,"2nd and 1 at FSU43 No Huddle-Shotgun Benson,Trey rush middle for 3 yards gain to the FSU46 (Phillips III,Mose; Powell-Ryland",rush middle
 3253,17,1,8,rush left,10,54,4,3,"1st and 10 at FSU46 No Huddle-Shotgun Benson,Trey rush left for 4 yards gain to the FSU50 (Stroman,Jalen; Lawson,Keli).",rush left
 3253,18,2,8,rush middle,6,50,29,4,"2nd and 6 at FSU50 No Huddle-Shotgun Benson,Trey rush middle for 19 yards gain to the VT 31 (Stroman,Jalen), 1ST DOWN.",rush middle
@@ -1045,7 +1045,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 2377,36,2,19,pass,6,71,0,4,"2nd and 6 at FSU29 No Huddle-Shotgun Travis,Jordan pass complete short right to Benson,Trey for 1 yard loss to the FSU28",pass
 2377,37,3,19,pass,7,72,-6,0,"3rd and 7 at FSU28 No Huddle-Shotgun Travis,Jordan sacked for loss of 6 yards to the FSU22 (McCray,C.J.).",rush left
 2377,38,4,19,punt,13,78,0,-6,"4th and 13 at FSU22 Mastromanno,Alex punt 48 yards to the VT 30 fair catch by Holloway,Tucker at VT 30.",punt
-1787,39,1,12,pass,10,75,-10,0,"1st and 10 at FSU25 No Huddle-Shotgun Travis,Jordan sacked for loss of 10 yards to the FSU15 (Pollard,Norell).",rush left
+1787,39,1,12,pass,10,75,-10,0,"1st and 10 at FSU25 No Huddle-Shotgun Travis,Jordan sacked for loss of 10 yards to the FSU15 (Pollard,Norell).",rush middle
 900,40,1,12,pass,10,75,23,-10,"1st and 10 at FSU25 No Huddle-Shotgun Travis,Jordan pass complete short middle to Wilson,Johnny for 13 yards to the FSU38",pass
 1759,41,1,12,rush left,10,62,132,23,"1st and 10 at FSU38 No Huddle-Shotgun Benson,Trey rush left for 62 yards gain to the VT 00 TOUCHDOWN, clock 14:19, 1ST DOWN.",rush left
 1759,42,1,12,kick attempt,10,0,0,132,"1st and 10 at VT 3 Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
@@ -1074,9 +1074,9 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 508,65,2,22,rush right,5,68,3,5,"2nd and 5 at FSU32 No Huddle Hill,Rodney rush right for 3 yards gain to the FSU35 (Burgos,Keyshawn; Lawson,Keli).",rush right
 508,66,3,22,pass,2,65,0,3,"3rd and 2 at FSU35 No Huddle-Shotgun Rodemaker,Tate pass incomplete short right to Williams,Hykeem QB hurried by Lawson,Keli.",pass
 508,67,4,22,punt,2,65,0,0,"4th and 2 at FSU35 Mastromanno,Alex punt 50 yards to the VT 15 fair catch by Holloway,Tucker at VT 15.",punt
-508,68,1,22,kneel,10,72,-2,0,"1st and 10 at FSU28 Kneel down by Rodemaker,Tate at FSU26 for loss of 2 yards.",rush middle
-508,69,2,22,kneel,12,74,-2,-2,"2nd and 12 at FSU26 Kneel down by Rodemaker,Tate at FSU24 for loss of 2 yards.",rush right
-508,70,3,22,kneel,14,76,-2,-2,"3rd and 14 at FSU24 Kneel down by Rodemaker,Tate at FSU22 for loss of 2 yards.",pass
+508,68,1,22,kneel,10,72,-2,0,"1st and 10 at FSU28 Kneel down by Rodemaker,Tate at FSU26 for loss of 2 yards.",rush left
+508,69,2,22,kneel,12,74,-2,-2,"2nd and 12 at FSU26 Kneel down by Rodemaker,Tate at FSU24 for loss of 2 yards.",rush left
+508,70,3,22,kneel,14,76,-2,-2,"3rd and 14 at FSU24 Kneel down by Rodemaker,Tate at FSU22 for loss of 2 yards.",rush left
 3600,1,1,0,rush right,10,80,5,-2,"1st and 10 at FSU20 No Huddle-Shotgun Benson,Trey rush right for 5 yards gain to the FSU25 (Seay,AJ; Reddick,Gregory).",rush right
 3600,2,2,0,pass,5,75,28,5,"2nd and 5 at FSU25 No Huddle-Shotgun Travis,Jordan pass complete short left to Coleman,Keon for 18 yards to the FSU43",pass
 3600,3,1,0,rush left,10,57,2,28,"1st and 10 at FSU43 No Huddle-Shotgun Hill,Rodney rush left for 2 yards gain to the FSU45 (Floyd,Amauri).",rush left
@@ -1119,7 +1119,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 940,40,1,4,kick attempt,10,3,0,87,"1st and 10 at UNA3 Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
 900,41,1,11,rush left,10,69,20,0,"1st and 10 at FSU31 No Huddle-Shotgun Toafili,Lawrance rush left for 10 yards gain to the FSU41 (Green,Kam'ron), 1ST DOWN.",rush left
 900,42,1,11,rush left,10,59,0,20,"1st and 10 at FSU41 No Huddle-Shotgun Benson,Trey rush left for 1 yard gain to the FSU42 (Myers,Shaun).",rush left
-900,43,2,11,pass,9,58,-4,0,"2nd and 9 at FSU42 No Huddle-Shotgun Rodemaker,Tate sacked for loss of 4 yards to the FSU38 (Brown,Kaleb).",rush right
+900,43,2,11,pass,9,58,-4,0,"2nd and 9 at FSU42 No Huddle-Shotgun Rodemaker,Tate sacked for loss of 4 yards to the FSU38 (Brown,Kaleb).",rush left
 900,44,3,11,pass,13,62,0,-4,"3rd and 13 at FSU38 No Huddle-Shotgun Rodemaker,Tate pass incomplete short middle to Wilson,Johnny.",pass
 900,45,4,11,punt,13,62,0,0,"4th and 13 at FSU38 Mastromanno,Alex punt 43 yards to the UNA19 fair catch by Warden,Kobe at UNA19.",punt
 900,46,1,11,pass,10,55,0,0,"1st and 10 at FSU45 No Huddle-Shotgun Rodemaker,Tate pass incomplete short right to Coleman,Keon QB hurried by",pass
@@ -1130,7 +1130,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 900,51,1,11,rush right,10,76,2,0,"1st and 10 at FSU24 No Huddle-Shotgun Benson,Trey rush right for 2 yards gain to the FSU26 (Myers,Shaun).",rush right
 900,52,2,11,pass,8,74,0,2,"2nd and 8 at FSU26 No Huddle-Shotgun Rodemaker,Tate pass incomplete deep right to Benson,Trey QB hurried by",pass
 900,53,3,11,pass,8,74,10,0,"3rd and 8 at FSU26 No Huddle-Shotgun Rodemaker,Tate pass complete short left to Bell,Jaheim for 10 yards to the FSU36, out of",pass
-900,54,1,11,pass,10,64,-13,10,"1st and 10 at FSU36 No Huddle-Shotgun Rodemaker,Tate sacked for loss of 13 yards to the FSU23 (Trujillo,K.J.), fumble by",rush left
+900,54,1,11,pass,10,64,-13,10,"1st and 10 at FSU36 No Huddle-Shotgun Rodemaker,Tate sacked for loss of 13 yards to the FSU23 (Trujillo,K.J.), fumble by",rush right
 900,55,1,11,pass,5,59,23,-13,"1st and 5 at FSU41 No Huddle-Shotgun Rodemaker,Tate pass complete short right to Toafili,Lawrance for 13 yards to the UNA46",pass
 900,56,1,11,pass,10,61,0,23,"1st and 10 at FSU39 No Huddle-Shotgun Rodemaker,Tate pass incomplete short left to Morlock,Kyle.",pass
 900,57,2,11,rush middle,15,66,5,0,"2nd and 15 at FSU34 No Huddle-Shotgun Campbell Jr.,CJ rush middle for 5 yards gain to the FSU39 (Bien-Aime,Philjae).",rush middle
@@ -1151,7 +1151,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 877,72,4,32,pass,7,40,0,0,"4th and 7 at UNA40 No Huddle-Shotgun Glenn,Brock pass incomplete short right to Hill,Destyn QB hurried by Newbill,Makenly.",pass
 877,73,1,32,rush middle,10,70,6,0,"1st and 10 at FSU30 No Huddle-Shotgun Singleton Jr.,Samuel rush middle for 6 yards gain to the FSU36 (Leak,Andrew; Phillips,A.J.).",rush middle
 877,74,2,32,pass,14,74,7,6,"2nd and 14 at FSU26 No Huddle-Shotgun Glenn,Brock pass complete short left to Holmes,Caziah for 7 yards to the FSU33",pass
-877,75,1,32,rush right,10,52,-6,7,"1st and 10 at FSU48 No Huddle-Shotgun Glenn,Brock rush right for 6 yards loss to the FSU42 fumbled by Glenn,Brock at FSU45",rush left
+877,75,1,32,rush right,10,52,-6,7,"1st and 10 at FSU48 No Huddle-Shotgun Glenn,Brock rush right for 6 yards loss to the FSU42 fumbled by Glenn,Brock at FSU45",rush middle
 877,76,2,32,rush middle,16,58,8,-6,"2nd and 16 at FSU42 No Huddle-Shotgun Singleton Jr.,Samuel rush middle for 8 yards gain to the FSU50 (Howard,Avery).",rush middle
 877,77,3,32,pass,8,50,38,8,"3rd and 8 at FSU50 No Huddle-Shotgun Glenn,Brock pass complete deep middle to Jacobs,Vandrevius for 28 yards to the UNA22",pass
 877,78,1,32,rush middle,10,22,0,38,"1st and 10 at UNA22 No Huddle-Shotgun Singleton Jr.,Samuel rush middle for 1 yard gain to the UNA21 (Antkowiak,Tyler).",rush middle
@@ -1255,7 +1255,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 2700,29,3,21,rush middle,1,72,5,8,"3rd and 1 at FSU28 No Huddle-Shotgun Benson,Trey rush middle for 5 yards gain to the FSU33 (Quibodeaux,Jourdan; Moncrief,Kris),",rush middle
 2700,30,1,21,rush left,15,72,2,5,"1st and 15 at FSU28 No Huddle-Shotgun Toafili,Lawrance rush left for 2 yards gain to the FSU30 (Hill-Green,Zi'Yon; Lewis,Tyrone).",rush left
 2700,31,2,21,pass,13,70,21,2,"2nd and 13 at FSU30 No Huddle-Shotgun Travis,Jordan pass complete deep left to Douglas,Markeston for 11 yards to the FSU41",pass
-2700,32,3,21,rush right,2,59,-2,21,"3rd and 2 at FSU41 No Huddle-Shotgun Ward,Treshaun rush right for 2 yards loss to the FSU39, End Of Play.",rush right
+2700,32,3,21,rush right,2,59,-2,21,"3rd and 2 at FSU41 No Huddle-Shotgun Ward,Treshaun rush right for 2 yards loss to the FSU39, End Of Play.",rush middle
 2700,33,4,21,punt,4,61,0,-2,"4th and 4 at FSU39 Mastromanno,Alex punt 41 yards to the LOU20 Garror,Eric return 7 yards to the LOU27 (Brown,Shyheim), out of",punt
 2700,34,1,21,rush middle,10,44,5,0,"1st and 10 at LA44 No Huddle-Shotgun Benson,Trey rush middle for 5 yards gain to the LOU39 (Moncrief,Kris).",rush middle
 2700,35,2,21,rush middle,5,39,4,5,"2nd and 5 at LA39 No Huddle-Shotgun Benson,Trey rush middle for 4 yards gain to the LOU35 (Nelson,Ja-Quane).",rush middle
@@ -1296,7 +1296,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 316,70,1,32,rush right,10,59,0,26,"1st and 10 at FSU41 No Huddle-Shotgun Hill,Rodney rush right for 1 yard loss to the FSU40 (Mensah,Patrick).",rush right
 316,71,2,32,rush middle,11,60,9,0,"2nd and 11 at FSU40 No Huddle-Shotgun Hill,Rodney rush middle for 9 yards gain to the FSU49 (Lewis,Tyrone; Skipper,Tyree).",rush middle
 316,72,3,32,rush middle,2,51,12,9,"3rd and 2 at FSU49 No Huddle-Shotgun Hill,Rodney rush middle for 2 yards gain to the LOU49 (Landry,Andre), 1ST DOWN.",rush middle
-316,73,1,32,rush middle,10,49,-5,12,"1st and 10 at LOU49 No Huddle-Shotgun English,Gino rush middle for 5 yards loss to the FSU46 fumbled by English,Gino at FSU46",pass
+316,73,1,32,rush middle,10,49,-5,12,"1st and 10 at LOU49 No Huddle-Shotgun English,Gino rush middle for 5 yards loss to the FSU46 fumbled by English,Gino at FSU46",rush left
 316,74,2,32,rush middle,15,54,2,-5,"2nd and 15 at FSU46 No Huddle-Shotgun Hill,Rodney rush middle for 2 yards gain to the FSU48 (Ossai,KC).",rush middle
 316,75,3,32,pass,13,52,0,2,"3rd and 13 at FSU48 No Huddle-Shotgun English,Gino pass complete short left to Roussos,Mike for 0 yards to the FSU48",pass
 3600,1,1,0,pass,10,75,0,0,"1st and 10 at FSU25 No Huddle-Shotgun Travis,Jordan pass incomplete short middle to Coleman,Keon.",pass
@@ -1317,7 +1317,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3108,16,2,-10,pass,9,63,6,0,"2nd and 9 at FSU37 No Huddle-Shotgun Travis,Jordan pass complete short right to Bell,Jaheim for 6 yards to the FSU43",pass
 3108,17,3,-10,pass,3,57,8,6,"3rd and 3 at FSU43 No Huddle-Shotgun Travis,Jordan pass complete short middle to Douglas,Markeston for 8 yards to the DU49",pass
 3108,18,1,-10,rush middle,10,49,3,8,"1st and 10 at DU49 No Huddle-Shotgun Benson,Trey rush middle for 3 yards gain to the DU46 (Stinson,Jaylen).",rush middle
-3108,19,2,-10,rush middle,7,46,-4,3,"2nd and 7 at DU46 No Huddle-Shotgun Travis,Jordan rush middle for 4 yards loss to the DU50 fumbled by Travis,Jordan at FSU47",rush right
+3108,19,2,-10,rush middle,7,46,-4,3,"2nd and 7 at DU46 No Huddle-Shotgun Travis,Jordan rush middle for 4 yards loss to the DU50 fumbled by Travis,Jordan at FSU47",pass
 3108,20,3,-10,pass,11,50,22,-4,"3rd and 11 at FSU50 No Huddle-Shotgun Travis,Jordan pass complete short left to Wilson,Johnny for 12 yards to the DU38, End Of",pass
 3108,21,1,-10,pass,10,38,0,22,"1st and 10 at DU38 No Huddle-Shotgun Travis,Jordan pass incomplete short right to Coleman,Keon.",pass
 3108,22,2,-10,rush middle,10,38,25,0,"2nd and 10 at DU38 No Huddle-Shotgun Benson,Trey rush middle for 15 yards gain to the DU23 (Moore,Terry; Stinson,Jaylen)",rush middle
@@ -1326,7 +1326,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3108,25,2,-10,pass,6,22,25,4,"2nd and 6 at DU22 No Huddle-Shotgun Travis,Jordan pass complete short middle to Bell,Jaheim for 15 yards to the DU07",pass
 3108,26,1,-10,pass,7,7,7,25,"1st and 7 at DU7 No Huddle-Shotgun Travis,Jordan pass complete short right to Holmes,Caziah for 7 yards to the DU00",pass
 2713,27,1,-10,kick attempt,10,3,0,7,"1st and 10 at DU3 Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
-2700,28,1,-3,pass,10,92,-5,0,"1st and 10 at FSU8 No Huddle-Shotgun Travis,Jordan pass complete short middle to Benson,Trey for 5 yards loss to the FSU03",rush left
+2700,28,1,-3,pass,10,92,-5,0,"1st and 10 at FSU8 No Huddle-Shotgun Travis,Jordan pass complete short middle to Benson,Trey for 5 yards loss to the FSU03",rush right
 2700,29,2,-3,rush middle,15,97,3,-5,"2nd and 15 at FSU3 No Huddle-Shotgun Benson,Trey rush middle for 3 yards gain to the FSU06 (Franklin,Ja'Mion; Mausi,Dorian).",rush middle
 2700,30,3,-3,pass,12,94,0,3,"3rd and 12 at FSU6 No Huddle-Shotgun Travis,Jordan pass intercepted by Rivers,Chandler at FSU13 broken up by Stinson,Jaylen",pass
 2584,31,1,-3,kick attempt,10,97,0,0,"1st and 10 at FSU3 Pelino,Todd kick attempt good (H: Wilson,Porter, LS: Cooper,Curtis).",kick attempt
@@ -1334,21 +1334,21 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 2584,33,1,-10,pass,15,64,24,0,"1st and 15 at FSU36 No Huddle-Shotgun Travis,Jordan pass complete short right to Wilson,Johnny for 14 yards to the FSU50 (Blades,",pass
 2584,34,2,-10,pass,1,50,40,24,"2nd and 1 at DU50 No Huddle-Shotgun Travis,Jordan pass complete short left to Coleman,Keon for 30 yards to the DU20",pass
 2584,35,1,-10,rush right,10,20,8,40,"1st and 10 at DU20 No Huddle-Shotgun Hill,Rodney rush right for 8 yards gain to the DU12 (Stinson,Jaylen; Blades, Jr.,Al).",rush right
-2584,36,2,-10,rush right,2,12,-2,8,"2nd and 2 at DU12 No Huddle-Shotgun Hill,Rodney rush right for 2 yards loss to the DU14 (Nelson, Jr.,Anthony).",rush right
+2584,36,2,-10,rush right,2,12,-2,8,"2nd and 2 at DU12 No Huddle-Shotgun Hill,Rodney rush right for 2 yards loss to the DU14 (Nelson, Jr.,Anthony).",pass
 2584,37,3,-10,pass,4,14,0,-2,"3rd and 4 at DU14 No Huddle-Shotgun Travis,Jordan pass incomplete short right to Wilson,Johnny broken up by Blades, Jr.,Al.",pass
 2584,38,4,-10,field goal attempt,4,14,5,0,"4th and 4 at DU14 Fitzgerald,Ryan field goal attempt from 32 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock",field goal attempt
 936,39,1,-3,pass,10,75,9,5,"1st and 10 at FSU25 No Huddle-Shotgun Travis,Jordan pass complete short middle to Toafili,Lawrance for 9 yards to the FSU34",pass
 936,40,2,-3,pass,1,66,4,9,"2nd and 1 at FSU34 No Huddle-Shotgun Travis,Jordan pass complete short right to Toafili,Lawrance for 4 yards to the FSU38 (Blades,",pass
 936,41,1,-3,pass,10,62,0,4,"1st and 10 at FSU38 No Huddle-Shotgun Travis,Jordan pass incomplete short left to Toafili,Lawrance QB hurried by Freeman,Tre.",pass
 936,42,2,-3,pass,10,62,7,0,"2nd and 10 at FSU38 No Huddle-Shotgun Travis,Jordan pass complete short right to Williams,Hykeem for 7 yards to the FSU45",pass
-936,43,3,-3,pass,3,55,-2,7,"3rd and 3 at FSU45 No Huddle-Shotgun Travis,Jordan sacked for loss of 2 yards to the FSU43 (Williams,Wesley). The previous play is",rush left
+936,43,3,-3,pass,3,55,-2,7,"3rd and 3 at FSU45 No Huddle-Shotgun Travis,Jordan sacked for loss of 2 yards to the FSU43 (Williams,Wesley). The previous play is",rush middle
 1701,44,1,-3,rush right,10,87,10,-2,"1st and 10 at FSU13 No Huddle-Shotgun Benson,Trey rush right for 10 yards gain to the FSU23 (Lewis,Jeremiah; Nelson,",rush right
 1701,45,1,-3,pass,10,77,3,10,"1st and 10 at FSU23 No Huddle-Shotgun Travis,Jordan pass complete short right to Bell,Jaheim for 3 yards to the FSU26",pass
 1701,46,2,-3,rush right,7,74,0,3,"2nd and 7 at FSU26 No Huddle-Shotgun Benson,Trey rush right for 0 yards to the FSU26 (Carter,DeWayne; Mausi,Dorian).",rush right
 1701,47,3,-3,pass,7,74,0,0,"3rd and 7 at FSU26 No Huddle-Shotgun Travis,Jordan pass incomplete deep left to Coleman,Keon.",pass
 1701,48,4,-3,punt,12,79,0,0,"4th and 12 at FSU21 Mastromanno,Alex punt 40 yards to the DU39 fair catch by Calhoun,Jalon at DU39.",punt
 1167,49,1,-3,rush right,10,96,8,0,"1st and 10 at FSU4 No Huddle-Shotgun Travis,Jordan rush right for 8 yards gain to the FSU12 (Freeman,Tre; Smith,Ryan).",rush right
-1167,50,2,-3,rush right,2,88,-3,8,"2nd and 2 at FSU12 No Huddle-Shotgun Benson,Trey rush right for 3 yards loss to the FSU09 (Peebles,Aeneas; Mausi,Dorian).",rush left
+1167,50,2,-3,rush right,2,88,-3,8,"2nd and 2 at FSU12 No Huddle-Shotgun Benson,Trey rush right for 3 yards loss to the FSU09 (Peebles,Aeneas; Mausi,Dorian).",rush right
 1167,51,3,-3,pass,5,91,6,-3,"3rd and 5 at FSU9 No Huddle-Shotgun Travis,Jordan pass complete short right to Bell,Jaheim for 6 yards to the FSU15",pass
 1167,52,1,-3,rush middle,10,85,20,6,"1st and 10 at FSU15 No Huddle-Shotgun Travis,Jordan rush middle for 10 yards gain to the FSU25, End Of Play, 1ST DOWN.",rush middle
 1167,53,1,-3,pass,10,75,3,20,"1st and 10 at FSU25 No Huddle-Shotgun Travis,Jordan pass complete short right to Benson,Trey for 3 yards to the FSU28",pass
@@ -1382,7 +1382,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3401,4,1,-3,pass,10,63,31,20,"1st and 10 at FSU37	No Huddle-Shotgun Travis,Jordan pass complete deep middle to Wilson,Johnny for 21 yards to the LSU42 (Brooks Jr.,Greg; Richardson,Colby), 1ST DOWN.",pass
 3401,5,1,-3,rush left,20,52,33,31,"1st and 20 at FSU48	No Huddle-Shotgun Travis,Jordan rush left for 23 yards gain to the LSU29 (Garner,Mekhi), 1ST DOWN.",rush left
 3401,6,1,-3,rush middle,10,29,3,33,"1st and 10 at LSU29	No Huddle-Shotgun Toafili,Lawrance rush middle for 3 yards gain to the LSU26 (Wingo,Mekhi).",rush middle
-3401,7,2,-3,rush right,7,26,-3,3,"2nd and 7 at LSU26	No Huddle-Shotgun Toafili,Lawrance rush right for 3 yards loss to the LSU29 (Burns,Major).",pass
+3401,7,2,-3,rush right,7,26,-3,3,"2nd and 7 at LSU26	No Huddle-Shotgun Toafili,Lawrance rush right for 3 yards loss to the LSU29 (Burns,Major).",rush middle
 3401,8,3,-3,pass,10,29,0,-3,"3rd and 10 at LSU29	No Huddle-Shotgun Travis,Jordan pass incomplete short right to Wilson,Ontaria QB hurried by Ojulari,BJ.",pass
 3135,9,4,-3,field goal attempt,10,29,5,0,"4th and 10 at LSU29	Fitzgerald,Ryan field goal attempt from 47 yards NO GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock 07:15, End Of Play.",field goal attempt
 3135,10,1,-3,rush left,10,85,0,5,"1st and 10 at FSU15	No Huddle-Shotgun Benson,Trey rush left for 0 yards to the FSU15 (Brooks Jr.,Greg).",rush left
@@ -1460,7 +1460,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3600,7,3,0,rush left,7,66,0,2,"3rd and 7 at FSU34 No Huddle-Shotgun Toafili,Lawrance rush left for 0 yards to the FSU 34 (Frierson,Gilbert).",rush left
 3600,8,4,0,punt,7,66,0,0,"4th and 7 at FSU34 Mastromanno,Alex punt 37 yards to the LOU 29 fair catch by Coleman Jr.,Kevin at LOU 29.",punt
 3600,9,1,0,rush middle,10,90,0,0,"1st and 10 at FSU10 Shotgun Benson,Trey rush middle for 1 yard gain to the FSU 11 (Alderman,Jaylin).",rush middle
-3600,10,2,0,pass,9,89,-4,0,"2nd and 9 at FSU11 Shotgun Glenn,Brock sacked for loss of 4 yards to the FSU 07 (Puryear,Ramon).",rush right
+3600,10,2,0,pass,9,89,-4,0,"2nd and 9 at FSU11 Shotgun Glenn,Brock sacked for loss of 4 yards to the FSU 07 (Puryear,Ramon).",pass
 3600,11,3,0,pass,13,93,6,-4,"3rd and 13 at FSU7 Shotgun Glenn,Brock pass complete short right to Coleman,Keon for 6 yards to the FSU 13 (Neal,Devin).",pass
 3600,12,4,0,punt,7,87,0,6,"4th and 7 at FSU13 Mastromanno,Alex punt 45 yards to the LOU 42 fair catch by Coleman Jr.,Kevin at LOU 42.",punt
 3600,13,1,0,rush middle,10,50,0,0,"1st and 10 at FSU50 Shotgun Benson,Trey rush middle for 1 yard gain to the LOU 49 (Lole,Jermayne; Reiger,Mason).",rush middle
@@ -1475,7 +1475,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 2700,22,2,0,rush right,3,48,13,7,"2nd and 3 at LOU48 No Huddle-Shotgun Toafili,Lawrance rush right for 3 yards gain to the LOU 45 (Neal,Devin; Quinn,T.J.), 1ST",rush right
 2700,23,1,0,pass,10,24,0,13,"1st and 10 at LOU24 Shotgun Glenn,Brock pass incomplete short right to Bell,Jaheim QB hurried by Herron,Stephen.",pass
 2700,24,2,0,pass,10,24,0,0,"2nd and 10 at LOU24 No Huddle-Shotgun Glenn,Brock pass incomplete short right to Holmes,Caziah broken up by Dawson,Jared.",pass
-2700,25,3,0,rush middle,10,24,-3,0,3rd and 10 at LOU24 No Huddle-Shotgun Florida St. rush middle for 3 yards loss to the LOU 27 fumbled by Florida St. at LOU 27,rush left
+2700,25,3,0,rush middle,10,24,-3,0,3rd and 10 at LOU24 No Huddle-Shotgun Florida St. rush middle for 3 yards loss to the LOU 27 fumbled by Florida St. at LOU 27,rush middle
 2700,26,4,0,field goal attempt,13,27,5,-3,"4th and 13 at LOU27 Fitzgerald,Ryan field goal attempt from 45 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock",field goal attempt
 2700,27,1,3,rush middle,10,90,3,5,"1st and 10 at FSU10 Shotgun Benson,Trey rush middle for 3 yards gain to the FSU 13 (Quinn,T.J.).",rush middle
 2700,28,2,3,rush middle,7,87,6,3,"2nd and 7 at FSU13 No Huddle-Shotgun Benson,Trey rush middle for 6 yards gain to the FSU 19 (Brownlee,Jarvis; Quinn,T.J.).",rush middle
@@ -1509,8 +1509,8 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1280,56,4,7,punt,5,79,0,0,"4th and 5 at FSU21 Mastromanno,Alex punt 38 yards to the LOU 41 fair catch by Coleman Jr.,Kevin at LOU 41.",punt
 816,57,1,4,rush middle,10,75,4,0,"1st and 10 at FSU25 Shotgun Benson,Trey rush middle for 4 yards gain to the FSU 29 (Minkins,Josh; Kelly,Cam'Ron).",rush middle
 816,58,2,4,rush middle,11,76,3,4,"2nd and 11 at FSU24 No Huddle-Shotgun Benson,Trey rush middle for 3 yards gain to the FSU 27 (Quinn,T.J.; Alderman,Jaylin).",rush middle
-816,59,3,4,pass,8,73,-4,3,"3rd and 8 at FSU27 No Huddle-Shotgun Glenn,Brock sacked for loss of 4 yards to the FSU 23 (Wilson,Kam, Lole,Jermayne).",pass
-816,60,4,4,rush left,12,77,-11,-4,"4th and 12 at FSU23 No Huddle-Shotgun Mastromanno,Alex rush left for 11 yards loss to the FSU 12 (Calloway,Jimmy).",rush middle
+816,59,3,4,pass,8,73,-4,3,"3rd and 8 at FSU27 No Huddle-Shotgun Glenn,Brock sacked for loss of 4 yards to the FSU 23 (Wilson,Kam, Lole,Jermayne).",rush left
+816,60,4,4,rush left,12,77,-11,-4,"4th and 12 at FSU23 No Huddle-Shotgun Mastromanno,Alex rush left for 11 yards loss to the FSU 12 (Calloway,Jimmy).",rush right
 816,61,1,4,rush left,10,80,20,-11,"1st and 10 at FSU20 Shotgun Toafili,Lawrance rush left for 10 yards gain to the FSU 30 (Minkins,Josh), 1ST DOWN.",rush left
 816,62,1,4,rush left,10,70,25,20,"1st and 10 at FSU30 No Huddle-Shotgun Toafili,Lawrance rush left for 15 yards gain to the FSU 45 (Herron,Stephen; Quinn,T.J.), 1ST",rush left
 816,63,1,4,rush middle,10,55,0,25,"1st and 10 at FSU45 No Huddle-Shotgun Benson,Trey rush middle for 1 yard loss to the FSU 44 (Kelly,Cam'Ron).",rush middle
@@ -1527,8 +1527,8 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 150,74,2,7,rush left,14,24,0,0,"2nd and 14 at LOU24 Shotgun Benson,Trey rush left for 1 yard gain to the LOU 23 (Puryear,Ramon; Kelly,Cam'Ron).",rush left
 146,75,3,7,rush middle,13,23,0,0,"3rd and 13 at LOU23 Shotgun Benson,Trey rush middle for 1 yard gain to the LOU 22 (Quinn,T.J.; Dawson,Jared).",rush middle
 143,76,4,7,field goal attempt,12,22,5,0,"4th and 12 at LOU22 Fitzgerald,Ryan field goal attempt from 40 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock",field goal attempt
-143,77,1,10,kneel,10,19,-4,5,"1st and 10 at LOU19 Kneel down by Glenn,Brock at LOU 23 for loss of 4 yards.",rush middle
-143,78,2,10,kneel,14,23,-6,-4,"2nd and 14 at LOU23 Kneel down by Glenn,Brock at LOU 29 for loss of 6 yards.",rush left
+143,77,1,10,kneel,10,19,-4,5,"1st and 10 at LOU19 Kneel down by Glenn,Brock at LOU 23 for loss of 4 yards.",rush left
+143,78,2,10,kneel,14,23,-6,-4,"2nd and 14 at LOU23 Kneel down by Glenn,Brock at LOU 29 for loss of 6 yards.",rush middle
 3600,1,1,0,rush left,10,62,32,-6,"1st and 10 at FSU38	No Huddle-Shotgun Benson,Trey rush left for 22 yards gain to the GT 40 (Powell-Lee,Clayton), out of bounds, 1ST DOWN.",rush left
 3600,2,1,0,rush middle,10,0,0,32,"1st and 10 at GT 40	No Huddle-Shotgun Benson,Trey rush middle for 1 yard gain to the GT 39 (Scott,Makius; Douse,D'Quan).",rush middle
 3600,3,2,0,rush right,9,0,6,0,"2nd and 9 at GT 39	No Huddle-Shotgun Benson,Trey rush right for 6 yards gain to the GT 33 (Wallace,KJ).",rush right
@@ -1574,7 +1574,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 2831,43,3,18,pass,6,0,20,0,"3rd and 6 at GT 36	No Huddle-Shotgun Travis,Jordan pass complete short middle to Douglas,Ja'Khi for 10 yards to the GT 26 (Wallace,KJ), 1ST DOWN.",pass
 2831,44,1,18,pass,10,0,22,20,"1st and 10 at GT 26	No Huddle-Shotgun Travis,Jordan pass complete deep left to McDonald,Camren for 12 yards to the GT 14 (Powell-Lee,Clayton), out of bounds, 1ST DOWN.",pass
 2831,45,1,18,pass,10,0,0,22,"1st and 10 at GT 14	No Huddle-Shotgun Travis,Jordan pass incomplete short middle to Douglas,Ja'Khi broken up by Moore,Jason.",pass
-2831,46,2,18,pass,5,0,-7,0,"2nd and 5 at GT 9	No Huddle-Shotgun Travis,Jordan sacked for loss of 7 yards to the GT 16 (Tatum,Trenilyas).",rush middle
+2831,46,2,18,pass,5,0,-7,0,"2nd and 5 at GT 9	No Huddle-Shotgun Travis,Jordan sacked for loss of 7 yards to the GT 16 (Tatum,Trenilyas).",rush right
 2831,47,3,18,pass,12,0,0,-7,"3rd and 12 at GT 16	No Huddle Travis,Jordan pass incomplete, Spike.",pass
 2700,48,4,18,field goal attempt,12,0,5,0,"4th and 12 at GT 16	Fitzgerald,Ryan field goal attempt from 34 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock 00:00.",field goal attempt
 1686,49,1,14,pass,10,91,0,5,"1st and 10 at FSU9	No Huddle-Shotgun Travis,Jordan pass complete short left to Toafili,Lawrance for 0 yards to the FSU09 (Kennard,Kyle).",pass
@@ -1582,7 +1582,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1686,51,3,14,pass,10,91,22,0,"3rd and 10 at FSU9	No Huddle-Shotgun Travis,Jordan pass complete deep right to Pittman,Mycah for 12 yards to the FSU21 (Wallace,KJ), 1ST DOWN.",pass
 1686,52,1,14,pass,10,79,0,22,"1st and 10 at FSU21	No Huddle-Shotgun Travis,Jordan pass incomplete short right to Wilson,Johnny.",pass
 1686,53,2,14,rush middle,10,79,27,0,"2nd and 10 at FSU21	Shotgun Toafili,Lawrance rush middle for 17 yards gain to the FSU38 (Thomas,Charlie; Watson,Kenyatta), 1ST DOWN.",rush middle
-1686,54,1,14,rush middle,10,62,-2,27,"1st and 10 at FSU38	Shotgun Toafili,Lawrance rush middle for 2 yards loss to the FSU36 (Stone,Akelo).",rush middle
+1686,54,1,14,rush middle,10,62,-2,27,"1st and 10 at FSU38	Shotgun Toafili,Lawrance rush middle for 2 yards loss to the FSU36 (Stone,Akelo).",rush left
 1686,55,2,14,pass,12,64,0,-2,"2nd and 12 at FSU36	Shotgun Travis,Jordan pass incomplete short right to Pittman,Mycah.",pass
 1686,56,3,14,pass,12,64,34,0,"3rd and 12 at FSU36	Shotgun Travis,Jordan pass complete deep left to Wilson,Johnny for 24 yards to the GT 40 (Watson,Kenyatta), 1ST DOWN.",pass
 1686,57,1,14,rush middle,10,0,8,34,"1st and 10 at GT 40	Shotgun Toafili,Lawrance rush middle for 8 yards gain to the GT 32 (Eley,Ayinde).",rush middle
@@ -1622,13 +1622,13 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3600,5,2,0,pass,10,65,4,0,"2nd and 10 at FSU35 No Huddle-Shotgun Travis,Jordan pass complete short right to Benson,Trey for 4 yards to the FS39",pass
 3600,6,3,0,rush right,6,61,32,4,"3rd and 6 at FSU39 No Huddle-Shotgun Travis,Jordan rush right for 22 yards gain to the NCSU39 (Ingle,Tanner), out of bounds, 1ST",rush right
 3600,7,1,0,rush middle,10,39,2,32,"1st and 10 at NCS39 No Huddle-Shotgun Travis,Jordan rush middle for 2 yards gain to the NCSU37 (Price,Travali; Wilson,Payton).",rush middle
-3600,8,2,0,rush middle,8,37,-4,2,"2nd and 8 at NCS37 No Huddle-Shotgun Benson,Trey rush middle for 4 yards loss to the NCSU41 (Moore,Isaiah).",pass
+3600,8,2,0,rush middle,8,37,-4,2,"2nd and 8 at NCS37 No Huddle-Shotgun Benson,Trey rush middle for 4 yards loss to the NCSU41 (Moore,Isaiah).",rush right
 3600,9,3,0,pass,12,41,4,-4,"3rd and 12 at NCS41 No Huddle-Shotgun Travis,Jordan pass complete short left to Poitier,Kentron for 4 yards to the NCSU37",pass
 3600,10,3,0,pass,12,41,0,4,"3rd and 12 at NCS41 No Huddle-Shotgun Travis,Jordan pass incomplete short middle to Wilson,Johnny QB hurried by Durden,Cory.",pass
 3600,11,4,0,punt,12,41,0,0,"4th and 12 at NCS41 Mastromanno,Alex punt 41 yards to the NCSU00, Touchback.",punt
 3600,12,1,0,rush right,10,64,2,0,"1st and 10 at FSU36 No Huddle-Shotgun Benson,Trey rush right for 2 yards gain to the FS38 (Wilson,Payton).",rush right
-3600,13,2,0,rush middle,8,62,-2,2,"2nd and 8 at FSU38 No Huddle-Shotgun Benson,Trey rush middle for 2 yards loss to the FS36 (Thomas,Drake; Moore,Isaiah).",rush left
-3600,14,3,0,pass,10,64,-10,-2,"3rd and 10 at FSU36 No Huddle-Shotgun Travis,Jordan sacked for loss of 10 yards to the FS26 (Vann,Davin).",rush left
+3600,13,2,0,rush middle,8,62,-2,2,"2nd and 8 at FSU38 No Huddle-Shotgun Benson,Trey rush middle for 2 yards loss to the FS36 (Thomas,Drake; Moore,Isaiah).",pass
+3600,14,3,0,pass,10,64,-10,-2,"3rd and 10 at FSU36 No Huddle-Shotgun Travis,Jordan sacked for loss of 10 yards to the FS26 (Vann,Davin).",rush right
 3600,15,4,0,punt,20,74,0,-10,"4th and 20 at FSU26 Mastromanno,Alex punt 40 yards to the NCSU34 Thomas,Thayer return 8 yards to the NCSU42 (DeLoach,Kalen).",punt
 2886,16,1,-3,rush middle,10,82,0,0,"1st and 10 at FSU18 No Huddle-Shotgun Travis,Jordan rush middle for 1 yard gain to the FS19 (Thomas,Drake).",rush middle
 2886,17,2,-3,pass,9,81,24,0,"2nd and 9 at FSU19 No Huddle-Shotgun Travis,Jordan pass complete deep left to Pittman,Mycah for 14 yards to the FS33 QB hurried",pass
@@ -1652,14 +1652,14 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1800,35,1,4,pass,10,72,2,0,"1st and 10 at FSU28 No Huddle-Shotgun Travis,Jordan pass complete short right to Benson,Trey for 2 yards to the FS30",pass
 1800,36,2,4,pass,8,70,4,2,"2nd and 8 at FSU30 No Huddle-Shotgun Travis,Jordan pass complete short left to Wilson,Ontaria for 4 yards to the FS34",pass
 1800,37,3,4,rush left,4,66,36,4,"3rd and 4 at FSU34 No Huddle-Shotgun Benson,Trey rush left for 26 yards gain to the NCSU40 (Thomas,Drake), 1ST DOWN.",rush left
-1800,38,1,4,pass,10,40,-2,36,"1st and 10 at NCS40 No Huddle-Shotgun Travis,Jordan pass complete short right to Pittman,Mycah for 2 yards loss to the NCSU42",rush left
+1800,38,1,4,pass,10,40,-2,36,"1st and 10 at NCS40 No Huddle-Shotgun Travis,Jordan pass complete short right to Pittman,Mycah for 2 yards loss to the NCSU42",rush middle
 1800,39,2,4,rush middle,12,42,0,-2,"2nd and 12 at NCS42 No Huddle-Shotgun Toafili,Lawrance rush middle for 1 yard gain to the NCSU41 (Moore,Isaiah).",rush middle
 967,40,3,4,pass,11,41,39,0,"3rd and 11 at NCS41 No Huddle-Shotgun Travis,Jordan pass complete deep right to Wilson,Johnny for 29 yards to the NCSU12",pass
 948,41,1,4,rush middle,10,12,82,39,"1st and 10 at NCS12 No Huddle-Shotgun Toafili,Lawrance rush middle for 12 yards gain to the NCSU00 TOUCHDOWN, clock 00:48,",rush middle
 948,42,1,4,kick attempt,10,3,0,82,"1st and 10 at NCS3 Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
 923,43,1,11,pass,10,36,7,0,"1st and 10 at NCS36 No Huddle-Shotgun Travis,Jordan pass complete short left to Toafili,Lawrance for 7 yards to the NCSU29",pass
 903,44,2,11,field goal attempt,3,29,5,7,"2nd and 3 at NCS29 Fitzgerald,Ryan field goal attempt from 47 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock",field goal attempt
-1489,45,1,7,rush left,10,75,-4,5,"1st and 10 at FSU25 No Huddle-Shotgun Toafili,Lawrance rush left for 4 yards loss to the FS21 (Vann,Davin; Thomas,Drake).",rush right
+1489,45,1,7,rush left,10,75,-4,5,"1st and 10 at FSU25 No Huddle-Shotgun Toafili,Lawrance rush left for 4 yards loss to the FS21 (Vann,Davin; Thomas,Drake).",rush left
 1489,46,2,7,pass,14,79,7,-4,"2nd and 14 at FSU21 No Huddle-Shotgun Travis,Jordan pass complete short right to Wilson,Ontaria for 7 yards to the FS28",pass
 1489,47,3,7,pass,7,72,0,7,"3rd and 7 at FSU28 No Huddle-Shotgun Travis,Jordan pass incomplete short left to Wilson,Johnny.",pass
 1489,48,4,7,punt,7,72,0,0,"4th and 7 at FSU28 Mastromanno,Alex punt 36 yards to the NCSU36 Thomas,Thayer return 7 yards to the NCSU43 (Green,Renardo;",punt
@@ -1686,7 +1686,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 51,69,1,-2,rush middle,10,24,2,14,"1st and 10 at NCS24 No Huddle-Shotgun Toafili,Lawrance rush middle for 2 yards gain to the NCSU22 (Ingle,Tanner; Boykin,Devan).",rush middle
 284,70,2,-2,pass,8,22,0,2,"2nd and 8 at NCS22 No Huddle-Shotgun Travis,Jordan pass intercepted by Boykin,Devan at NCSU00, Touchback.",pass
 3600,1,1,0,rush left,10,75,2,0,"1st and 10 at FSU25	No Huddle-Shotgun Benson,Trey rush left for 2 yards gain to the FSU27 (Umanmielen,Princely; Powell-Ryland Jr.,Antwaun).",rush left
-3600,2,2,0,rush left,8,73,-2,2,"2nd and 8 at FSU27	No Huddle-Shotgun Travis,Jordan rush left for 2 yards loss to the FSU25 (Burney,Amari).",rush right
+3600,2,2,0,rush left,8,73,-2,2,"2nd and 8 at FSU27	No Huddle-Shotgun Travis,Jordan rush left for 2 yards loss to the FSU25 (Burney,Amari).",rush left
 3600,3,3,0,pass,10,75,39,-2,"3rd and 10 at FSU25	No Huddle-Shotgun Travis,Jordan pass complete deep middle to Wilson,Ontaria for 29 yards to the FLA46 fumbled by Wilson,Ontaria at FSU47 forced by James,Shemar recovered by FLA Johnson,Tre'Vez at FLA46, End Of Play.",pass
 3600,4,1,0,rush middle,10,54,55,39,"1st and 10 at FSU46	No Huddle-Shotgun Benson,Trey rush middle for 45 yards gain to the FLA09 (Dean III,Trey), 1ST DOWN.",rush middle
 3390,5,1,0,rush right,9,9,69,55,"1st and 9 at FLA9	No Huddle-Shotgun Benson,Trey rush right for 9 yards gain to the FLA00 TOUCHDOWN, clock 11:30.",rush right
@@ -1697,7 +1697,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3374,10,1,0,rush middle,10,46,2,23,"1st and 10 at FLA46	No Huddle-Shotgun Benson,Trey rush middle for 2 yards gain to the FLA44 (Burney,Amari).",rush middle
 3374,11,2,0,rush left,8,44,20,2,"2nd and 8 at FLA44	No Huddle-Shotgun Travis,Jordan rush left for 10 yards gain to the FLA34, out of bounds at FLA34, 1ST DOWN.",rush left
 3374,12,1,0,pass,10,34,0,20,"1st and 10 at FLA34	No Huddle-Shotgun Travis,Jordan pass incomplete short middle to Wilson,Johnny QB hurried by Wingo,Derek.",pass
-3374,13,2,0,rush left,10,34,-2,0,"2nd and 10 at FLA34	No Huddle-Shotgun Toafili,Lawrance rush left for 2 yards loss to the FLA36 (Marshall Jr.,Jason).",pass
+3374,13,2,0,rush left,10,34,-2,0,"2nd and 10 at FLA34	No Huddle-Shotgun Toafili,Lawrance rush left for 2 yards loss to the FLA36 (Marshall Jr.,Jason).",rush right
 3374,14,4,0,pass,12,36,0,-2,"4th and 12 at FLA36	No Huddle-Shotgun Travis,Jordan pass incomplete short right to Wilson,Johnny broken up by Dean III,Trey.",pass
 2946,15,1,-7,rush right,10,75,2,0,"1st and 10 at FSU25	No Huddle-Shotgun Benson,Trey rush right for 2 yards gain to the FSU27 (Dean III,Trey; Wingo,Derek).",rush right
 2946,16,2,-7,rush right,8,73,3,2,"2nd and 8 at FSU27	No Huddle-Shotgun Benson,Trey rush right for 3 yards gain to the FSU30 (Watson,Desmond; Summerall III,Lloyd).",rush right
@@ -1712,7 +1712,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3600,25,2,0,pass,7,34,0,3,"2nd and 7 at FLA34	No Huddle-Shotgun Travis,Jordan pass incomplete short right to Poitier,Kentron.",pass
 3600,26,3,0,rush middle,7,34,27,0,"3rd and 7 at FLA34	No Huddle-Shotgun Toafili,Lawrance rush middle for 17 yards gain to the FLA17 (Dean III,Trey; Johnson,Tre'Vez), 1ST DOWN.",rush middle
 3600,27,1,0,rush left,10,17,0,27,"1st and 10 at FLA17	No Huddle-Shotgun Toafili,Lawrance rush left for 1 yard gain to the FLA16 (Umanmielen,Princely).",rush left
-3600,28,2,0,pass,9,16,-3,0,"2nd and 9 at FLA16	No Huddle-Shotgun Travis,Jordan sacked for loss of 3 yards to the FLA19 (James,Shemar).",rush middle
+3600,28,2,0,pass,9,16,-3,0,"2nd and 9 at FLA16	No Huddle-Shotgun Travis,Jordan sacked for loss of 3 yards to the FLA19 (James,Shemar).",rush right
 3600,29,3,0,pass,12,19,0,-3,"3rd and 12 at FLA19	No Huddle-Shotgun Travis,Jordan pass incomplete short left to McDonald,Camren.",pass
 3395,30,4,0,field goal attempt,12,19,5,0,"4th and 12 at FLA19	Fitzgerald,Ryan field goal attempt from 37 yards NO GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock 11:35.",field goal attempt
 3265,31,1,-7,pass,3,68,44,5,"1st and 3 at FSU32	No Huddle-Shotgun Travis,Jordan pass complete deep middle to Benson,Trey for 34 yards to the FLA34 (Hill,Jaydon; Williams,Scooby), 1ST DOWN.",pass
@@ -1758,17 +1758,17 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1535,71,3,7,pass,10,75,-6,0,"3rd and 10 at FSU25	No Huddle-Shotgun Travis,Jordan sacked for loss of 6 yards to the FSU19 (Powell-Ryland Jr.,Antwaun), fumble by Travis,Jordan recovered by FSU Travis,Jordan at FSU19, End Of Play.",rush left
 1535,72,4,7,punt,16,81,0,-6,"4th and 16 at FSU19	Mastromanno,Alex punt 44 yards to the FLA37 Pearsall,Ricky return 13 yards to the FLA50 (Rosenberry,James; Bethune,Tatum).",punt
 1361,73,1,0,rush left,10,65,8,0,"1st and 10 at FSU35	No Huddle-Shotgun Ward,Treshaun rush left for 8 yards gain to the FSU43 (Wilson,Kamari; Burney,Amari).",rush left
-1361,74,2,0,rush left,2,57,-4,8,"2nd and 2 at FSU43	No Huddle-Shotgun Ward,Treshaun rush left for 4 yards loss to the FSU39 (Umanmielen,Princely; Miller,Ventrell).",rush middle
+1361,74,2,0,rush left,2,57,-4,8,"2nd and 2 at FSU43	No Huddle-Shotgun Ward,Treshaun rush left for 4 yards loss to the FSU39 (Umanmielen,Princely; Miller,Ventrell).",rush left
 1361,75,3,0,pass,6,61,31,-4,"3rd and 6 at FSU39	No Huddle-Shotgun Travis,Jordan pass complete deep left to Wilson,Johnny for 21 yards to the FLA40 (Marshall Jr.,Jason), out of bounds, 1ST DOWN.",pass
 1361,76,1,0,rush middle,10,40,5,31,"1st and 10 at FLA40	No Huddle-Shotgun Travis,Jordan rush middle for 5 yards gain to the FLA35, End Of Play.",rush middle
 1361,77,2,0,rush middle,5,35,2,5,"2nd and 5 at FLA35	No Huddle-Shotgun Travis,Jordan rush middle for 2 yards gain to the FLA33, End Of Play.",rush middle
 1361,78,3,0,rush right,3,33,26,2,"3rd and 3 at FLA33	No Huddle-Shotgun Benson,Trey rush right for 16 yards gain to the FLA17 (Wilson,Kamari), 1ST DOWN.",rush right
 1146,79,1,0,rush middle,10,17,87,26,"1st and 10 at FLA17	No Huddle-Shotgun Benson,Trey rush middle for 17 yards gain to the FLA00 TOUCHDOWN, clock 04:06, 1ST DOWN.",rush middle
 1146,80,1,0,kick attempt,10,3,0,87,"1st and 10 at FLA3	Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
-960,81,1,7,kneel,10,74,-1,0,"1st and 10 at FSU26	Kneel down by Travis,Jordan at FSU25 for loss of 1 yards.",pass
+960,81,1,7,kneel,10,74,-1,0,"1st and 10 at FSU26	Kneel down by Travis,Jordan at FSU25 for loss of 1 yards.",rush left
 3600,1,1,0,pass,10,61,51,-1,"1st and 10 at FSU39	No Huddle-Shotgun Travis,Jordan pass complete deep left to McDonald,Camren for 41 yards to the LOU20 (Perry,Ben), 1ST DOWN.",pass
 3600,2,1,0,rush middle,10,20,2,51,"1st and 10 at LOU20	No Huddle-Shotgun Ward,Treshaun rush middle for 2 yards gain to the LOU18 (Perry,Ben).",rush middle
-3600,3,2,0,pass,8,18,-2,2,"2nd and 8 at LOU18	No Huddle-Shotgun Travis,Jordan pass complete short right to Ward,Treshaun for 2 yards loss to the LOU20 (Abdullah,Yasir).",pass
+3600,3,2,0,pass,8,18,-2,2,"2nd and 8 at LOU18	No Huddle-Shotgun Travis,Jordan pass complete short right to Ward,Treshaun for 2 yards loss to the LOU20 (Abdullah,Yasir).",rush middle
 3600,4,3,0,pass,10,20,28,-2,"3rd and 10 at LOU20	No Huddle-Shotgun Travis,Jordan pass complete deep left to Wilson,Johnny for 18 yards to the LOU02 (Brownlee,Jarvis), 1ST DOWN.",pass
 3361,5,1,0,pass,2,2,62,28,"1st and 2 at LOU2	No Huddle-Shotgun Travis,Jordan pass complete short middle to Daniel,Preston for 2 yards to the LOU00 TOUCHDOWN, clock 11:01.",pass
 3361,6,1,0,kick attempt,10,3,0,62,"1st and 10 at LOU3	Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
@@ -1792,28 +1792,28 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3600,24,2,0,pass,9,91,0,0,"2nd and 9 at FSU9	No Huddle-Shotgun Travis,Jordan pass incomplete short left QB hurried by Brownlee,Jarvis.",pass
 3600,25,3,0,pass,9,91,0,0,"3rd and 9 at FSU9	No Huddle-Shotgun Travis,Jordan pass incomplete short left to Toafili,Lawrance.",pass
 3030,26,1,-7,pass,10,75,21,0,"1st and 10 at FSU25	No Huddle-Shotgun Travis,Jordan pass complete deep middle to Toafili,Lawrance for 11 yards to the FSU36 (Perry,Ben), 1ST DOWN.",pass
-3030,27,1,-7,pass,10,64,-2,21,"1st and 10 at FSU36	No Huddle-Shotgun Travis,Jordan pass complete short right to Toafili,Lawrance for 2 yards loss to the FSU34 (Perry,Ben).",rush right
-3030,28,2,-7,pass,12,66,-10,-2,"2nd and 12 at FSU34	No Huddle-Shotgun Travis,Jordan sacked for loss of 10 yards to the FSU24 (Diaby,YaYa).",rush middle
+3030,27,1,-7,pass,10,64,-2,21,"1st and 10 at FSU36	No Huddle-Shotgun Travis,Jordan pass complete short right to Toafili,Lawrance for 2 yards loss to the FSU34 (Perry,Ben).",rush left
+3030,28,2,-7,pass,12,66,-10,-2,"2nd and 12 at FSU34	No Huddle-Shotgun Travis,Jordan sacked for loss of 10 yards to the FSU24 (Diaby,YaYa).",pass
 3030,29,3,-7,pass,22,76,0,-10,"3rd and 22 at FSU24	No Huddle-Shotgun Rodemaker,Tate pass incomplete short right to Wilson,Johnny.",pass
 3030,30,4,-7,punt,22,76,0,0,"4th and 22 at FSU24	Mastromanno,Alex punt 51 yards to the LOU25 Smith,Braden return 2 yards to the LOU27 (Gant,Brendan).",punt
 3030,31,1,-7,rush left,12,48,38,0,"1st and 12 at LOU48	No Huddle-Shotgun Ward,Treshaun rush left for 28 yards gain to the LOU20 (Perry,Ben), 1ST DOWN.",rush left
-3030,32,1,-7,pass,10,20,-6,38,"1st and 10 at LOU20	No Huddle-Shotgun Rodemaker,Tate pass complete short left to Ward,Treshaun for 6 yards loss to the LOU26 (Abdullah,Yasir; Tell,Dezmond).",rush right
+3030,32,1,-7,pass,10,20,-6,38,"1st and 10 at LOU20	No Huddle-Shotgun Rodemaker,Tate pass complete short left to Ward,Treshaun for 6 yards loss to the LOU26 (Abdullah,Yasir; Tell,Dezmond).",pass
 2743,33,3,-7,pass,26,36,30,-6,"3rd and 26 at LOU36	No Huddle-Shotgun Rodemaker,Tate pass intercepted by Abdullah,Yasir at LOU22 Abdullah,Yasir return 20 yards to the LOU42 (Gibbons,Dillan).",pass
-2722,34,1,-7,kneel,10,92,-2,30,1st and 10 at FSU8	Kneel down by Florida St. at FSU06 for loss of 2 yards.,rush middle
+2722,34,1,-7,kneel,10,92,-2,30,1st and 10 at FSU8	Kneel down by Florida St. at FSU06 for loss of 2 yards.,rush right
 1800,35,1,-7,rush middle,10,75,3,-2,"1st and 10 at FSU25	No Huddle-Shotgun Ward,Treshaun rush middle for 3 yards gain to the FSU28 (Sanogo,MoMo; Tell,Dezmond).",rush middle
 1800,36,2,-7,pass,7,72,32,3,"2nd and 7 at FSU28	No Huddle-Shotgun Rodemaker,Tate pass complete deep middle to Wilson,Johnny for 22 yards to the FSU50 (Brownlee,Jarvis), 1ST DOWN.",pass
 1800,37,1,-7,rush right,10,50,4,32,"1st and 10 at FSU50	No Huddle-Shotgun Ward,Treshaun rush right for 4 yards gain to the LOU46 (Abdullah,Yasir; Montgomery,Monty).",rush right
 1800,38,2,-7,rush right,6,46,5,4,"2nd and 6 at LOU46	No Huddle-Shotgun Benson,Trey rush right for 5 yards gain to the LOU41 (Montgomery,Monty).",rush right
 1800,39,3,-7,rush middle,1,41,13,5,"3rd and 1 at LOU41	No Huddle-Shotgun Benson,Trey rush middle for 3 yards gain to the LOU38 (Dawson,Jared; Cloyd,K.J.), 1ST DOWN.",rush middle
 1800,40,1,-7,pass,10,38,22,13,"1st and 10 at LOU38	No Huddle-Shotgun Rodemaker,Tate pass complete deep middle to Wilson,Ontaria for 12 yards to the LOU26 (Minkins,Josh), 1ST DOWN.",pass
-1800,41,1,-7,rush middle,10,26,-4,22,"1st and 10 at LOU26	No Huddle-Shotgun Benson,Trey rush middle for 4 yards loss to the LOU30 (Reiger,Mason; Harper,Nicario).",pass
+1800,41,1,-7,rush middle,10,26,-4,22,"1st and 10 at LOU26	No Huddle-Shotgun Benson,Trey rush middle for 4 yards loss to the LOU30 (Reiger,Mason; Harper,Nicario).",rush left
 1800,42,2,-7,rush middle,14,30,0,-4,"2nd and 14 at LOU30	No Huddle-Shotgun Toafili,Lawrance rush middle for 0 yards to the LOU30 (Sanogo,MoMo).",rush middle
 1800,43,3,-7,rush right,9,25,20,0,"3rd and 9 at LOU25	No Huddle-Shotgun Rodemaker,Tate rush right for 10 yards gain to the LOU15 (Riley,Quincy), out of bounds, 1ST DOWN.",rush right
 1438,44,1,-7,rush right,10,15,85,20,"1st and 10 at LOU15	No Huddle-Shotgun Toafili,Lawrance rush right for 15 yards gain to the LOU00 TOUCHDOWN, clock 08:58, 1ST DOWN.",rush right
 1438,45,1,-7,kick attempt,10,3,0,85,"1st and 10 at LOU3	Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
 1438,46,1,0,rush middle,10,83,8,0,"1st and 10 at FSU17	No Huddle-Shotgun Ward,Treshaun rush middle for 8 yards gain to the FSU25 (Minkins,Josh; Duncan,Kenderick).",rush middle
 1438,47,2,0,rush right,2,75,0,8,"2nd and 2 at FSU25	No Huddle-Shotgun Ward,Treshaun rush right for 0 yards to the FSU25 (Puryear,Ramon; Perry,Ben).",rush right
-1438,48,3,0,pass,2,75,-4,0,"3rd and 2 at FSU25	No Huddle-Shotgun Rodemaker,Tate sacked for loss of 4 yards to the FSU21 (Tell,Dezmond).",rush middle
+1438,48,3,0,pass,2,75,-4,0,"3rd and 2 at FSU25	No Huddle-Shotgun Rodemaker,Tate sacked for loss of 4 yards to the FSU21 (Tell,Dezmond).",rush left
 1438,49,4,0,punt,6,79,0,-4,"4th and 6 at FSU21	Mastromanno,Alex punt 46 yards to the LOU33 Smith,Braden return 12 yards to the LOU45 (Daniel,Preston), out of bounds.",punt
 1438,50,1,0,rush middle,10,90,0,0,"1st and 10 at FSU10	No Huddle-Shotgun Benson,Trey rush middle for 0 yards to the FSU10 (Duncan,Kenderick; Sanogo,MoMo).",rush middle
 1438,51,2,0,rush middle,10,90,0,0,"2nd and 10 at FSU10	No Huddle-Shotgun Benson,Trey rush middle for 1 yard gain to the FSU11 (Sanogo,MoMo).",rush middle
@@ -1837,7 +1837,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1374,69,2,4,rush left,10,23,2,0,"2nd and 10 at LOU23	No Huddle-Shotgun Toafili,Lawrance rush left for 2 yards gain to the LOU21 (Abdullah,Yasir).",rush left
 1014,70,3,4,rush middle,8,21,3,2,"3rd and 8 at LOU21	No Huddle-Shotgun Benson,Trey rush middle for 3 yards gain to the LOU18 (Sanogo,MoMo; Tell,Dezmond).",rush middle
 1004,71,4,4,field goal attempt,5,18,5,3,"4th and 5 at LOU18	Fitzgerald,Ryan field goal attempt from 36 yards NO GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock 01:44.",field goal attempt
-1004,72,1,4,kneel,10,62,-3,5,1st and 10 at FSU38	Kneel down by Florida St. at FSU35 for loss of 3 yards.,rush middle
+1004,72,1,4,kneel,10,62,-3,5,1st and 10 at FSU38	Kneel down by Florida St. at FSU35 for loss of 3 yards.,pass
 3600,1,1,0,pass,5,71,30,-3,"1st and 5 at FSU29 No Huddle Travis,Jordan pass complete short left to Benson,Trey for 20 yards to the FSU49 (Lawrence,Dylan;",pass
 3600,2,1,0,rush middle,10,51,4,30,"1st and 10 at FSU49 No Huddle-Shotgun Benson,Trey rush middle for 4 yards gain to the USM47 (Lawrence,Dylan; Williams,Jalen).",rush middle
 3600,3,2,0,rush left,6,47,3,4,"2nd and 6 at USM47 No Huddle-Shotgun Benson,Trey rush left for 3 yards gain to the USM44 (Clemons,Jalil).",rush left
@@ -1848,7 +1848,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3600,8,2,0,pass,3,10,10,2,"2nd and 3 at USM10 No Huddle-Shotgun Travis,Jordan pass complete short middle to Williamson,Darion for 10 yards to the USM00",pass
 3389,9,1,0,kick attempt,10,3,0,10,"1st and 10 at USM3 Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Arnold,Mason).",kick attempt
 3389,10,1,7,rush right,10,57,6,0,"1st and 10 at FSU43 No Huddle-Shotgun Hill,Rodney rush right for 6 yards gain to the FSU49 (Stanley,Jay).",rush right
-3389,11,2,7,pass,4,51,-2,6,"2nd and 4 at FSU49 No Huddle-Shotgun Travis,Jordan sacked for loss of 2 yards to the FSU47 (Williams,Jalen, Booth,Kristin).",rush middle
+3389,11,2,7,pass,4,51,-2,6,"2nd and 4 at FSU49 No Huddle-Shotgun Travis,Jordan sacked for loss of 2 yards to the FSU47 (Williams,Jalen, Booth,Kristin).",rush right
 3389,12,3,7,pass,6,53,0,-2,"3rd and 6 at FSU47 No Huddle-Shotgun Travis,Jordan pass incomplete short left to Wilson,Johnny.",pass
 3389,13,4,7,punt,6,53,0,0,"4th and 6 at FSU47 Mastromanno,Alex punt 53 yards to the USM00, Touchback.",punt
 3389,14,1,7,pass,10,53,0,0,"1st and 10 at FSU47 (08:07) No Huddle-Shotgun Travis,Jordan pass incomplete deep left to Wilson,Johnny broken up by",pass
@@ -1910,7 +1910,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 900,70,2,42,pass,7,13,23,3,"2nd and 7 at USM13 No Huddle-Shotgun Rodemaker,Tate pass complete short right to Jacobs,Vandrevius for 13 yards to the USM00",pass
 849,71,1,42,kick attempt,10,3,0,23,"1st and 10 at USM3 Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
 849,72,1,49,rush left,10,72,44,0,"1st and 10 at FSU28 No Huddle-Shotgun Glenn,Brock rush left for 34 yards gain to the USM38 (Robinson,Jeremiah), out of bounds,",rush left
-849,73,1,49,rush right,10,38,-2,44,"1st and 10 at USM38 No Huddle-Shotgun Glenn,Brock rush right for 2 yards loss to the USM40 (Gregory,Arian; Carter,Kyler).",rush middle
+849,73,1,49,rush right,10,38,-2,44,"1st and 10 at USM38 No Huddle-Shotgun Glenn,Brock rush right for 2 yards loss to the USM40 (Gregory,Arian; Carter,Kyler).",pass
 660,74,2,49,rush right,12,40,110,-2,"2nd and 12 at USM40 No Huddle-Shotgun Holmes,Caziah rush right for 40 yards gain to the USM00 TOUCHDOWN, clock 11:00, 1ST",rush right
 660,75,1,49,kick attempt,10,3,0,110,"1st and 10 at USM3 Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
 332,76,1,53,rush middle,10,75,4,0,"1st and 10 at FSU25 No Huddle-Shotgun Campbell Jr.,CJ rush middle for 4 yards gain to the FSU29 (Clemons,Jalil).",rush middle
@@ -1939,10 +1939,10 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 2846,18,1,7,pass,5,15,85,26,"1st and 5 at SYR15	No Huddle-Shotgun Travis,Jordan pass complete deep left to McClain,Malik for 15 yards to the SYR00 TOUCHDOWN, clock 02:26, 1ST DOWN.",pass
 2846,19,1,7,kick attempt,10,3,0,85,"1st and 10 at SYR3	Fitzgerald,Ryan kick attempt good (H: Mastromanno,Alex, LS: Rosenberry,James).",kick attempt
 3512,20,1,11,rush left,10,75,4,0,"1st and 10 at FSU25	No Huddle-Shotgun Benson,Trey rush left for 4 yards gain to the FSU29 (Simmons Jr.,Jason).",rush left
-3512,21,2,11,pass,6,71,-6,4,"2nd and 6 at FSU29	No Huddle-Shotgun Travis,Jordan sacked for loss of 6 yards to the FSU23 (McDonald,Derek), fumble by Travis,Jordan recovered by SYR Barron,Justin at FSU23, End Of Play.",rush middle
+3512,21,2,11,pass,6,71,-6,4,"2nd and 6 at FSU29	No Huddle-Shotgun Travis,Jordan sacked for loss of 6 yards to the FSU23 (McDonald,Derek), fumble by Travis,Jordan recovered by SYR Barron,Justin at FSU23, End Of Play.",rush right
 3360,22,1,11,rush middle,10,65,5,-6,"1st and 10 at FSU35	No Huddle-Shotgun Benson,Trey rush middle for 5 yards gain to the FSU40 (Darton,Kevon).",rush middle
 3360,23,2,11,rush middle,5,60,17,5,"2nd and 5 at FSU40	No Huddle-Shotgun Benson,Trey rush middle for 7 yards gain to the FSU47 (Johnson,Isaiah), 1ST DOWN.",rush middle
-3360,24,1,11,pass,10,53,-3,17,"1st and 10 at FSU47	No Huddle-Shotgun Travis,Jordan pass complete short right to Toafili,Lawrance for 3 yards loss to the FSU44 (Simmons Jr.,Jason).",rush left
+3360,24,1,11,pass,10,53,-3,17,"1st and 10 at FSU47	No Huddle-Shotgun Travis,Jordan pass complete short right to Toafili,Lawrance for 3 yards loss to the FSU44 (Simmons Jr.,Jason).",pass
 3360,25,2,11,pass,13,56,0,-3,"2nd and 13 at FSU44	No Huddle-Shotgun Travis,Jordan pass complete short right to Benson,Trey for 1 yard loss to the FSU43 (Okechukwu,Caleb).",pass
 3360,26,3,11,pass,14,57,7,0,"3rd and 14 at FSU43	No Huddle-Shotgun Travis,Jordan pass complete short left to Douglas,Markeston for 7 yards to the FSU50, End Of Play.",pass
 3360,27,4,11,punt,7,50,0,7,"4th and 7 at FSU50	Mastromanno,Alex punt 45 yards to the SYR05 fair catch by Pena,Trebor at SYR05.",punt
@@ -1958,7 +1958,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 3047,37,1,18,rush middle,10,26,5,21,"1st and 10 at SYR26	No Huddle-Shotgun Benson,Trey rush middle for 5 yards gain to the SYR21 (Wax,Marlowe).",rush middle
 3047,38,2,18,pass,5,21,20,5,"2nd and 5 at SYR21	No Huddle-Shotgun Travis,Jordan pass complete short right to Douglas,Markeston for 10 yards to the SYR11 (Sparrow,Anwar), 1ST DOWN.",pass
 2720,39,1,18,pass,10,11,4,20,"1st and 10 at SYR11	No Huddle-Shotgun Travis,Jordan pass complete short right to Pittman,Mycah for 4 yards to the SYR07 (Clark,Alijah).",pass
-2713,40,2,18,pass,6,7,-5,4,"2nd and 6 at SYR7	No Huddle-Shotgun Travis,Jordan sacked for loss of 5 yards to the SYR12 (Jones,Mikel).",rush left
+2713,40,2,18,pass,6,7,-5,4,"2nd and 6 at SYR7	No Huddle-Shotgun Travis,Jordan sacked for loss of 5 yards to the SYR12 (Jones,Mikel).",pass
 2700,41,3,18,field goal attempt,21,22,5,-5,"3rd and 21 at SYR22	Fitzgerald,Ryan field goal attempt from 40 yards GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock 00:00.",field goal attempt
 1800,42,1,21,pass,10,42,0,5,"1st and 10 at SYR42	No Huddle-Shotgun Travis,Jordan pass incomplete short middle to Wilson,Johnny.",pass
 1800,43,2,21,rush left,10,42,34,0,"2nd and 10 at SYR42	No Huddle-Shotgun Benson,Trey rush left for 24 yards gain to the SYR18 (Barron,Justin), 1ST DOWN.",rush left
@@ -1981,7 +1981,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1221,60,1,35,rush left,10,62,27,0,"1st and 10 at FSU38	No Huddle-Shotgun Benson,Trey rush left for 17 yards gain to the SYR45 (Coley,Eric), 1ST DOWN.",rush left
 1221,61,1,35,rush middle,10,45,5,27,"1st and 10 at SYR45	No Huddle-Shotgun Benson,Trey rush middle for 5 yards gain to the SYR40 (Jones,Mikel; Barron,Justin).",rush middle
 1221,62,2,35,pass,5,40,20,5,"2nd and 5 at SYR40	No Huddle-Shotgun Rodemaker,Tate pass complete short middle to Douglas,Ja'Khi for 10 yards to the SYR30 (Coley,Eric), 1ST DOWN.",pass
-1221,63,1,35,pass,10,30,-8,20,"1st and 10 at SYR30	No Huddle-Shotgun Rodemaker,Tate sacked for loss of 8 yards to the SYR38 (Wax,Marlowe).",pass
+1221,63,1,35,pass,10,30,-8,20,"1st and 10 at SYR30	No Huddle-Shotgun Rodemaker,Tate sacked for loss of 8 yards to the SYR38 (Wax,Marlowe).",rush right
 1221,64,2,35,rush middle,18,38,5,-8,"2nd and 18 at SYR38	No Huddle-Shotgun Benson,Trey rush middle for 5 yards gain to the SYR33 (McDonald,Derek; Barron,Justin).",rush middle
 1221,65,3,35,pass,13,33,0,5,"3rd and 13 at SYR33	No Huddle-Shotgun Rodemaker,Tate pass incomplete short right QB hurried by Jones,Mikel.",pass
 911,66,4,35,field goal attempt,13,33,5,0,"4th and 13 at SYR33	Fitzgerald,Ryan field goal attempt from 51 yards NO GOOD (H: Mastromanno,Alex, LS: Rosenberry,James), clock 00:11, End Of Play.",field goal attempt
@@ -1995,7 +1995,7 @@ Time Remaining,Play Number,Down,Score Difference,Play Type,Distance to First,Dis
 1800,74,1,35,rush middle,10,50,4,22,"1st and 10 at FSU50	No Huddle-Shotgun Campbell,CJ rush middle for 4 yards gain to the SYR46 (Oliver,Bralyn; Clark,Alijah).",rush middle
 1800,75,2,35,rush middle,6,46,0,4,"2nd and 6 at SYR46	No Huddle-Shotgun Campbell,CJ rush middle for 1 yard loss to the SYR47 (Geer,Jatius).",rush middle
 1800,76,3,35,pass,7,47,34,0,"3rd and 7 at SYR47	No Huddle-Shotgun Rodemaker,Tate pass complete deep left to Poitier,Kentron for 24 yards to the SYR23, out of bounds at SYR23, 1ST DOWN.",pass
-1800,77,1,35,rush right,15,28,-2,34,"1st and 15 at SYR28	No Huddle-Shotgun Campbell,CJ rush right for 2 yards loss to the SYR30 (Jobity Jr.,Kevin).",pass
+1800,77,1,35,rush right,15,28,-2,34,"1st and 15 at SYR28	No Huddle-Shotgun Campbell,CJ rush right for 2 yards loss to the SYR30 (Jobity Jr.,Kevin).",rush middle
 1800,78,2,35,rush middle,17,30,0,-2,"2nd and 17 at SYR30	No Huddle-Shotgun Campbell,CJ rush middle for 1 yard gain to the SYR29 (Jones,Mikel; Simmons Jr.,Jason).",rush middle
 1800,79,3,35,pass,16,29,0,0,"3rd and 16 at SYR29	No Huddle-Shotgun Rodemaker,Tate pass incomplete short left to McClain,Malik.",pass
 1800,80,4,35,pass,21,34,0,0,"4th and 21 at SYR34	No Huddle-Shotgun Rodemaker,Tate pass incomplete short middle to McClain,Malik.",pass
